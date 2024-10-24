@@ -1,0 +1,2892 @@
+Classification report for category_tnk_1:
+                   precision    recall  f1-score   support
+
+category_tnk_1_-1       0.53      0.53      0.53        30
+ category_tnk_1_0       0.43      0.34      0.38        29
+ category_tnk_1_1       0.35      0.42      0.38        31
+
+         accuracy                           0.43        90
+        macro avg       0.44      0.43      0.43        90
+     weighted avg       0.44      0.43      0.43        90
+
+
+Classification report for category_tnk_2:
+                   precision    recall  f1-score   support
+
+category_tnk_2_-1       0.50      0.48      0.49        29
+ category_tnk_2_0       0.45      0.52      0.48        29
+ category_tnk_2_1       0.48      0.44      0.46        32
+
+         accuracy                           0.48        90
+        macro avg       0.48      0.48      0.48        90
+     weighted avg       0.48      0.48      0.48        90
+
+
+Classification report for category_tnk_3:
+                   precision    recall  f1-score   support
+
+category_tnk_3_-1       0.46      0.41      0.43        32
+ category_tnk_3_0       0.38      0.32      0.35        28
+ category_tnk_3_1       0.39      0.50      0.44        30
+
+         accuracy                           0.41        90
+        macro avg       0.41      0.41      0.41        90
+     weighted avg       0.41      0.41      0.41        90
+
+
+Classification report for category_tnk_4:
+                   precision    recall  f1-score   support
+
+category_tnk_4_-1       0.24      0.30      0.26        27
+ category_tnk_4_0       0.27      0.17      0.21        35
+ category_tnk_4_1       0.29      0.36      0.32        28
+
+         accuracy                           0.27        90
+        macro avg       0.27      0.27      0.27        90
+     weighted avg       0.27      0.27      0.26        90
+
+
+Classification report for category_tnk_5:
+                   precision    recall  f1-score   support
+
+category_tnk_5_-1       0.47      0.52      0.49        27
+ category_tnk_5_0       0.43      0.38      0.40        32
+ category_tnk_5_1       0.44      0.45      0.44        31
+
+         accuracy                           0.44        90
+        macro avg       0.44      0.45      0.45        90
+     weighted avg       0.44      0.44      0.44        90
+
+
+Classification report for category_tnk_6:
+                   precision    recall  f1-score   support
+
+category_tnk_6_-1       0.44      0.35      0.39        34
+ category_tnk_6_0       0.26      0.26      0.26        27
+ category_tnk_6_1       0.33      0.41      0.37        29
+
+         accuracy                           0.34        90
+        macro avg       0.35      0.34      0.34        90
+     weighted avg       0.35      0.34      0.35        90
+
+
+Classification report for category_tnk_7:
+                   precision    recall  f1-score   support
+
+category_tnk_7_-1       0.43      0.25      0.32        36
+ category_tnk_7_0       0.19      0.27      0.22        22
+ category_tnk_7_1       0.38      0.44      0.41        32
+
+         accuracy                           0.32        90
+        macro avg       0.33      0.32      0.31        90
+     weighted avg       0.35      0.32      0.32        90
+
+
+Classification report for category_tnk_8:
+                   precision    recall  f1-score   support
+
+category_tnk_8_-1       0.45      0.45      0.45        29
+ category_tnk_8_0       0.41      0.35      0.38        31
+ category_tnk_8_1       0.38      0.43      0.41        30
+
+         accuracy                           0.41        90
+        macro avg       0.41      0.41      0.41        90
+     weighted avg       0.41      0.41      0.41        90
+
+
+Classification report for category_tnk_9:
+                   precision    recall  f1-score   support
+
+category_tnk_9_-1       0.36      0.24      0.29        34
+ category_tnk_9_0       0.27      0.22      0.24        32
+ category_tnk_9_1       0.31      0.54      0.39        24
+
+         accuracy                           0.31        90
+        macro avg       0.31      0.33      0.31        90
+     weighted avg       0.32      0.31      0.30        90
+
+
+Classification report for category_tnk_10:
+                    precision    recall  f1-score   support
+
+category_tnk_10_-1       0.51      0.58      0.55        31
+ category_tnk_10_0       0.25      0.22      0.24        27
+ category_tnk_10_1       0.48      0.47      0.48        32
+
+          accuracy                           0.43        90
+         macro avg       0.42      0.42      0.42        90
+      weighted avg       0.42      0.43      0.43        90
+
+
+Classification report for category_tnk_11:
+                    precision    recall  f1-score   support
+
+category_tnk_11_-1       0.50      0.44      0.47        32
+ category_tnk_11_0       0.31      0.39      0.35        28
+ category_tnk_11_1       0.44      0.40      0.42        30
+
+          accuracy                           0.41        90
+         macro avg       0.42      0.41      0.41        90
+      weighted avg       0.42      0.41      0.41        90
+
+
+Classification report for category_tnk_12:
+                    precision    recall  f1-score   support
+
+category_tnk_12_-1       0.47      0.55      0.51        29
+ category_tnk_12_0       0.46      0.32      0.38        34
+ category_tnk_12_1       0.38      0.44      0.41        27
+
+          accuracy                           0.43        90
+         macro avg       0.43      0.44      0.43        90
+      weighted avg       0.44      0.43      0.43        90
+
+
+Classification report for category_tnk_13:
+                    precision    recall  f1-score   support
+
+category_tnk_13_-1       0.54      0.67      0.60        30
+ category_tnk_13_0       0.41      0.58      0.48        24
+ category_tnk_13_1       0.53      0.28      0.36        36
+
+          accuracy                           0.49        90
+         macro avg       0.49      0.51      0.48        90
+      weighted avg       0.50      0.49      0.47        90
+
+
+Classification report for category_tnk_14:
+                    precision    recall  f1-score   support
+
+category_tnk_14_-1       0.39      0.37      0.38        30
+ category_tnk_14_0       0.31      0.41      0.35        27
+ category_tnk_14_1       0.44      0.36      0.40        33
+
+          accuracy                           0.38        90
+         macro avg       0.38      0.38      0.38        90
+      weighted avg       0.39      0.38      0.38        90
+
+
+Classification report for category_tnk_15:
+                    precision    recall  f1-score   support
+
+category_tnk_15_-1       0.51      0.71      0.59        31
+ category_tnk_15_0       0.50      0.23      0.31        35
+ category_tnk_15_1       0.45      0.58      0.51        24
+
+          accuracy                           0.49        90
+         macro avg       0.49      0.51      0.47        90
+      weighted avg       0.49      0.49      0.46        90
+
+
+Classification report for category_tnk_16:
+                    precision    recall  f1-score   support
+
+category_tnk_16_-1       0.36      0.36      0.36        28
+ category_tnk_16_0       0.33      0.27      0.30        33
+ category_tnk_16_1       0.37      0.45      0.41        29
+
+          accuracy                           0.36        90
+         macro avg       0.35      0.36      0.35        90
+      weighted avg       0.35      0.36      0.35        90
+
+
+Classification report for category_tnk_17:
+                    precision    recall  f1-score   support
+
+category_tnk_17_-1       0.50      0.24      0.33        37
+ category_tnk_17_0       0.17      0.28      0.22        25
+ category_tnk_17_1       0.22      0.25      0.23        28
+
+          accuracy                           0.26        90
+         macro avg       0.30      0.26      0.26        90
+      weighted avg       0.32      0.26      0.27        90
+
+
+Classification report for category_tnk_18:
+                    precision    recall  f1-score   support
+
+category_tnk_18_-1       0.37      0.30      0.33        33
+ category_tnk_18_0       0.38      0.29      0.33        31
+ category_tnk_18_1       0.26      0.38      0.31        26
+
+          accuracy                           0.32        90
+         macro avg       0.33      0.33      0.32        90
+      weighted avg       0.34      0.32      0.32        90
+
+
+Classification report for category_tnk_19:
+                    precision    recall  f1-score   support
+
+category_tnk_19_-1       0.44      0.31      0.37        35
+ category_tnk_19_0       0.26      0.27      0.26        26
+ category_tnk_19_1       0.42      0.55      0.48        29
+
+          accuracy                           0.38        90
+         macro avg       0.37      0.38      0.37        90
+      weighted avg       0.38      0.38      0.37        90
+
+
+Classification report for category_tnk_20:
+                    precision    recall  f1-score   support
+
+category_tnk_20_-1       0.56      0.54      0.55        35
+ category_tnk_20_0       0.28      0.35      0.31        23
+ category_tnk_20_1       0.48      0.41      0.44        32
+
+          accuracy                           0.44        90
+         macro avg       0.44      0.43      0.43        90
+      weighted avg       0.46      0.44      0.45        90
+
+
+Classification report for category_tnk_22:
+                    precision    recall  f1-score   support
+
+category_tnk_22_-1       0.43      0.68      0.53        28
+ category_tnk_22_0       0.31      0.31      0.31        29
+ category_tnk_22_1       0.35      0.18      0.24        33
+
+          accuracy                           0.38        90
+         macro avg       0.37      0.39      0.36        90
+      weighted avg       0.36      0.38      0.35        90
+
+
+Classification report for category_tnk_23:
+                    precision    recall  f1-score   support
+
+category_tnk_23_-1       0.28      0.26      0.27        31
+ category_tnk_23_0       0.41      0.44      0.42        32
+ category_tnk_23_1       0.26      0.26      0.26        27
+
+          accuracy                           0.32        90
+         macro avg       0.32      0.32      0.32        90
+      weighted avg       0.32      0.32      0.32        90
+
+
+Classification report for category_tnk_26:
+                    precision    recall  f1-score   support
+
+category_tnk_26_-1       0.64      0.47      0.54        34
+ category_tnk_26_0       0.36      0.29      0.32        28
+ category_tnk_26_1       0.33      0.50      0.39        28
+
+          accuracy                           0.42        90
+         macro avg       0.44      0.42      0.42        90
+      weighted avg       0.46      0.42      0.43        90
+
+
+Classification report for category_tnk_29:
+                    precision    recall  f1-score   support
+
+category_tnk_29_-1       0.61      0.52      0.56        33
+ category_tnk_29_0       0.29      0.65      0.40        20
+ category_tnk_29_1       0.53      0.24      0.33        37
+
+          accuracy                           0.43        90
+         macro avg       0.48      0.47      0.43        90
+      weighted avg       0.50      0.43      0.43        90
+
+
+Classification report for category_tnk_32:
+                    precision    recall  f1-score   support
+
+category_tnk_32_-1       0.48      0.50      0.49        32
+ category_tnk_32_0       0.35      0.27      0.30        30
+ category_tnk_32_1       0.38      0.46      0.42        28
+
+          accuracy                           0.41        90
+         macro avg       0.41      0.41      0.40        90
+      weighted avg       0.41      0.41      0.41        90
+
+
+Classification report for category_tnk_33:
+                    precision    recall  f1-score   support
+
+category_tnk_33_-1       0.59      0.38      0.46        34
+ category_tnk_33_0       0.36      0.33      0.35        27
+ category_tnk_33_1       0.35      0.52      0.42        29
+
+          accuracy                           0.41        90
+         macro avg       0.43      0.41      0.41        90
+      weighted avg       0.44      0.41      0.41        90
+
+
+Classification report for category_tnk_35:
+                    precision    recall  f1-score   support
+
+category_tnk_35_-1       0.64      0.47      0.54        34
+ category_tnk_35_0       0.29      0.48      0.36        25
+ category_tnk_35_1       0.48      0.35      0.41        31
+
+          accuracy                           0.43        90
+         macro avg       0.47      0.44      0.44        90
+      weighted avg       0.49      0.43      0.44        90
+
+
+Classification report for category_tnk_38:
+                    precision    recall  f1-score   support
+
+category_tnk_38_-1       0.43      0.41      0.42        29
+ category_tnk_38_0       0.29      0.39      0.33        28
+ category_tnk_38_1       0.33      0.24      0.28        33
+
+          accuracy                           0.34        90
+         macro avg       0.35      0.35      0.35        90
+      weighted avg       0.35      0.34      0.34        90
+
+
+Classification report for category_tnk_41:
+                    precision    recall  f1-score   support
+
+category_tnk_41_-1       0.58      0.67      0.62        33
+ category_tnk_41_0       0.38      0.30      0.33        27
+ category_tnk_41_1       0.42      0.43      0.43        30
+
+          accuracy                           0.48        90
+         macro avg       0.46      0.47      0.46        90
+      weighted avg       0.47      0.48      0.47        90
+
+
+Classification report for category_tnk_42:
+                    precision    recall  f1-score   support
+
+category_tnk_42_-1       0.63      0.71      0.67        34
+ category_tnk_42_0       0.19      0.20      0.20        25
+ category_tnk_42_1       0.23      0.19      0.21        31
+
+          accuracy                           0.39        90
+         macro avg       0.35      0.37      0.36        90
+      weighted avg       0.37      0.39      0.38        90
+
+
+Classification report for category_tnk_44:
+                    precision    recall  f1-score   support
+
+category_tnk_44_-1       0.39      0.39      0.39        31
+ category_tnk_44_0       0.34      0.32      0.33        31
+ category_tnk_44_1       0.33      0.36      0.34        28
+
+          accuracy                           0.36        90
+         macro avg       0.36      0.36      0.36        90
+      weighted avg       0.36      0.36      0.36        90
+
+
+Classification report for category_tnk_50:
+                    precision    recall  f1-score   support
+
+category_tnk_50_-1       0.54      0.62      0.58        32
+ category_tnk_50_0       0.25      0.33      0.29        24
+ category_tnk_50_1       0.38      0.24      0.29        34
+
+          accuracy                           0.40        90
+         macro avg       0.39      0.40      0.39        90
+      weighted avg       0.40      0.40      0.39        90
+
+
+Classification report for category_tnk_51:
+                    precision    recall  f1-score   support
+
+category_tnk_51_-1       0.61      0.61      0.61        33
+ category_tnk_51_0       0.28      0.41      0.33        22
+ category_tnk_51_1       0.52      0.37      0.43        35
+
+          accuracy                           0.47        90
+         macro avg       0.47      0.46      0.46        90
+      weighted avg       0.49      0.47      0.47        90
+
+
+Classification report for category_tnk_52:
+                    precision    recall  f1-score   support
+
+category_tnk_52_-1       0.65      0.59      0.62        34
+ category_tnk_52_0       0.33      0.42      0.37        24
+ category_tnk_52_1       0.48      0.44      0.46        32
+
+          accuracy                           0.49        90
+         macro avg       0.49      0.48      0.48        90
+      weighted avg       0.50      0.49      0.49        90
+
+
+Classification report for category_tnk_56:
+                    precision    recall  f1-score   support
+
+category_tnk_56_-1       0.57      0.52      0.54        33
+ category_tnk_56_0       0.38      0.42      0.40        26
+ category_tnk_56_1       0.42      0.42      0.42        31
+
+          accuracy                           0.46        90
+         macro avg       0.46      0.45      0.45        90
+      weighted avg       0.46      0.46      0.46        90
+
+
+Classification report for category_tnk_57:
+                    precision    recall  f1-score   support
+
+category_tnk_57_-1       0.38      0.35      0.37        31
+ category_tnk_57_0       0.38      0.40      0.39        30
+ category_tnk_57_1       0.28      0.28      0.28        29
+
+          accuracy                           0.34        90
+         macro avg       0.34      0.34      0.34        90
+      weighted avg       0.34      0.34      0.34        90
+
+
+Classification report for category_tnk_66:
+                    precision    recall  f1-score   support
+
+category_tnk_66_-1       0.44      0.47      0.45        30
+ category_tnk_66_0       0.39      0.52      0.44        27
+ category_tnk_66_1       0.41      0.27      0.33        33
+
+          accuracy                           0.41        90
+         macro avg       0.41      0.42      0.41        90
+      weighted avg       0.41      0.41      0.40        90
+
+
+Classification report for category_tnk_67:
+                    precision    recall  f1-score   support
+
+category_tnk_67_-1       0.55      0.53      0.54        30
+ category_tnk_67_0       0.31      0.39      0.34        28
+ category_tnk_67_1       0.52      0.41      0.46        32
+
+          accuracy                           0.44        90
+         macro avg       0.46      0.44      0.45        90
+      weighted avg       0.46      0.44      0.45        90
+
+
+Classification report for category_b_1:
+                 precision    recall  f1-score   support
+
+category_b_1_-1       0.54      0.47      0.50        32
+ category_b_1_0       0.38      0.44      0.41        25
+ category_b_1_1       0.42      0.42      0.42        33
+
+       accuracy                           0.44        90
+      macro avg       0.45      0.44      0.44        90
+   weighted avg       0.45      0.44      0.45        90
+
+
+Classification report for category_b_2:
+                 precision    recall  f1-score   support
+
+category_b_2_-1       0.47      0.47      0.47        30
+ category_b_2_0       0.38      0.41      0.39        27
+ category_b_2_1       0.35      0.33      0.34        33
+
+       accuracy                           0.40        90
+      macro avg       0.40      0.40      0.40        90
+   weighted avg       0.40      0.40      0.40        90
+
+
+Classification report for category_b_3:
+                 precision    recall  f1-score   support
+
+category_b_3_-1       0.62      0.55      0.58        29
+ category_b_3_0       0.52      0.53      0.52        30
+ category_b_3_1       0.39      0.42      0.41        31
+
+       accuracy                           0.50        90
+      macro avg       0.51      0.50      0.50        90
+   weighted avg       0.51      0.50      0.50        90
+
+
+Classification report for category_b_4:
+                 precision    recall  f1-score   support
+
+category_b_4_-1       0.52      0.47      0.49        30
+ category_b_4_0       0.41      0.38      0.39        32
+ category_b_4_1       0.35      0.43      0.39        28
+
+       accuracy                           0.42        90
+      macro avg       0.43      0.42      0.42        90
+   weighted avg       0.43      0.42      0.42        90
+
+
+Classification report for category_b_5:
+                 precision    recall  f1-score   support
+
+category_b_5_-1       0.54      0.44      0.48        34
+ category_b_5_0       0.26      0.36      0.30        25
+ category_b_5_1       0.37      0.32      0.34        31
+
+       accuracy                           0.38        90
+      macro avg       0.39      0.37      0.38        90
+   weighted avg       0.40      0.38      0.38        90
+
+
+Classification report for category_b_6:
+                 precision    recall  f1-score   support
+
+category_b_6_-1       0.55      0.53      0.54        30
+ category_b_6_0       0.30      0.33      0.32        27
+ category_b_6_1       0.48      0.45      0.47        33
+
+       accuracy                           0.44        90
+      macro avg       0.45      0.44      0.44        90
+   weighted avg       0.45      0.44      0.45        90
+
+
+Classification report for category_b_7:
+                 precision    recall  f1-score   support
+
+category_b_7_-1       0.34      0.32      0.33        31
+ category_b_7_0       0.37      0.38      0.38        26
+ category_b_7_1       0.41      0.42      0.42        33
+
+       accuracy                           0.38        90
+      macro avg       0.38      0.38      0.38        90
+   weighted avg       0.38      0.38      0.38        90
+
+
+Classification report for category_b_8:
+                 precision    recall  f1-score   support
+
+category_b_8_-1       0.37      0.52      0.43        29
+ category_b_8_0       0.32      0.23      0.27        30
+ category_b_8_1       0.44      0.39      0.41        31
+
+       accuracy                           0.38        90
+      macro avg       0.38      0.38      0.37        90
+   weighted avg       0.38      0.38      0.37        90
+
+
+Classification report for category_b_9:
+                 precision    recall  f1-score   support
+
+category_b_9_-1       0.46      0.48      0.47        33
+ category_b_9_0       0.41      0.23      0.30        30
+ category_b_9_1       0.39      0.56      0.46        27
+
+       accuracy                           0.42        90
+      macro avg       0.42      0.42      0.41        90
+   weighted avg       0.42      0.42      0.41        90
+
+
+Classification report for category_b_10:
+                  precision    recall  f1-score   support
+
+category_b_10_-1       0.36      0.31      0.33        32
+ category_b_10_0       0.35      0.37      0.36        30
+ category_b_10_1       0.32      0.36      0.34        28
+
+        accuracy                           0.34        90
+       macro avg       0.34      0.35      0.34        90
+    weighted avg       0.35      0.34      0.34        90
+
+
+Classification report for category_b_11:
+                  precision    recall  f1-score   support
+
+category_b_11_-1       0.47      0.45      0.46        31
+ category_b_11_0       0.45      0.43      0.44        30
+ category_b_11_1       0.39      0.41      0.40        29
+
+        accuracy                           0.43        90
+       macro avg       0.43      0.43      0.43        90
+    weighted avg       0.43      0.43      0.43        90
+
+
+Classification report for category_b_12:
+                  precision    recall  f1-score   support
+
+category_b_12_-1       0.52      0.52      0.52        33
+ category_b_12_0       0.52      0.48      0.50        27
+ category_b_12_1       0.50      0.53      0.52        30
+
+        accuracy                           0.51        90
+       macro avg       0.51      0.51      0.51        90
+    weighted avg       0.51      0.51      0.51        90
+
+
+Classification report for category_b_14:
+                  precision    recall  f1-score   support
+
+category_b_14_-1       0.44      0.61      0.51        28
+ category_b_14_0       0.36      0.28      0.31        29
+ category_b_14_1       0.52      0.45      0.48        33
+
+        accuracy                           0.44        90
+       macro avg       0.44      0.45      0.44        90
+    weighted avg       0.44      0.44      0.44        90
+
+
+Classification report for category_b_15:
+                  precision    recall  f1-score   support
+
+category_b_15_-1       0.42      0.59      0.49        27
+ category_b_15_0       0.27      0.20      0.23        30
+ category_b_15_1       0.47      0.42      0.44        33
+
+        accuracy                           0.40        90
+       macro avg       0.39      0.41      0.39        90
+    weighted avg       0.39      0.40      0.39        90
+
+
+Classification report for category_b_16:
+                  precision    recall  f1-score   support
+
+category_b_16_-1       0.52      0.50      0.51        32
+ category_b_16_0       0.34      0.36      0.35        28
+ category_b_16_1       0.37      0.37      0.37        30
+
+        accuracy                           0.41        90
+       macro avg       0.41      0.41      0.41        90
+    weighted avg       0.41      0.41      0.41        90
+
+
+Classification report for category_b_17:
+                  precision    recall  f1-score   support
+
+category_b_17_-1       0.49      0.60      0.54        30
+ category_b_17_0       0.32      0.31      0.31        26
+ category_b_17_1       0.61      0.50      0.55        34
+
+        accuracy                           0.48        90
+       macro avg       0.47      0.47      0.47        90
+    weighted avg       0.48      0.48      0.48        90
+
+
+Classification report for category_b_18:
+                  precision    recall  f1-score   support
+
+category_b_18_-1       0.32      0.27      0.30        33
+ category_b_18_0       0.37      0.34      0.36        29
+ category_b_18_1       0.34      0.43      0.38        28
+
+        accuracy                           0.34        90
+       macro avg       0.34      0.35      0.34        90
+    weighted avg       0.34      0.34      0.34        90
+
+
+Classification report for category_b_19:
+                  precision    recall  f1-score   support
+
+category_b_19_-1       0.50      0.50      0.50        32
+ category_b_19_0       0.40      0.56      0.47        25
+ category_b_19_1       0.52      0.36      0.43        33
+
+        accuracy                           0.47        90
+       macro avg       0.47      0.47      0.47        90
+    weighted avg       0.48      0.47      0.46        90
+
+
+Classification report for category_b_20:
+                  precision    recall  f1-score   support
+
+category_b_20_-1       0.32      0.25      0.28        32
+ category_b_20_0       0.39      0.29      0.33        31
+ category_b_20_1       0.29      0.44      0.35        27
+
+        accuracy                           0.32        90
+       macro avg       0.33      0.33      0.32        90
+    weighted avg       0.33      0.32      0.32        90
+
+
+Classification report for category_b_21:
+                  precision    recall  f1-score   support
+
+category_b_21_-1       0.33      0.26      0.30        34
+ category_b_21_0       0.23      0.26      0.24        27
+ category_b_21_1       0.34      0.38      0.36        29
+
+        accuracy                           0.30        90
+       macro avg       0.30      0.30      0.30        90
+    weighted avg       0.30      0.30      0.30        90
+
+
+Classification report for category_b_22:
+                  precision    recall  f1-score   support
+
+category_b_22_-1       0.59      0.46      0.52        35
+ category_b_22_0       0.33      0.44      0.38        25
+ category_b_22_1       0.30      0.30      0.30        30
+
+        accuracy                           0.40        90
+       macro avg       0.41      0.40      0.40        90
+    weighted avg       0.42      0.40      0.41        90
+
+
+Classification report for category_b_23:
+                  precision    recall  f1-score   support
+
+category_b_23_-1       0.62      0.42      0.50        36
+ category_b_23_0       0.28      0.43      0.34        23
+ category_b_23_1       0.50      0.48      0.49        31
+
+        accuracy                           0.44        90
+       macro avg       0.47      0.45      0.44        90
+    weighted avg       0.49      0.44      0.46        90
+
+
+Classification report for category_b_26:
+                  precision    recall  f1-score   support
+
+category_b_26_-1       0.41      0.43      0.42        30
+ category_b_26_0       0.33      0.42      0.37        26
+ category_b_26_1       0.60      0.44      0.51        34
+
+        accuracy                           0.43        90
+       macro avg       0.45      0.43      0.43        90
+    weighted avg       0.46      0.43      0.44        90
+
+
+Classification report for category_b_29:
+                  precision    recall  f1-score   support
+
+category_b_29_-1       0.48      0.45      0.47        31
+ category_b_29_0       0.37      0.39      0.38        28
+ category_b_29_1       0.35      0.35      0.35        31
+
+        accuracy                           0.40        90
+       macro avg       0.40      0.40      0.40        90
+    weighted avg       0.40      0.40      0.40        90
+
+
+Classification report for category_b_30:
+                  precision    recall  f1-score   support
+
+category_b_30_-1       0.50      0.48      0.49        27
+ category_b_30_0       0.38      0.29      0.33        34
+ category_b_30_1       0.39      0.52      0.45        29
+
+        accuracy                           0.42        90
+       macro avg       0.43      0.43      0.42        90
+    weighted avg       0.42      0.42      0.42        90
+
+
+Classification report for category_b_32:
+                  precision    recall  f1-score   support
+
+category_b_32_-1       0.33      0.20      0.25        35
+ category_b_32_0       0.26      0.35      0.30        26
+ category_b_32_1       0.35      0.41      0.38        29
+
+        accuracy                           0.31        90
+       macro avg       0.31      0.32      0.31        90
+    weighted avg       0.32      0.31      0.31        90
+
+
+Classification report for category_b_35:
+                  precision    recall  f1-score   support
+
+category_b_35_-1       0.46      0.64      0.54        28
+ category_b_35_0       0.39      0.33      0.36        27
+ category_b_35_1       0.54      0.43      0.48        35
+
+        accuracy                           0.47        90
+       macro avg       0.46      0.47      0.46        90
+    weighted avg       0.47      0.47      0.46        90
+
+
+Classification report for category_b_38:
+                  precision    recall  f1-score   support
+
+category_b_38_-1       0.56      0.67      0.61        30
+ category_b_38_0       0.31      0.43      0.36        23
+ category_b_38_1       0.64      0.38      0.47        37
+
+        accuracy                           0.49        90
+       macro avg       0.50      0.49      0.48        90
+    weighted avg       0.53      0.49      0.49        90
+
+
+Classification report for category_b_39:
+                  precision    recall  f1-score   support
+
+category_b_39_-1       0.48      0.54      0.51        28
+ category_b_39_0       0.54      0.50      0.52        30
+ category_b_39_1       0.55      0.53      0.54        32
+
+        accuracy                           0.52        90
+       macro avg       0.52      0.52      0.52        90
+    weighted avg       0.52      0.52      0.52        90
+
+
+Classification report for category_b_41:
+                  precision    recall  f1-score   support
+
+category_b_41_-1       0.46      0.43      0.45        30
+ category_b_41_0       0.30      0.37      0.33        30
+ category_b_41_1       0.36      0.30      0.33        30
+
+        accuracy                           0.37        90
+       macro avg       0.37      0.37      0.37        90
+    weighted avg       0.37      0.37      0.37        90
+
+
+Classification report for category_b_42:
+                  precision    recall  f1-score   support
+
+category_b_42_-1       0.56      0.72      0.63        32
+ category_b_42_0       0.28      0.40      0.33        20
+ category_b_42_1       0.65      0.34      0.45        38
+
+        accuracy                           0.49        90
+       macro avg       0.50      0.49      0.47        90
+    weighted avg       0.54      0.49      0.49        90
+
+
+Classification report for category_b_44:
+                  precision    recall  f1-score   support
+
+category_b_44_-1       0.45      0.47      0.46        32
+ category_b_44_0       0.35      0.43      0.38        21
+ category_b_44_1       0.52      0.43      0.47        37
+
+        accuracy                           0.44        90
+       macro avg       0.44      0.44      0.44        90
+    weighted avg       0.45      0.44      0.45        90
+
+
+Classification report for category_b_51:
+                  precision    recall  f1-score   support
+
+category_b_51_-1       0.36      0.31      0.33        32
+ category_b_51_0       0.30      0.33      0.32        30
+ category_b_51_1       0.31      0.32      0.32        28
+
+        accuracy                           0.32        90
+       macro avg       0.32      0.32      0.32        90
+    weighted avg       0.32      0.32      0.32        90
+
+
+Classification report for category_b_56:
+                  precision    recall  f1-score   support
+
+category_b_56_-1       0.53      0.58      0.55        31
+ category_b_56_0       0.48      0.43      0.45        28
+ category_b_56_1       0.52      0.52      0.52        31
+
+        accuracy                           0.51        90
+       macro avg       0.51      0.51      0.51        90
+    weighted avg       0.51      0.51      0.51        90
+
+
+Classification report for category_b_57:
+                  precision    recall  f1-score   support
+
+category_b_57_-1       0.55      0.56      0.55        32
+ category_b_57_0       0.38      0.46      0.41        26
+ category_b_57_1       0.52      0.41      0.46        32
+
+        accuracy                           0.48        90
+       macro avg       0.48      0.48      0.47        90
+    weighted avg       0.49      0.48      0.48        90
+
+
+Classification report for category_b_63:
+                  precision    recall  f1-score   support
+
+category_b_63_-1       0.51      0.60      0.55        30
+ category_b_63_0       0.30      0.33      0.31        24
+ category_b_63_1       0.43      0.33      0.38        36
+
+        accuracy                           0.42        90
+       macro avg       0.41      0.42      0.41        90
+    weighted avg       0.42      0.42      0.42        90
+
+
+Classification report for category_b_81:
+                  precision    recall  f1-score   support
+
+category_b_81_-1       0.65      0.63      0.64        35
+ category_b_81_0       0.32      0.26      0.29        27
+ category_b_81_1       0.50      0.61      0.55        28
+
+        accuracy                           0.51        90
+       macro avg       0.49      0.50      0.49        90
+    weighted avg       0.50      0.51      0.50        90
+
+
+Classification report for category_b_84:
+                  precision    recall  f1-score   support
+
+category_b_84_-1       0.46      0.58      0.51        31
+ category_b_84_0       0.38      0.41      0.39        27
+ category_b_84_1       0.55      0.38      0.44        32
+
+        accuracy                           0.46        90
+       macro avg       0.46      0.45      0.45        90
+    weighted avg       0.47      0.46      0.45        90
+
+
+Classification report for category_epi_1:
+                   precision    recall  f1-score   support
+
+category_epi_1_-1       0.32      0.52      0.39        25
+ category_epi_1_0       0.53      0.28      0.37        32
+ category_epi_1_1       0.38      0.36      0.37        33
+
+         accuracy                           0.38        90
+        macro avg       0.41      0.39      0.38        90
+     weighted avg       0.41      0.38      0.38        90
+
+
+Classification report for category_epi_2:
+                   precision    recall  f1-score   support
+
+category_epi_2_-1       0.26      0.31      0.28        29
+ category_epi_2_0       0.46      0.35      0.40        31
+ category_epi_2_1       0.45      0.47      0.46        30
+
+         accuracy                           0.38        90
+        macro avg       0.39      0.38      0.38        90
+     weighted avg       0.39      0.38      0.38        90
+
+
+Classification report for category_epi_3:
+                   precision    recall  f1-score   support
+
+category_epi_3_-1       0.38      0.45      0.41        29
+ category_epi_3_0       0.46      0.35      0.40        31
+ category_epi_3_1       0.28      0.30      0.29        30
+
+         accuracy                           0.37        90
+        macro avg       0.37      0.37      0.37        90
+     weighted avg       0.37      0.37      0.37        90
+
+
+Classification report for category_epi_4:
+                   precision    recall  f1-score   support
+
+category_epi_4_-1       0.43      0.57      0.49        28
+ category_epi_4_0       0.14      0.06      0.08        35
+ category_epi_4_1       0.38      0.56      0.45        27
+
+         accuracy                           0.37        90
+        macro avg       0.32      0.39      0.34        90
+     weighted avg       0.31      0.37      0.32        90
+
+
+Classification report for category_epi_5:
+                   precision    recall  f1-score   support
+
+category_epi_5_-1       0.45      0.43      0.44        30
+ category_epi_5_0       0.46      0.38      0.42        34
+ category_epi_5_1       0.42      0.54      0.47        26
+
+         accuracy                           0.44        90
+        macro avg       0.45      0.45      0.44        90
+     weighted avg       0.45      0.44      0.44        90
+
+
+Classification report for category_epi_6:
+                   precision    recall  f1-score   support
+
+category_epi_6_-1       0.48      0.39      0.43        36
+ category_epi_6_0       0.15      0.24      0.18        21
+ category_epi_6_1       0.48      0.39      0.43        33
+
+         accuracy                           0.36        90
+        macro avg       0.37      0.34      0.35        90
+     weighted avg       0.40      0.36      0.37        90
+
+
+Classification report for category_epi_7:
+                   precision    recall  f1-score   support
+
+category_epi_7_-1       0.30      0.46      0.36        26
+ category_epi_7_0       0.42      0.41      0.41        32
+ category_epi_7_1       0.47      0.28      0.35        32
+
+         accuracy                           0.38        90
+        macro avg       0.40      0.38      0.38        90
+     weighted avg       0.40      0.38      0.38        90
+
+
+Classification report for category_epi_8:
+                   precision    recall  f1-score   support
+
+category_epi_8_-1       0.33      0.37      0.35        30
+ category_epi_8_0       0.46      0.46      0.46        28
+ category_epi_8_1       0.41      0.38      0.39        32
+
+         accuracy                           0.40        90
+        macro avg       0.40      0.40      0.40        90
+     weighted avg       0.40      0.40      0.40        90
+
+
+Classification report for category_epi_9:
+                   precision    recall  f1-score   support
+
+category_epi_9_-1       0.44      0.32      0.37        34
+ category_epi_9_0       0.31      0.43      0.36        23
+ category_epi_9_1       0.33      0.33      0.33        33
+
+         accuracy                           0.36        90
+        macro avg       0.36      0.36      0.36        90
+     weighted avg       0.37      0.36      0.36        90
+
+
+Classification report for category_epi_10:
+                    precision    recall  f1-score   support
+
+category_epi_10_-1       0.26      0.32      0.29        28
+ category_epi_10_0       0.38      0.24      0.30        37
+ category_epi_10_1       0.23      0.28      0.25        25
+
+          accuracy                           0.28        90
+         macro avg       0.29      0.28      0.28        90
+      weighted avg       0.30      0.28      0.28        90
+
+
+Classification report for category_epi_11:
+                    precision    recall  f1-score   support
+
+category_epi_11_-1       0.32      0.23      0.27        35
+ category_epi_11_0       0.32      0.33      0.33        30
+ category_epi_11_1       0.24      0.32      0.27        25
+
+          accuracy                           0.29        90
+         macro avg       0.29      0.29      0.29        90
+      weighted avg       0.30      0.29      0.29        90
+
+
+Classification report for category_epi_12:
+                    precision    recall  f1-score   support
+
+category_epi_12_-1       0.24      0.31      0.27        26
+ category_epi_12_0       0.31      0.28      0.30        32
+ category_epi_12_1       0.43      0.38      0.40        32
+
+          accuracy                           0.32        90
+         macro avg       0.33      0.32      0.32        90
+      weighted avg       0.33      0.32      0.33        90
+
+
+Classification report for category_epi_13:
+                    precision    recall  f1-score   support
+
+category_epi_13_-1       0.40      0.24      0.30        33
+ category_epi_13_0       0.34      0.43      0.38        28
+ category_epi_13_1       0.26      0.31      0.28        29
+
+          accuracy                           0.32        90
+         macro avg       0.33      0.33      0.32        90
+      weighted avg       0.34      0.32      0.32        90
+
+
+Classification report for category_epi_14:
+                    precision    recall  f1-score   support
+
+category_epi_14_-1       0.30      0.31      0.31        29
+ category_epi_14_0       0.28      0.30      0.29        27
+ category_epi_14_1       0.35      0.32      0.34        34
+
+          accuracy                           0.31        90
+         macro avg       0.31      0.31      0.31        90
+      weighted avg       0.31      0.31      0.31        90
+
+
+Classification report for category_epi_15:
+                    precision    recall  f1-score   support
+
+category_epi_15_-1       0.38      0.46      0.41        26
+ category_epi_15_0       0.33      0.33      0.33        30
+ category_epi_15_1       0.39      0.32      0.35        34
+
+          accuracy                           0.37        90
+         macro avg       0.37      0.37      0.37        90
+      weighted avg       0.37      0.37      0.36        90
+
+
+Classification report for category_epi_16:
+                    precision    recall  f1-score   support
+
+category_epi_16_-1       0.44      0.50      0.47        30
+ category_epi_16_0       0.35      0.43      0.39        28
+ category_epi_16_1       0.55      0.38      0.44        32
+
+          accuracy                           0.43        90
+         macro avg       0.45      0.43      0.43        90
+      weighted avg       0.45      0.43      0.43        90
+
+
+Classification report for category_epi_17:
+                    precision    recall  f1-score   support
+
+category_epi_17_-1       0.52      0.31      0.39        36
+ category_epi_17_0       0.33      0.40      0.36        25
+ category_epi_17_1       0.26      0.34      0.29        29
+
+          accuracy                           0.34        90
+         macro avg       0.37      0.35      0.35        90
+      weighted avg       0.38      0.34      0.35        90
+
+
+Classification report for category_epi_18:
+                    precision    recall  f1-score   support
+
+category_epi_18_-1       0.31      0.39      0.34        28
+ category_epi_18_0       0.43      0.33      0.38        30
+ category_epi_18_1       0.45      0.44      0.44        32
+
+          accuracy                           0.39        90
+         macro avg       0.40      0.39      0.39        90
+      weighted avg       0.40      0.39      0.39        90
+
+
+Classification report for category_epi_19:
+                    precision    recall  f1-score   support
+
+category_epi_19_-1       0.28      0.27      0.27        30
+ category_epi_19_0       0.28      0.21      0.24        34
+ category_epi_19_1       0.28      0.38      0.32        26
+
+          accuracy                           0.28        90
+         macro avg       0.28      0.29      0.28        90
+      weighted avg       0.28      0.28      0.27        90
+
+
+Classification report for category_epi_20:
+                    precision    recall  f1-score   support
+
+category_epi_20_-1       0.37      0.46      0.41        28
+ category_epi_20_0       0.32      0.21      0.25        33
+ category_epi_20_1       0.36      0.41      0.39        29
+
+          accuracy                           0.36        90
+         macro avg       0.35      0.36      0.35        90
+      weighted avg       0.35      0.36      0.35        90
+
+
+Classification report for category_epi_21:
+                    precision    recall  f1-score   support
+
+category_epi_21_-1       0.20      0.17      0.18        30
+ category_epi_21_0       0.33      0.42      0.37        31
+ category_epi_21_1       0.24      0.21      0.22        29
+
+          accuracy                           0.27        90
+         macro avg       0.26      0.26      0.26        90
+      weighted avg       0.26      0.27      0.26        90
+
+
+Classification report for category_epi_22:
+                    precision    recall  f1-score   support
+
+category_epi_22_-1       0.44      0.45      0.45        33
+ category_epi_22_0       0.41      0.31      0.35        29
+ category_epi_22_1       0.44      0.54      0.48        28
+
+          accuracy                           0.43        90
+         macro avg       0.43      0.43      0.43        90
+      weighted avg       0.43      0.43      0.43        90
+
+
+Classification report for category_epi_23:
+                    precision    recall  f1-score   support
+
+category_epi_23_-1       0.50      0.34      0.41        35
+ category_epi_23_0       0.29      0.27      0.28        30
+ category_epi_23_1       0.24      0.36      0.29        25
+
+          accuracy                           0.32        90
+         macro avg       0.34      0.32      0.32        90
+      weighted avg       0.36      0.32      0.33        90
+
+
+Classification report for category_epi_24:
+                    precision    recall  f1-score   support
+
+category_epi_24_-1       0.29      0.37      0.32        27
+ category_epi_24_0       0.38      0.26      0.31        34
+ category_epi_24_1       0.35      0.38      0.37        29
+
+          accuracy                           0.33        90
+         macro avg       0.34      0.34      0.33        90
+      weighted avg       0.34      0.33      0.33        90
+
+
+Classification report for category_epi_25:
+                    precision    recall  f1-score   support
+
+category_epi_25_-1       0.53      0.61      0.56        33
+ category_epi_25_0       0.27      0.33      0.30        24
+ category_epi_25_1       0.45      0.30      0.36        33
+
+          accuracy                           0.42        90
+         macro avg       0.42      0.41      0.41        90
+      weighted avg       0.43      0.42      0.42        90
+
+
+Classification report for category_epi_26:
+                    precision    recall  f1-score   support
+
+category_epi_26_-1       0.37      0.37      0.37        30
+ category_epi_26_0       0.39      0.26      0.32        34
+ category_epi_26_1       0.24      0.35      0.29        26
+
+          accuracy                           0.32        90
+         macro avg       0.33      0.33      0.32        90
+      weighted avg       0.34      0.32      0.32        90
+
+
+Classification report for category_epi_32:
+                    precision    recall  f1-score   support
+
+category_epi_32_-1       0.38      0.41      0.39        29
+ category_epi_32_0       0.42      0.37      0.39        30
+ category_epi_32_1       0.38      0.39      0.38        31
+
+          accuracy                           0.39        90
+         macro avg       0.39      0.39      0.39        90
+      weighted avg       0.39      0.39      0.39        90
+
+
+Classification report for category_epi_34:
+                    precision    recall  f1-score   support
+
+category_epi_34_-1       0.20      0.26      0.23        27
+ category_epi_34_0       0.27      0.26      0.26        31
+ category_epi_34_1       0.28      0.22      0.25        32
+
+          accuracy                           0.24        90
+         macro avg       0.25      0.25      0.24        90
+      weighted avg       0.25      0.24      0.25        90
+
+
+Classification report for category_epi_35:
+                    precision    recall  f1-score   support
+
+category_epi_35_-1       0.32      0.29      0.30        28
+ category_epi_35_0       0.26      0.31      0.29        29
+ category_epi_35_1       0.39      0.36      0.38        33
+
+          accuracy                           0.32        90
+         macro avg       0.32      0.32      0.32        90
+      weighted avg       0.33      0.32      0.32        90
+
+
+Classification report for category_epi_36:
+                    precision    recall  f1-score   support
+
+category_epi_36_-1       0.42      0.35      0.39        31
+ category_epi_36_0       0.39      0.29      0.33        31
+ category_epi_36_1       0.34      0.50      0.41        28
+
+          accuracy                           0.38        90
+         macro avg       0.39      0.38      0.38        90
+      weighted avg       0.39      0.38      0.37        90
+
+
+Classification report for category_epi_40:
+                    precision    recall  f1-score   support
+
+category_epi_40_-1       0.26      0.32      0.29        28
+ category_epi_40_0       0.54      0.47      0.50        32
+ category_epi_40_1       0.54      0.50      0.52        30
+
+          accuracy                           0.43        90
+         macro avg       0.45      0.43      0.44        90
+      weighted avg       0.45      0.43      0.44        90
+
+
+Classification report for category_epi_41:
+                    precision    recall  f1-score   support
+
+category_epi_41_-1       0.23      0.24      0.23        29
+ category_epi_41_0       0.38      0.37      0.37        30
+ category_epi_41_1       0.30      0.29      0.30        31
+
+          accuracy                           0.30        90
+         macro avg       0.30      0.30      0.30        90
+      weighted avg       0.30      0.30      0.30        90
+
+
+Classification report for category_epi_42:
+                    precision    recall  f1-score   support
+
+category_epi_42_-1       0.32      0.38      0.34        32
+ category_epi_42_0       0.26      0.19      0.22        31
+ category_epi_42_1       0.34      0.37      0.36        27
+
+          accuracy                           0.31        90
+         macro avg       0.31      0.31      0.31        90
+      weighted avg       0.31      0.31      0.31        90
+
+
+Classification report for category_epi_43:
+                    precision    recall  f1-score   support
+
+category_epi_43_-1       0.41      0.28      0.33        32
+ category_epi_43_0       0.32      0.36      0.34        28
+ category_epi_43_1       0.24      0.30      0.27        30
+
+          accuracy                           0.31        90
+         macro avg       0.32      0.31      0.31        90
+      weighted avg       0.33      0.31      0.31        90
+
+
+Classification report for category_epi_44:
+                    precision    recall  f1-score   support
+
+category_epi_44_-1       0.29      0.33      0.31        27
+ category_epi_44_0       0.40      0.40      0.40        30
+ category_epi_44_1       0.48      0.42      0.45        33
+
+          accuracy                           0.39        90
+         macro avg       0.39      0.39      0.39        90
+      weighted avg       0.40      0.39      0.39        90
+
+
+Classification report for category_epi_45:
+                    precision    recall  f1-score   support
+
+category_epi_45_-1       0.31      0.41      0.35        27
+ category_epi_45_0       0.40      0.32      0.36        31
+ category_epi_45_1       0.48      0.44      0.46        32
+
+          accuracy                           0.39        90
+         macro avg       0.40      0.39      0.39        90
+      weighted avg       0.40      0.39      0.39        90
+
+
+Classification report for category_epi_46:
+                    precision    recall  f1-score   support
+
+category_epi_46_-1       0.34      0.48      0.40        25
+ category_epi_46_0       0.41      0.28      0.33        32
+ category_epi_46_1       0.30      0.30      0.30        33
+
+          accuracy                           0.34        90
+         macro avg       0.35      0.35      0.35        90
+      weighted avg       0.35      0.34      0.34        90
+
+
+Classification report for category_epi_49:
+                    precision    recall  f1-score   support
+
+category_epi_49_-1       0.42      0.53      0.47        30
+ category_epi_49_0       0.31      0.26      0.28        31
+ category_epi_49_1       0.38      0.34      0.36        29
+
+          accuracy                           0.38        90
+         macro avg       0.37      0.38      0.37        90
+      weighted avg       0.37      0.38      0.37        90
+
+
+Classification report for category_epi_50:
+                    precision    recall  f1-score   support
+
+category_epi_50_-1       0.27      0.28      0.27        29
+ category_epi_50_0       0.26      0.25      0.25        28
+ category_epi_50_1       0.42      0.42      0.42        33
+
+          accuracy                           0.32        90
+         macro avg       0.32      0.32      0.32        90
+      weighted avg       0.32      0.32      0.32        90
+
+
+Classification report for category_epi_53:
+                    precision    recall  f1-score   support
+
+category_epi_53_-1       0.36      0.52      0.42        29
+ category_epi_53_0       0.29      0.18      0.22        33
+ category_epi_53_1       0.48      0.46      0.47        28
+
+          accuracy                           0.38        90
+         macro avg       0.37      0.39      0.37        90
+      weighted avg       0.37      0.38      0.36        90
+
+
+Classification report for category_epi_55:
+                    precision    recall  f1-score   support
+
+category_epi_55_-1       0.46      0.52      0.48        31
+ category_epi_55_0       0.39      0.32      0.35        28
+ category_epi_55_1       0.34      0.35      0.35        31
+
+          accuracy                           0.40        90
+         macro avg       0.40      0.40      0.40        90
+      weighted avg       0.40      0.40      0.40        90
+
+
+Classification report for category_epi_56:
+                    precision    recall  f1-score   support
+
+category_epi_56_-1       0.42      0.32      0.37        34
+ category_epi_56_0       0.29      0.38      0.33        26
+ category_epi_56_1       0.34      0.33      0.34        30
+
+          accuracy                           0.34        90
+         macro avg       0.35      0.35      0.34        90
+      weighted avg       0.36      0.34      0.35        90
+
+
+Classification report for category_epi_57:
+                    precision    recall  f1-score   support
+
+category_epi_57_-1       0.38      0.40      0.39        30
+ category_epi_57_0       0.38      0.43      0.41        30
+ category_epi_57_1       0.38      0.30      0.33        30
+
+          accuracy                           0.38        90
+         macro avg       0.38      0.38      0.38        90
+      weighted avg       0.38      0.38      0.38        90
+
+
+Classification report for category_epi_58:
+                    precision    recall  f1-score   support
+
+category_epi_58_-1       0.38      0.41      0.39        29
+ category_epi_58_0       0.47      0.45      0.46        31
+ category_epi_58_1       0.29      0.27      0.28        30
+
+          accuracy                           0.38        90
+         macro avg       0.38      0.38      0.38        90
+      weighted avg       0.38      0.38      0.38        90
+
+
+Classification report for category_epi_62:
+                    precision    recall  f1-score   support
+
+category_epi_62_-1       0.33      0.48      0.39        29
+ category_epi_62_0       0.18      0.14      0.16        28
+ category_epi_62_1       0.42      0.33      0.37        33
+
+          accuracy                           0.32        90
+         macro avg       0.31      0.32      0.31        90
+      weighted avg       0.32      0.32      0.31        90
+
+
+Classification report for category_epi_64:
+                    precision    recall  f1-score   support
+
+category_epi_64_-1       0.50      0.56      0.53        34
+ category_epi_64_0       0.33      0.35      0.34        26
+ category_epi_64_1       0.56      0.47      0.51        30
+
+          accuracy                           0.47        90
+         macro avg       0.46      0.46      0.46        90
+      weighted avg       0.47      0.47      0.47        90
+
+
+Classification report for category_epi_68:
+                    precision    recall  f1-score   support
+
+category_epi_68_-1       0.31      0.26      0.28        31
+ category_epi_68_0       0.29      0.27      0.28        30
+ category_epi_68_1       0.33      0.41      0.37        29
+
+          accuracy                           0.31        90
+         macro avg       0.31      0.31      0.31        90
+      weighted avg       0.31      0.31      0.31        90
+
+
+Classification report for category_epi_72:
+                    precision    recall  f1-score   support
+
+category_epi_72_-1       0.37      0.56      0.44        27
+ category_epi_72_0       0.24      0.24      0.24        29
+ category_epi_72_1       0.45      0.26      0.33        34
+
+          accuracy                           0.34        90
+         macro avg       0.35      0.35      0.34        90
+      weighted avg       0.36      0.34      0.34        90
+
+
+Classification report for category_epi_73:
+                    precision    recall  f1-score   support
+
+category_epi_73_-1       0.39      0.46      0.43        28
+ category_epi_73_0       0.42      0.48      0.45        29
+ category_epi_73_1       0.62      0.45      0.53        33
+
+          accuracy                           0.47        90
+         macro avg       0.48      0.47      0.47        90
+      weighted avg       0.49      0.47      0.47        90
+
+
+Classification report for category_epi_74:
+                    precision    recall  f1-score   support
+
+category_epi_74_-1       0.48      0.46      0.47        35
+ category_epi_74_0       0.27      0.36      0.31        25
+ category_epi_74_1       0.38      0.30      0.33        30
+
+          accuracy                           0.38        90
+         macro avg       0.38      0.37      0.37        90
+      weighted avg       0.39      0.38      0.38        90
+
+
+Classification report for category_epi_75:
+                    precision    recall  f1-score   support
+
+category_epi_75_-1       0.42      0.59      0.49        29
+ category_epi_75_0       0.29      0.14      0.19        35
+ category_epi_75_1       0.27      0.35      0.31        26
+
+          accuracy                           0.34        90
+         macro avg       0.33      0.36      0.33        90
+      weighted avg       0.33      0.34      0.32        90
+
+
+Classification report for category_epi_76:
+                    precision    recall  f1-score   support
+
+category_epi_76_-1       0.38      0.33      0.36        30
+ category_epi_76_0       0.29      0.21      0.24        28
+ category_epi_76_1       0.33      0.44      0.37        32
+
+          accuracy                           0.33        90
+         macro avg       0.33      0.33      0.33        90
+      weighted avg       0.33      0.33      0.33        90
+
+
+Classification report for category_epi_77:
+                    precision    recall  f1-score   support
+
+category_epi_77_-1       0.45      0.48      0.47        31
+ category_epi_77_0       0.52      0.52      0.52        27
+ category_epi_77_1       0.50      0.47      0.48        32
+
+          accuracy                           0.49        90
+         macro avg       0.49      0.49      0.49        90
+      weighted avg       0.49      0.49      0.49        90
+
+
+Classification report for category_epi_78:
+                    precision    recall  f1-score   support
+
+category_epi_78_-1       0.41      0.39      0.40        31
+ category_epi_78_0       0.36      0.36      0.36        33
+ category_epi_78_1       0.43      0.46      0.44        26
+
+          accuracy                           0.40        90
+         macro avg       0.40      0.40      0.40        90
+      weighted avg       0.40      0.40      0.40        90
+
+
+Classification report for category_epi_79:
+                    precision    recall  f1-score   support
+
+category_epi_79_-1       0.52      0.42      0.47        33
+ category_epi_79_0       0.31      0.35      0.33        26
+ category_epi_79_1       0.41      0.45      0.43        31
+
+          accuracy                           0.41        90
+         macro avg       0.41      0.41      0.41        90
+      weighted avg       0.42      0.41      0.41        90
+
+
+Classification report for category_epi_80:
+                    precision    recall  f1-score   support
+
+category_epi_80_-1       0.48      0.33      0.39        33
+ category_epi_80_0       0.28      0.27      0.27        30
+ category_epi_80_1       0.29      0.41      0.34        27
+
+          accuracy                           0.33        90
+         macro avg       0.35      0.34      0.33        90
+      weighted avg       0.35      0.33      0.34        90
+
+
+Classification report for category_epi_81:
+                    precision    recall  f1-score   support
+
+category_epi_81_-1       0.67      0.62      0.65        32
+ category_epi_81_0       0.48      0.52      0.50        27
+ category_epi_81_1       0.65      0.65      0.65        31
+
+          accuracy                           0.60        90
+         macro avg       0.60      0.60      0.60        90
+      weighted avg       0.60      0.60      0.60        90
+
+
+Classification report for category_epi_82:
+                    precision    recall  f1-score   support
+
+category_epi_82_-1       0.38      0.35      0.36        34
+ category_epi_82_0       0.21      0.13      0.16        30
+ category_epi_82_1       0.36      0.54      0.43        26
+
+          accuracy                           0.33        90
+         macro avg       0.31      0.34      0.32        90
+      weighted avg       0.32      0.33      0.32        90
+
+
+Classification report for category_epi_85:
+                    precision    recall  f1-score   support
+
+category_epi_85_-1       0.41      0.57      0.48        30
+ category_epi_85_0       0.31      0.26      0.28        31
+ category_epi_85_1       0.43      0.34      0.38        29
+
+          accuracy                           0.39        90
+         macro avg       0.39      0.39      0.38        90
+      weighted avg       0.38      0.39      0.38        90
+
+
+Classification report for category_mye_1:
+                   precision    recall  f1-score   support
+
+category_mye_1_-1       0.50      0.57      0.53        30
+ category_mye_1_0       0.42      0.43      0.43        30
+ category_mye_1_1       0.40      0.33      0.36        30
+
+         accuracy                           0.44        90
+        macro avg       0.44      0.44      0.44        90
+     weighted avg       0.44      0.44      0.44        90
+
+
+Classification report for category_mye_2:
+                   precision    recall  f1-score   support
+
+category_mye_2_-1       0.54      0.65      0.59        31
+ category_mye_2_0       0.37      0.40      0.38        25
+ category_mye_2_1       0.54      0.41      0.47        34
+
+         accuracy                           0.49        90
+        macro avg       0.48      0.49      0.48        90
+     weighted avg       0.49      0.49      0.49        90
+
+
+Classification report for category_mye_3:
+                   precision    recall  f1-score   support
+
+category_mye_3_-1       0.42      0.52      0.47        27
+ category_mye_3_0       0.50      0.31      0.38        32
+ category_mye_3_1       0.41      0.48      0.44        31
+
+         accuracy                           0.43        90
+        macro avg       0.44      0.44      0.43        90
+     weighted avg       0.44      0.43      0.43        90
+
+
+Classification report for category_mye_4:
+                   precision    recall  f1-score   support
+
+category_mye_4_-1       0.63      0.58      0.60        33
+ category_mye_4_0       0.41      0.41      0.41        27
+ category_mye_4_1       0.45      0.50      0.48        30
+
+         accuracy                           0.50        90
+        macro avg       0.50      0.49      0.50        90
+     weighted avg       0.51      0.50      0.50        90
+
+
+Classification report for category_mye_5:
+                   precision    recall  f1-score   support
+
+category_mye_5_-1       0.47      0.55      0.51        29
+ category_mye_5_0       0.30      0.23      0.26        31
+ category_mye_5_1       0.45      0.50      0.48        30
+
+         accuracy                           0.42        90
+        macro avg       0.41      0.43      0.41        90
+     weighted avg       0.41      0.42      0.41        90
+
+
+Classification report for category_mye_6:
+                   precision    recall  f1-score   support
+
+category_mye_6_-1       0.48      0.48      0.48        31
+ category_mye_6_0       0.36      0.31      0.33        29
+ category_mye_6_1       0.44      0.50      0.47        30
+
+         accuracy                           0.43        90
+        macro avg       0.43      0.43      0.43        90
+     weighted avg       0.43      0.43      0.43        90
+
+
+Classification report for category_mye_7:
+                   precision    recall  f1-score   support
+
+category_mye_7_-1       0.58      0.61      0.59        31
+ category_mye_7_0       0.34      0.42      0.38        26
+ category_mye_7_1       0.48      0.36      0.41        33
+
+         accuracy                           0.47        90
+        macro avg       0.47      0.47      0.46        90
+     weighted avg       0.47      0.47      0.47        90
+
+
+Classification report for category_mye_8:
+                   precision    recall  f1-score   support
+
+category_mye_8_-1       0.64      0.68      0.66        31
+ category_mye_8_0       0.50      0.46      0.48        28
+ category_mye_8_1       0.65      0.65      0.65        31
+
+         accuracy                           0.60        90
+        macro avg       0.59      0.60      0.59        90
+     weighted avg       0.60      0.60      0.60        90
+
+
+Classification report for category_mye_9:
+                   precision    recall  f1-score   support
+
+category_mye_9_-1       0.48      0.34      0.40        32
+ category_mye_9_0       0.37      0.42      0.39        31
+ category_mye_9_1       0.34      0.41      0.37        27
+
+         accuracy                           0.39        90
+        macro avg       0.40      0.39      0.39        90
+     weighted avg       0.40      0.39      0.39        90
+
+
+Classification report for category_mye_10:
+                    precision    recall  f1-score   support
+
+category_mye_10_-1       0.61      0.65      0.62        31
+ category_mye_10_0       0.46      0.41      0.44        29
+ category_mye_10_1       0.42      0.43      0.43        30
+
+          accuracy                           0.50        90
+         macro avg       0.50      0.50      0.50        90
+      weighted avg       0.50      0.50      0.50        90
+
+
+Classification report for category_mye_11:
+                    precision    recall  f1-score   support
+
+category_mye_11_-1       0.60      0.60      0.60        30
+ category_mye_11_0       0.38      0.33      0.36        30
+ category_mye_11_1       0.47      0.53      0.50        30
+
+          accuracy                           0.49        90
+         macro avg       0.49      0.49      0.49        90
+      weighted avg       0.49      0.49      0.49        90
+
+
+Classification report for category_mye_12:
+                    precision    recall  f1-score   support
+
+category_mye_12_-1       0.57      0.59      0.58        34
+ category_mye_12_0       0.26      0.44      0.33        18
+ category_mye_12_1       0.46      0.29      0.35        38
+
+          accuracy                           0.43        90
+         macro avg       0.43      0.44      0.42        90
+      weighted avg       0.46      0.43      0.43        90
+
+
+Classification report for category_mye_13:
+                    precision    recall  f1-score   support
+
+category_mye_13_-1       0.56      0.40      0.47        35
+ category_mye_13_0       0.27      0.58      0.37        19
+ category_mye_13_1       0.50      0.33      0.40        36
+
+          accuracy                           0.41        90
+         macro avg       0.44      0.44      0.41        90
+      weighted avg       0.47      0.41      0.42        90
+
+
+Classification report for category_mye_14:
+                    precision    recall  f1-score   support
+
+category_mye_14_-1       0.47      0.61      0.53        28
+ category_mye_14_0       0.30      0.29      0.29        28
+ category_mye_14_1       0.48      0.38      0.43        34
+
+          accuracy                           0.42        90
+         macro avg       0.42      0.43      0.42        90
+      weighted avg       0.42      0.42      0.42        90
+
+
+Classification report for category_mye_15:
+                    precision    recall  f1-score   support
+
+category_mye_15_-1       0.39      0.60      0.48        25
+ category_mye_15_0       0.55      0.32      0.41        37
+ category_mye_15_1       0.30      0.32      0.31        28
+
+          accuracy                           0.40        90
+         macro avg       0.41      0.42      0.40        90
+      weighted avg       0.43      0.40      0.40        90
+
+
+Classification report for category_mye_16:
+                    precision    recall  f1-score   support
+
+category_mye_16_-1       0.29      0.24      0.26        29
+ category_mye_16_0       0.33      0.36      0.35        33
+ category_mye_16_1       0.43      0.46      0.45        28
+
+          accuracy                           0.36        90
+         macro avg       0.35      0.36      0.35        90
+      weighted avg       0.35      0.36      0.35        90
+
+
+Classification report for category_mye_17:
+                    precision    recall  f1-score   support
+
+category_mye_17_-1       0.36      0.40      0.38        30
+ category_mye_17_0       0.12      0.12      0.12        25
+ category_mye_17_1       0.42      0.37      0.39        35
+
+          accuracy                           0.31        90
+         macro avg       0.30      0.30      0.30        90
+      weighted avg       0.32      0.31      0.31        90
+
+
+Classification report for category_mye_18:
+                    precision    recall  f1-score   support
+
+category_mye_18_-1       0.42      0.46      0.44        28
+ category_mye_18_0       0.35      0.22      0.27        36
+ category_mye_18_1       0.33      0.46      0.39        26
+
+          accuracy                           0.37        90
+         macro avg       0.37      0.38      0.37        90
+      weighted avg       0.37      0.37      0.36        90
+
+
+Classification report for category_mye_19:
+                    precision    recall  f1-score   support
+
+category_mye_19_-1       0.33      0.35      0.34        31
+ category_mye_19_0       0.29      0.29      0.29        31
+ category_mye_19_1       0.58      0.54      0.56        28
+
+          accuracy                           0.39        90
+         macro avg       0.40      0.39      0.40        90
+      weighted avg       0.39      0.39      0.39        90
+
+
+Classification report for category_mye_20:
+                    precision    recall  f1-score   support
+
+category_mye_20_-1       0.38      0.35      0.37        31
+ category_mye_20_0       0.38      0.41      0.39        27
+ category_mye_20_1       0.41      0.41      0.41        32
+
+          accuracy                           0.39        90
+         macro avg       0.39      0.39      0.39        90
+      weighted avg       0.39      0.39      0.39        90
+
+
+Classification report for category_mye_21:
+                    precision    recall  f1-score   support
+
+category_mye_21_-1       0.35      0.27      0.31        33
+ category_mye_21_0       0.30      0.30      0.30        30
+ category_mye_21_1       0.32      0.41      0.36        27
+
+          accuracy                           0.32        90
+         macro avg       0.32      0.33      0.32        90
+      weighted avg       0.32      0.32      0.32        90
+
+
+Classification report for category_mye_22:
+                    precision    recall  f1-score   support
+
+category_mye_22_-1       0.59      0.59      0.59        34
+ category_mye_22_0       0.38      0.40      0.39        25
+ category_mye_22_1       0.43      0.42      0.43        31
+
+          accuracy                           0.48        90
+         macro avg       0.47      0.47      0.47        90
+      weighted avg       0.48      0.48      0.48        90
+
+
+Classification report for category_mye_23:
+                    precision    recall  f1-score   support
+
+category_mye_23_-1       0.60      0.64      0.62        33
+ category_mye_23_0       0.30      0.55      0.39        20
+ category_mye_23_1       0.50      0.24      0.33        37
+
+          accuracy                           0.46        90
+         macro avg       0.47      0.48      0.44        90
+      weighted avg       0.49      0.46      0.45        90
+
+
+Classification report for category_mye_24:
+                    precision    recall  f1-score   support
+
+category_mye_24_-1       0.57      0.35      0.44        34
+ category_mye_24_0       0.29      0.35      0.32        26
+ category_mye_24_1       0.37      0.47      0.41        30
+
+          accuracy                           0.39        90
+         macro avg       0.41      0.39      0.39        90
+      weighted avg       0.42      0.39      0.39        90
+
+
+Classification report for category_mye_25:
+                    precision    recall  f1-score   support
+
+category_mye_25_-1       0.40      0.36      0.38        28
+ category_mye_25_0       0.24      0.31      0.27        29
+ category_mye_25_1       0.41      0.33      0.37        33
+
+          accuracy                           0.33        90
+         macro avg       0.35      0.33      0.34        90
+      weighted avg       0.35      0.33      0.34        90
+
+
+Classification report for category_mye_26:
+                    precision    recall  f1-score   support
+
+category_mye_26_-1       0.58      0.61      0.59        36
+ category_mye_26_0       0.37      0.26      0.30        27
+ category_mye_26_1       0.36      0.44      0.40        27
+
+          accuracy                           0.46        90
+         macro avg       0.44      0.44      0.43        90
+      weighted avg       0.45      0.46      0.45        90
+
+
+Classification report for category_mye_32:
+                    precision    recall  f1-score   support
+
+category_mye_32_-1       0.31      0.28      0.30        32
+ category_mye_32_0       0.19      0.19      0.19        27
+ category_mye_32_1       0.32      0.35      0.34        31
+
+          accuracy                           0.28        90
+         macro avg       0.27      0.27      0.27        90
+      weighted avg       0.28      0.28      0.28        90
+
+
+Classification report for category_mye_33:
+                    precision    recall  f1-score   support
+
+category_mye_33_-1       0.59      0.65      0.62        31
+ category_mye_33_0       0.30      0.43      0.36        23
+ category_mye_33_1       0.43      0.28      0.34        36
+
+          accuracy                           0.44        90
+         macro avg       0.44      0.45      0.44        90
+      weighted avg       0.45      0.44      0.44        90
+
+
+Classification report for category_mye_35:
+                    precision    recall  f1-score   support
+
+category_mye_35_-1       0.51      0.62      0.56        29
+ category_mye_35_0       0.31      0.48      0.38        25
+ category_mye_35_1       0.56      0.25      0.35        36
+
+          accuracy                           0.43        90
+         macro avg       0.46      0.45      0.43        90
+      weighted avg       0.48      0.43      0.42        90
+
+
+Classification report for category_mye_41:
+                    precision    recall  f1-score   support
+
+category_mye_41_-1       0.41      0.50      0.45        28
+ category_mye_41_0       0.33      0.22      0.26        32
+ category_mye_41_1       0.49      0.57      0.52        30
+
+          accuracy                           0.42        90
+         macro avg       0.41      0.43      0.41        90
+      weighted avg       0.41      0.42      0.41        90
+
+
+Classification report for category_mye_42:
+                    precision    recall  f1-score   support
+
+category_mye_42_-1       0.54      0.63      0.58        30
+ category_mye_42_0       0.33      0.38      0.36        26
+ category_mye_42_1       0.44      0.32      0.37        34
+
+          accuracy                           0.44        90
+         macro avg       0.44      0.45      0.44        90
+      weighted avg       0.44      0.44      0.44        90
+
+
+Classification report for category_mye_43:
+                    precision    recall  f1-score   support
+
+category_mye_43_-1       0.56      0.65      0.60        31
+ category_mye_43_0       0.38      0.46      0.41        26
+ category_mye_43_1       0.50      0.33      0.40        33
+
+          accuracy                           0.48        90
+         macro avg       0.48      0.48      0.47        90
+      weighted avg       0.48      0.48      0.47        90
+
+
+Classification report for category_mye_47:
+                    precision    recall  f1-score   support
+
+category_mye_47_-1       0.47      0.62      0.53        26
+ category_mye_47_0       0.46      0.32      0.38        34
+ category_mye_47_1       0.50      0.53      0.52        30
+
+          accuracy                           0.48        90
+         macro avg       0.48      0.49      0.48        90
+      weighted avg       0.48      0.48      0.47        90
+
+
+Classification report for category_mye_48:
+                    precision    recall  f1-score   support
+
+category_mye_48_-1       0.57      0.52      0.54        33
+ category_mye_48_0       0.41      0.44      0.43        27
+ category_mye_48_1       0.45      0.47      0.46        30
+
+          accuracy                           0.48        90
+         macro avg       0.48      0.48      0.48        90
+      weighted avg       0.48      0.48      0.48        90
+
+
+Classification report for category_mye_50:
+                    precision    recall  f1-score   support
+
+category_mye_50_-1       0.55      0.76      0.64        29
+ category_mye_50_0       0.39      0.46      0.42        24
+ category_mye_50_1       0.55      0.32      0.41        37
+
+          accuracy                           0.50        90
+         macro avg       0.50      0.51      0.49        90
+      weighted avg       0.51      0.50      0.49        90
+
+
+Classification report for category_mye_52:
+                    precision    recall  f1-score   support
+
+category_mye_52_-1       0.56      0.76      0.65        29
+ category_mye_52_0       0.26      0.29      0.27        24
+ category_mye_52_1       0.50      0.32      0.39        37
+
+          accuracy                           0.46        90
+         macro avg       0.44      0.46      0.44        90
+      weighted avg       0.46      0.46      0.44        90
+
+
+Classification report for category_mye_53:
+                    precision    recall  f1-score   support
+
+category_mye_53_-1       0.55      0.55      0.55        31
+ category_mye_53_0       0.28      0.33      0.30        24
+ category_mye_53_1       0.40      0.34      0.37        35
+
+          accuracy                           0.41        90
+         macro avg       0.41      0.41      0.41        90
+      weighted avg       0.42      0.41      0.41        90
+
+
+Classification report for category_mye_54:
+                    precision    recall  f1-score   support
+
+category_mye_54_-1       0.62      0.56      0.59        32
+ category_mye_54_0       0.32      0.50      0.39        24
+ category_mye_54_1       0.48      0.32      0.39        34
+
+          accuracy                           0.46        90
+         macro avg       0.47      0.46      0.45        90
+      weighted avg       0.49      0.46      0.46        90
+
+
+Classification report for category_mye_56:
+                    precision    recall  f1-score   support
+
+category_mye_56_-1       0.54      0.36      0.43        36
+ category_mye_56_0       0.26      0.28      0.27        29
+ category_mye_56_1       0.23      0.32      0.27        25
+
+          accuracy                           0.32        90
+         macro avg       0.34      0.32      0.32        90
+      weighted avg       0.36      0.32      0.33        90
+
+
+Classification report for category_mye_57:
+                    precision    recall  f1-score   support
+
+category_mye_57_-1       0.44      0.34      0.39        32
+ category_mye_57_0       0.23      0.28      0.25        25
+ category_mye_57_1       0.26      0.27      0.27        33
+
+          accuracy                           0.30        90
+         macro avg       0.31      0.30      0.30        90
+      weighted avg       0.32      0.30      0.31        90
+
+
+Classification report for category_mye_58:
+                    precision    recall  f1-score   support
+
+category_mye_58_-1       0.55      0.60      0.57        30
+ category_mye_58_0       0.37      0.32      0.34        31
+ category_mye_58_1       0.37      0.38      0.37        29
+
+          accuracy                           0.43        90
+         macro avg       0.43      0.43      0.43        90
+      weighted avg       0.43      0.43      0.43        90
+
+
+Classification report for category_mye_59:
+                    precision    recall  f1-score   support
+
+category_mye_59_-1       0.72      0.58      0.64        31
+ category_mye_59_0       0.56      0.50      0.53        28
+ category_mye_59_1       0.55      0.71      0.62        31
+
+          accuracy                           0.60        90
+         macro avg       0.61      0.60      0.60        90
+      weighted avg       0.61      0.60      0.60        90
+
+
+Classification report for category_mye_62:
+                    precision    recall  f1-score   support
+
+category_mye_62_-1       0.50      0.62      0.55        29
+ category_mye_62_0       0.42      0.29      0.34        34
+ category_mye_62_1       0.40      0.44      0.42        27
+
+          accuracy                           0.44        90
+         macro avg       0.44      0.45      0.44        90
+      weighted avg       0.44      0.44      0.44        90
+
+
+Classification report for category_mye_63:
+                    precision    recall  f1-score   support
+
+category_mye_63_-1       0.53      0.54      0.54        35
+ category_mye_63_0       0.27      0.39      0.32        23
+ category_mye_63_1       0.52      0.34      0.42        32
+
+          accuracy                           0.43        90
+         macro avg       0.44      0.43      0.42        90
+      weighted avg       0.46      0.43      0.44        90
+
+
+Classification report for category_mye_68:
+                    precision    recall  f1-score   support
+
+category_mye_68_-1       0.58      0.42      0.49        33
+ category_mye_68_0       0.24      0.58      0.34        19
+ category_mye_68_1       0.50      0.26      0.34        38
+
+          accuracy                           0.39        90
+         macro avg       0.44      0.42      0.39        90
+      weighted avg       0.48      0.39      0.40        90
+
+
+Classification report for category_mye_71:
+                    precision    recall  f1-score   support
+
+category_mye_71_-1       0.41      0.39      0.40        33
+ category_mye_71_0       0.30      0.36      0.33        28
+ category_mye_71_1       0.28      0.24      0.26        29
+
+          accuracy                           0.33        90
+         macro avg       0.33      0.33      0.33        90
+      weighted avg       0.33      0.33      0.33        90
+
+
+Classification report for category_mye_72:
+                    precision    recall  f1-score   support
+
+category_mye_72_-1       0.51      0.61      0.56        31
+ category_mye_72_0       0.44      0.38      0.41        29
+ category_mye_72_1       0.36      0.33      0.34        30
+
+          accuracy                           0.44        90
+         macro avg       0.44      0.44      0.44        90
+      weighted avg       0.44      0.44      0.44        90
+
+
+Classification report for category_mye_73:
+                    precision    recall  f1-score   support
+
+category_mye_73_-1       0.43      0.33      0.38        36
+ category_mye_73_0       0.37      0.38      0.38        26
+ category_mye_73_1       0.34      0.43      0.38        28
+
+          accuracy                           0.38        90
+         macro avg       0.38      0.38      0.38        90
+      weighted avg       0.39      0.38      0.38        90
+
+
+Classification report for category_mye_74:
+                    precision    recall  f1-score   support
+
+category_mye_74_-1       0.44      0.44      0.44        32
+ category_mye_74_0       0.36      0.37      0.36        27
+ category_mye_74_1       0.33      0.32      0.33        31
+
+          accuracy                           0.38        90
+         macro avg       0.38      0.38      0.38        90
+      weighted avg       0.38      0.38      0.38        90
+
+
+Classification report for category_mye_77:
+                    precision    recall  f1-score   support
+
+category_mye_77_-1       0.40      0.50      0.44        28
+ category_mye_77_0       0.43      0.39      0.41        31
+ category_mye_77_1       0.44      0.39      0.41        31
+
+          accuracy                           0.42        90
+         macro avg       0.42      0.42      0.42        90
+      weighted avg       0.43      0.42      0.42        90
+
+
+Classification report for category_mye_84:
+                    precision    recall  f1-score   support
+
+category_mye_84_-1       0.46      0.41      0.43        32
+ category_mye_84_0       0.29      0.33      0.31        30
+ category_mye_84_1       0.39      0.39      0.39        28
+
+          accuracy                           0.38        90
+         macro avg       0.38      0.38      0.38        90
+      weighted avg       0.39      0.38      0.38        90
+
+
+Classification report for category_stromal_1:
+                       precision    recall  f1-score   support
+
+category_stromal_1_-1       0.36      0.46      0.41        26
+ category_stromal_1_0       0.54      0.39      0.46        33
+ category_stromal_1_1       0.42      0.45      0.44        31
+
+             accuracy                           0.43        90
+            macro avg       0.44      0.44      0.43        90
+         weighted avg       0.45      0.43      0.44        90
+
+
+Classification report for category_stromal_2:
+                       precision    recall  f1-score   support
+
+category_stromal_2_-1       0.42      0.48      0.45        29
+ category_stromal_2_0       0.40      0.24      0.30        34
+ category_stromal_2_1       0.43      0.59      0.50        27
+
+             accuracy                           0.42        90
+            macro avg       0.42      0.44      0.42        90
+         weighted avg       0.42      0.42      0.41        90
+
+
+Classification report for category_stromal_3:
+                       precision    recall  f1-score   support
+
+category_stromal_3_-1       0.53      0.53      0.53        32
+ category_stromal_3_0       0.42      0.42      0.42        26
+ category_stromal_3_1       0.56      0.56      0.56        32
+
+             accuracy                           0.51        90
+            macro avg       0.51      0.51      0.51        90
+         weighted avg       0.51      0.51      0.51        90
+
+
+Classification report for category_stromal_4:
+                       precision    recall  f1-score   support
+
+category_stromal_4_-1       0.61      0.55      0.58        31
+ category_stromal_4_0       0.43      0.48      0.46        27
+ category_stromal_4_1       0.56      0.56      0.56        32
+
+             accuracy                           0.53        90
+            macro avg       0.53      0.53      0.53        90
+         weighted avg       0.54      0.53      0.54        90
+
+
+Classification report for category_stromal_5:
+                       precision    recall  f1-score   support
+
+category_stromal_5_-1       0.44      0.44      0.44        32
+ category_stromal_5_0       0.35      0.32      0.33        28
+ category_stromal_5_1       0.38      0.40      0.39        30
+
+             accuracy                           0.39        90
+            macro avg       0.39      0.39      0.39        90
+         weighted avg       0.39      0.39      0.39        90
+
+
+Classification report for category_stromal_6:
+                       precision    recall  f1-score   support
+
+category_stromal_6_-1       0.56      0.54      0.55        28
+ category_stromal_6_0       0.58      0.44      0.50        32
+ category_stromal_6_1       0.49      0.63      0.55        30
+
+             accuracy                           0.53        90
+            macro avg       0.54      0.54      0.53        90
+         weighted avg       0.54      0.53      0.53        90
+
+
+Classification report for category_stromal_7:
+                       precision    recall  f1-score   support
+
+category_stromal_7_-1       0.59      0.57      0.58        30
+ category_stromal_7_0       0.43      0.44      0.44        27
+ category_stromal_7_1       0.61      0.61      0.61        33
+
+             accuracy                           0.54        90
+            macro avg       0.54      0.54      0.54        90
+         weighted avg       0.55      0.54      0.55        90
+
+
+Classification report for category_stromal_8:
+                       precision    recall  f1-score   support
+
+category_stromal_8_-1       0.53      0.54      0.54        35
+ category_stromal_8_0       0.32      0.33      0.33        24
+ category_stromal_8_1       0.52      0.48      0.50        31
+
+             accuracy                           0.47        90
+            macro avg       0.46      0.45      0.45        90
+         weighted avg       0.47      0.47      0.47        90
+
+
+Classification report for category_stromal_9:
+                       precision    recall  f1-score   support
+
+category_stromal_9_-1       0.60      0.48      0.54        31
+ category_stromal_9_0       0.41      0.48      0.44        27
+ category_stromal_9_1       0.52      0.53      0.52        32
+
+             accuracy                           0.50        90
+            macro avg       0.51      0.50      0.50        90
+         weighted avg       0.51      0.50      0.50        90
+
+
+Classification report for category_stromal_10:
+                        precision    recall  f1-score   support
+
+category_stromal_10_-1       0.28      0.35      0.31        26
+ category_stromal_10_0       0.33      0.16      0.22        37
+ category_stromal_10_1       0.25      0.37      0.30        27
+
+              accuracy                           0.28        90
+             macro avg       0.29      0.29      0.28        90
+          weighted avg       0.29      0.28      0.27        90
+
+
+Classification report for category_stromal_11:
+                        precision    recall  f1-score   support
+
+category_stromal_11_-1       0.59      0.52      0.55        33
+ category_stromal_11_0       0.42      0.52      0.46        25
+ category_stromal_11_1       0.53      0.50      0.52        32
+
+              accuracy                           0.51        90
+             macro avg       0.51      0.51      0.51        90
+          weighted avg       0.52      0.51      0.51        90
+
+
+Classification report for category_stromal_12:
+                        precision    recall  f1-score   support
+
+category_stromal_12_-1       0.53      0.50      0.52        32
+ category_stromal_12_0       0.33      0.32      0.33        25
+ category_stromal_12_1       0.50      0.55      0.52        33
+
+              accuracy                           0.47        90
+             macro avg       0.46      0.46      0.45        90
+          weighted avg       0.47      0.47      0.47        90
+
+
+Classification report for category_stromal_13:
+                        precision    recall  f1-score   support
+
+category_stromal_13_-1       0.62      0.70      0.66        30
+ category_stromal_13_0       0.24      0.36      0.29        22
+ category_stromal_13_1       0.52      0.32      0.39        38
+
+              accuracy                           0.46        90
+             macro avg       0.46      0.46      0.45        90
+          weighted avg       0.49      0.46      0.46        90
+
+
+Classification report for category_stromal_14:
+                        precision    recall  f1-score   support
+
+category_stromal_14_-1       0.59      0.46      0.52        35
+ category_stromal_14_0       0.34      0.52      0.41        23
+ category_stromal_14_1       0.61      0.53      0.57        32
+
+              accuracy                           0.50        90
+             macro avg       0.51      0.50      0.50        90
+          weighted avg       0.53      0.50      0.51        90
+
+
+Classification report for category_stromal_15:
+                        precision    recall  f1-score   support
+
+category_stromal_15_-1       0.42      0.42      0.42        31
+ category_stromal_15_0       0.38      0.31      0.34        29
+ category_stromal_15_1       0.51      0.60      0.55        30
+
+              accuracy                           0.44        90
+             macro avg       0.44      0.44      0.44        90
+          weighted avg       0.44      0.44      0.44        90
+
+
+Classification report for category_stromal_16:
+                        precision    recall  f1-score   support
+
+category_stromal_16_-1       0.47      0.56      0.51        27
+ category_stromal_16_0       0.58      0.47      0.52        32
+ category_stromal_16_1       0.50      0.52      0.51        31
+
+              accuracy                           0.51        90
+             macro avg       0.52      0.51      0.51        90
+          weighted avg       0.52      0.51      0.51        90
+
+
+Classification report for category_stromal_17:
+                        precision    recall  f1-score   support
+
+category_stromal_17_-1       0.52      0.57      0.54        30
+ category_stromal_17_0       0.35      0.22      0.27        32
+ category_stromal_17_1       0.32      0.43      0.37        28
+
+              accuracy                           0.40        90
+             macro avg       0.40      0.40      0.39        90
+          weighted avg       0.40      0.40      0.39        90
+
+
+Classification report for category_stromal_18:
+                        precision    recall  f1-score   support
+
+category_stromal_18_-1       0.52      0.52      0.52        33
+ category_stromal_18_0       0.32      0.50      0.39        20
+ category_stromal_18_1       0.58      0.41      0.48        37
+
+              accuracy                           0.47        90
+             macro avg       0.47      0.47      0.46        90
+          weighted avg       0.50      0.47      0.47        90
+
+
+Classification report for category_stromal_19:
+                        precision    recall  f1-score   support
+
+category_stromal_19_-1       0.56      0.55      0.55        33
+ category_stromal_19_0       0.36      0.36      0.36        28
+ category_stromal_19_1       0.37      0.38      0.37        29
+
+              accuracy                           0.43        90
+             macro avg       0.43      0.43      0.43        90
+          weighted avg       0.44      0.43      0.43        90
+
+
+Classification report for category_stromal_20:
+                        precision    recall  f1-score   support
+
+category_stromal_20_-1       0.61      0.62      0.62        32
+ category_stromal_20_0       0.45      0.54      0.49        26
+ category_stromal_20_1       0.58      0.47      0.52        32
+
+              accuracy                           0.54        90
+             macro avg       0.54      0.54      0.54        90
+          weighted avg       0.55      0.54      0.54        90
+
+
+Classification report for category_stromal_21:
+                        precision    recall  f1-score   support
+
+category_stromal_21_-1       0.32      0.24      0.28        33
+ category_stromal_21_0       0.32      0.37      0.34        30
+ category_stromal_21_1       0.26      0.30      0.28        27
+
+              accuracy                           0.30        90
+             macro avg       0.30      0.30      0.30        90
+          weighted avg       0.30      0.30      0.30        90
+
+
+Classification report for category_stromal_22:
+                        precision    recall  f1-score   support
+
+category_stromal_22_-1       0.48      0.50      0.49        30
+ category_stromal_22_0       0.39      0.43      0.41        30
+ category_stromal_22_1       0.54      0.47      0.50        30
+
+              accuracy                           0.47        90
+             macro avg       0.47      0.47      0.47        90
+          weighted avg       0.47      0.47      0.47        90
+
+
+Classification report for category_stromal_23:
+                        precision    recall  f1-score   support
+
+category_stromal_23_-1       0.59      0.58      0.58        33
+ category_stromal_23_0       0.42      0.37      0.39        27
+ category_stromal_23_1       0.50      0.57      0.53        30
+
+              accuracy                           0.51        90
+             macro avg       0.50      0.50      0.50        90
+          weighted avg       0.51      0.51      0.51        90
+
+
+Classification report for category_stromal_24:
+                        precision    recall  f1-score   support
+
+category_stromal_24_-1       0.62      0.48      0.55        31
+ category_stromal_24_0       0.52      0.52      0.52        27
+ category_stromal_24_1       0.51      0.62      0.56        32
+
+              accuracy                           0.54        90
+             macro avg       0.55      0.54      0.54        90
+          weighted avg       0.55      0.54      0.54        90
+
+
+Classification report for category_stromal_26:
+                        precision    recall  f1-score   support
+
+category_stromal_26_-1       0.47      0.52      0.49        29
+ category_stromal_26_0       0.42      0.37      0.39        27
+ category_stromal_26_1       0.59      0.59      0.59        34
+
+              accuracy                           0.50        90
+             macro avg       0.49      0.49      0.49        90
+          weighted avg       0.50      0.50      0.50        90
+
+
+Classification report for category_stromal_27:
+                        precision    recall  f1-score   support
+
+category_stromal_27_-1       0.48      0.57      0.52        28
+ category_stromal_27_0       0.41      0.37      0.39        30
+ category_stromal_27_1       0.60      0.56      0.58        32
+
+              accuracy                           0.50        90
+             macro avg       0.50      0.50      0.50        90
+          weighted avg       0.50      0.50      0.50        90
+
+
+Classification report for category_stromal_28:
+                        precision    recall  f1-score   support
+
+category_stromal_28_-1       0.47      0.50      0.48        30
+ category_stromal_28_0       0.39      0.33      0.36        27
+ category_stromal_28_1       0.57      0.61      0.59        33
+
+              accuracy                           0.49        90
+             macro avg       0.48      0.48      0.48        90
+          weighted avg       0.48      0.49      0.48        90
+
+
+Classification report for category_stromal_32:
+                        precision    recall  f1-score   support
+
+category_stromal_32_-1       0.42      0.56      0.48        25
+ category_stromal_32_0       0.31      0.30      0.30        27
+ category_stromal_32_1       0.52      0.42      0.46        38
+
+              accuracy                           0.42        90
+             macro avg       0.42      0.43      0.42        90
+          weighted avg       0.43      0.42      0.42        90
+
+
+Classification report for category_stromal_34:
+                        precision    recall  f1-score   support
+
+category_stromal_34_-1       0.53      0.68      0.59        28
+ category_stromal_34_0       0.48      0.52      0.50        25
+ category_stromal_34_1       0.70      0.51      0.59        37
+
+              accuracy                           0.57        90
+             macro avg       0.57      0.57      0.56        90
+          weighted avg       0.59      0.57      0.57        90
+
+
+Classification report for category_stromal_35:
+                        precision    recall  f1-score   support
+
+category_stromal_35_-1       0.55      0.59      0.57        29
+ category_stromal_35_0       0.58      0.48      0.53        29
+ category_stromal_35_1       0.51      0.56      0.54        32
+
+              accuracy                           0.54        90
+             macro avg       0.55      0.54      0.54        90
+          weighted avg       0.55      0.54      0.54        90
+
+
+Classification report for category_stromal_37:
+                        precision    recall  f1-score   support
+
+category_stromal_37_-1       0.50      0.62      0.56        32
+ category_stromal_37_0       0.32      0.24      0.27        29
+ category_stromal_37_1       0.36      0.34      0.35        29
+
+              accuracy                           0.41        90
+             macro avg       0.39      0.40      0.39        90
+          weighted avg       0.40      0.41      0.40        90
+
+
+Classification report for category_stromal_40:
+                        precision    recall  f1-score   support
+
+category_stromal_40_-1       0.57      0.50      0.53        32
+ category_stromal_40_0       0.43      0.48      0.46        27
+ category_stromal_40_1       0.47      0.48      0.48        31
+
+              accuracy                           0.49        90
+             macro avg       0.49      0.49      0.49        90
+          weighted avg       0.49      0.49      0.49        90
+
+
+Classification report for category_stromal_41:
+                        precision    recall  f1-score   support
+
+category_stromal_41_-1       0.55      0.55      0.55        33
+ category_stromal_41_0       0.34      0.52      0.41        23
+ category_stromal_41_1       0.55      0.35      0.43        34
+
+              accuracy                           0.47        90
+             macro avg       0.48      0.47      0.46        90
+          weighted avg       0.49      0.47      0.47        90
+
+
+Classification report for category_stromal_42:
+                        precision    recall  f1-score   support
+
+category_stromal_42_-1       0.33      0.27      0.30        30
+ category_stromal_42_0       0.28      0.36      0.31        28
+ category_stromal_42_1       0.37      0.34      0.35        32
+
+              accuracy                           0.32        90
+             macro avg       0.33      0.32      0.32        90
+          weighted avg       0.33      0.32      0.32        90
+
+
+Classification report for category_stromal_43:
+                        precision    recall  f1-score   support
+
+category_stromal_43_-1       0.50      0.36      0.42        36
+ category_stromal_43_0       0.19      0.35      0.25        20
+ category_stromal_43_1       0.43      0.35      0.39        34
+
+              accuracy                           0.36        90
+             macro avg       0.37      0.35      0.35        90
+          weighted avg       0.41      0.36      0.37        90
+
+
+Classification report for category_stromal_44:
+                        precision    recall  f1-score   support
+
+category_stromal_44_-1       0.45      0.59      0.51        29
+ category_stromal_44_0       0.31      0.29      0.30        28
+ category_stromal_44_1       0.50      0.39      0.44        33
+
+              accuracy                           0.42        90
+             macro avg       0.42      0.42      0.41        90
+          weighted avg       0.42      0.42      0.42        90
+
+
+Classification report for category_stromal_45:
+                        precision    recall  f1-score   support
+
+category_stromal_45_-1       0.54      0.68      0.60        28
+ category_stromal_45_0       0.54      0.54      0.54        28
+ category_stromal_45_1       0.56      0.44      0.49        34
+
+              accuracy                           0.54        90
+             macro avg       0.54      0.55      0.54        90
+          weighted avg       0.55      0.54      0.54        90
+
+
+Classification report for category_stromal_48:
+                        precision    recall  f1-score   support
+
+category_stromal_48_-1       0.52      0.33      0.41        33
+ category_stromal_48_0       0.29      0.35      0.32        26
+ category_stromal_48_1       0.42      0.52      0.46        31
+
+              accuracy                           0.40        90
+             macro avg       0.41      0.40      0.40        90
+          weighted avg       0.42      0.40      0.40        90
+
+
+Classification report for category_stromal_49:
+                        precision    recall  f1-score   support
+
+category_stromal_49_-1       0.47      0.52      0.49        29
+ category_stromal_49_0       0.55      0.43      0.48        28
+ category_stromal_49_1       0.50      0.55      0.52        33
+
+              accuracy                           0.50        90
+             macro avg       0.50      0.50      0.50        90
+          weighted avg       0.50      0.50      0.50        90
+
+
+Classification report for category_stromal_54:
+                        precision    recall  f1-score   support
+
+category_stromal_54_-1       0.54      0.44      0.48        32
+ category_stromal_54_0       0.35      0.28      0.31        29
+ category_stromal_54_1       0.37      0.52      0.43        29
+
+              accuracy                           0.41        90
+             macro avg       0.42      0.41      0.41        90
+          weighted avg       0.42      0.41      0.41        90
+
+
+Classification report for category_stromal_55:
+                        precision    recall  f1-score   support
+
+category_stromal_55_-1       0.65      0.61      0.62        33
+ category_stromal_55_0       0.48      0.54      0.51        26
+ category_stromal_55_1       0.47      0.45      0.46        31
+
+              accuracy                           0.53        90
+             macro avg       0.53      0.53      0.53        90
+          weighted avg       0.54      0.53      0.53        90
+
+
+Classification report for category_stromal_56:
+                        precision    recall  f1-score   support
+
+category_stromal_56_-1       0.25      0.36      0.30        25
+ category_stromal_56_0       0.36      0.24      0.29        34
+ category_stromal_56_1       0.38      0.39      0.38        31
+
+              accuracy                           0.32        90
+             macro avg       0.33      0.33      0.32        90
+          weighted avg       0.34      0.32      0.32        90
+
+
+Classification report for category_stromal_58:
+                        precision    recall  f1-score   support
+
+category_stromal_58_-1       0.50      0.47      0.48        32
+ category_stromal_58_0       0.52      0.50      0.51        28
+ category_stromal_58_1       0.48      0.53      0.51        30
+
+              accuracy                           0.50        90
+             macro avg       0.50      0.50      0.50        90
+          weighted avg       0.50      0.50      0.50        90
+
+
+Classification report for category_stromal_59:
+                        precision    recall  f1-score   support
+
+category_stromal_59_-1       0.51      0.63      0.57        30
+ category_stromal_59_0       0.38      0.52      0.44        23
+ category_stromal_59_1       0.67      0.38      0.48        37
+
+              accuracy                           0.50        90
+             macro avg       0.52      0.51      0.50        90
+          weighted avg       0.54      0.50      0.50        90
+
+
+Classification report for category_stromal_61:
+                        precision    recall  f1-score   support
+
+category_stromal_61_-1       0.39      0.68      0.49        25
+ category_stromal_61_0       0.57      0.23      0.33        35
+ category_stromal_61_1       0.44      0.47      0.45        30
+
+              accuracy                           0.43        90
+             macro avg       0.47      0.46      0.42        90
+          weighted avg       0.48      0.43      0.41        90
+
+
+Classification report for category_stromal_62:
+                        precision    recall  f1-score   support
+
+category_stromal_62_-1       0.63      0.59      0.61        29
+ category_stromal_62_0       0.55      0.55      0.55        29
+ category_stromal_62_1       0.62      0.66      0.64        32
+
+              accuracy                           0.60        90
+             macro avg       0.60      0.60      0.60        90
+          weighted avg       0.60      0.60      0.60        90
+
+
+Classification report for category_stromal_63:
+                        precision    recall  f1-score   support
+
+category_stromal_63_-1       0.50      0.68      0.58        31
+ category_stromal_63_0       0.36      0.33      0.35        24
+ category_stromal_63_1       0.54      0.40      0.46        35
+
+              accuracy                           0.48        90
+             macro avg       0.47      0.47      0.46        90
+          weighted avg       0.48      0.48      0.47        90
+
+
+Classification report for category_stromal_64:
+                        precision    recall  f1-score   support
+
+category_stromal_64_-1       0.44      0.54      0.48        28
+ category_stromal_64_0       0.54      0.43      0.48        30
+ category_stromal_64_1       0.53      0.53      0.53        32
+
+              accuracy                           0.50        90
+             macro avg       0.50      0.50      0.50        90
+          weighted avg       0.51      0.50      0.50        90
+
+
+Classification report for category_stromal_65:
+                        precision    recall  f1-score   support
+
+category_stromal_65_-1       0.46      0.53      0.49        30
+ category_stromal_65_0       0.32      0.38      0.35        26
+ category_stromal_65_1       0.38      0.26      0.31        34
+
+              accuracy                           0.39        90
+             macro avg       0.38      0.39      0.38        90
+          weighted avg       0.39      0.39      0.38        90
+
+
+Classification report for category_stromal_66:
+                        precision    recall  f1-score   support
+
+category_stromal_66_-1       0.46      0.43      0.45        30
+ category_stromal_66_0       0.34      0.50      0.41        22
+ category_stromal_66_1       0.50      0.39      0.44        38
+
+              accuracy                           0.43        90
+             macro avg       0.44      0.44      0.43        90
+          weighted avg       0.45      0.43      0.44        90
+
+
+Classification report for category_stromal_68:
+                        precision    recall  f1-score   support
+
+category_stromal_68_-1       0.36      0.31      0.33        32
+ category_stromal_68_0       0.33      0.21      0.25        34
+ category_stromal_68_1       0.29      0.50      0.37        24
+
+              accuracy                           0.32        90
+             macro avg       0.33      0.34      0.32        90
+          weighted avg       0.33      0.32      0.31        90
+
+
+Classification report for category_stromal_73:
+                        precision    recall  f1-score   support
+
+category_stromal_73_-1       0.53      0.52      0.52        31
+ category_stromal_73_0       0.36      0.35      0.35        26
+ category_stromal_73_1       0.43      0.45      0.44        33
+
+              accuracy                           0.44        90
+             macro avg       0.44      0.44      0.44        90
+          weighted avg       0.44      0.44      0.44        90
+
+
+Classification report for category_stromal_78:
+                        precision    recall  f1-score   support
+
+category_stromal_78_-1       0.57      0.62      0.60        32
+ category_stromal_78_0       0.52      0.44      0.48        27
+ category_stromal_78_1       0.53      0.55      0.54        31
+
+              accuracy                           0.54        90
+             macro avg       0.54      0.54      0.54        90
+          weighted avg       0.54      0.54      0.54        90
+
+
+Classification report for category_stromal_80:
+                        precision    recall  f1-score   support
+
+category_stromal_80_-1       0.38      0.32      0.35        34
+ category_stromal_80_0       0.28      0.28      0.28        29
+ category_stromal_80_1       0.28      0.33      0.31        27
+
+              accuracy                           0.31        90
+             macro avg       0.31      0.31      0.31        90
+          weighted avg       0.32      0.31      0.31        90
+
+
+Classification report for category_stromal_85:
+                        precision    recall  f1-score   support
+
+category_stromal_85_-1       0.40      0.29      0.33        35
+ category_stromal_85_0       0.26      0.35      0.30        26
+ category_stromal_85_1       0.30      0.31      0.31        29
+
+              accuracy                           0.31        90
+             macro avg       0.32      0.31      0.31        90
+          weighted avg       0.33      0.31      0.31        90
+
+
