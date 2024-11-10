@@ -4,6 +4,7 @@ from sklearn.metrics import classification_report
 import numpy as np
 import pandas as pd
 from scipy.stats import randint, uniform
+from xgboost import XGBClassifier
 
 data = pd.read_csv('~/Desktop/project_data_new/embedding_768_TCGA_COAD.csv')
 data.index = data['PatientID']
@@ -56,9 +57,17 @@ for chunk_start in range(0, 241, chunk_size):
             Y = label_encoder.fit_transform(Y)
             
             # Select top 100 features using RFE
-            rfe = RFE(estimator=xgb_clf, n_features_to_select=100)  # Choose top 100 features
-            X_selected = rfe.fit_transform(X, Y)
-            
+            xgb = XGBClassifier()
+            xgb.fit(X, Y)
+
+            # Get feature importances and select the top 100 indices
+            importances = xgb.feature_importances_
+            top_100_indices = np.argsort(importances)[-100:]
+
+            # Select top 100 features
+            X_selected = X[:, top_100_indices]
+
+
             # Split the data into training and testing sets
             X_train, X_test, Y_train, Y_test = train_test_split(
                 X_selected, Y, test_size=0.2, random_state=42, stratify=Y
@@ -67,13 +76,13 @@ for chunk_start in range(0, 241, chunk_size):
             # Define the hyperparameter distribution for RandomizedSearchCV
             param_dist = {
                 # Most important hyperparameters
-                'max_depth': randint(6, 15),
+                'max_depth': randint(6, 13),
                 'min_child_weight': randint(1, 10),
                 'subsample': uniform(0.9, 0.1),          # Higher is usually better
                 'colsample_bytree': uniform(0.9, 0.1),   # Range from 0.5 to 1.0
                 'learning_rate': uniform(0.01, 0.05),    # Starting from 0.01
                 # Regularization hyperparameters
-                'n_estimators': randint(800, 1500),
+                'n_estimators': randint(1000, 1500),
                 'gamma': uniform(2, 3),
                 # 'reg_alpha': uniform(0, 1),
                 # 'reg_lambda': uniform(1, 5),
@@ -83,7 +92,7 @@ for chunk_start in range(0, 241, chunk_size):
             random_search = RandomizedSearchCV(
                 estimator=xgb_clf,
                 param_distributions=param_dist,
-                n_iter=60, 
+                n_iter=160, 
                 cv=5,
                 scoring='f1_weighted',
                 n_jobs=-1,
