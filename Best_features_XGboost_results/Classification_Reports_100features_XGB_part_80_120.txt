@@ -1,0 +1,1000 @@
+Classification Report for category_epi_5 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.77      0.81      0.79       120
+           1       0.81      0.64      0.71       119
+           2       0.74      0.86      0.80       120
+
+    accuracy                           0.77       359
+   macro avg       0.77      0.77      0.77       359
+weighted avg       0.77      0.77      0.77       359
+
+Classification Report for category_epi_5 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.41      0.37      0.39        30
+           1       0.38      0.33      0.36        30
+           2       0.46      0.57      0.51        30
+
+    accuracy                           0.42        90
+   macro avg       0.42      0.42      0.42        90
+weighted avg       0.42      0.42      0.42        90
+
+
+================================================================================
+
+Classification Report for category_epi_6 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.82      0.90      0.86       120
+           1       0.85      0.82      0.84       119
+           2       0.88      0.82      0.84       120
+
+    accuracy                           0.85       359
+   macro avg       0.85      0.85      0.85       359
+weighted avg       0.85      0.85      0.85       359
+
+Classification Report for category_epi_6 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.47      0.50      0.48        30
+           1       0.39      0.40      0.39        30
+           2       0.56      0.50      0.53        30
+
+    accuracy                           0.47        90
+   macro avg       0.47      0.47      0.47        90
+weighted avg       0.47      0.47      0.47        90
+
+
+================================================================================
+
+Classification Report for category_epi_7 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.93      0.93      0.93       120
+           1       0.86      0.90      0.88       120
+           2       0.94      0.90      0.92       119
+
+    accuracy                           0.91       359
+   macro avg       0.91      0.91      0.91       359
+weighted avg       0.91      0.91      0.91       359
+
+Classification Report for category_epi_7 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.41      0.43      0.42        30
+           1       0.41      0.37      0.39        30
+           2       0.32      0.33      0.33        30
+
+    accuracy                           0.38        90
+   macro avg       0.38      0.38      0.38        90
+weighted avg       0.38      0.38      0.38        90
+
+
+================================================================================
+
+Classification Report for category_epi_8 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.94      0.94      0.94       120
+           1       0.97      0.95      0.96       119
+           2       0.91      0.93      0.92       120
+
+    accuracy                           0.94       359
+   macro avg       0.94      0.94      0.94       359
+weighted avg       0.94      0.94      0.94       359
+
+Classification Report for category_epi_8 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.43      0.40      0.41        30
+           1       0.39      0.23      0.29        30
+           2       0.41      0.60      0.49        30
+
+    accuracy                           0.41        90
+   macro avg       0.41      0.41      0.40        90
+weighted avg       0.41      0.41      0.40        90
+
+
+================================================================================
+
+Classification Report for category_epi_9 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.72      0.74      0.73       120
+           1       0.69      0.72      0.71       119
+           2       0.75      0.70      0.72       120
+
+    accuracy                           0.72       359
+   macro avg       0.72      0.72      0.72       359
+weighted avg       0.72      0.72      0.72       359
+
+Classification Report for category_epi_9 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.36      0.43      0.39        30
+           1       0.29      0.30      0.30        30
+           2       0.35      0.27      0.30        30
+
+    accuracy                           0.33        90
+   macro avg       0.33      0.33      0.33        90
+weighted avg       0.33      0.33      0.33        90
+
+
+================================================================================
+
+Classification Report for category_epi_10 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.93      0.93      0.93       120
+           1       0.96      0.90      0.93       119
+           2       0.90      0.96      0.93       120
+
+    accuracy                           0.93       359
+   macro avg       0.93      0.93      0.93       359
+weighted avg       0.93      0.93      0.93       359
+
+Classification Report for category_epi_10 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.27      0.20      0.23        30
+           1       0.26      0.27      0.26        30
+           2       0.35      0.43      0.39        30
+
+    accuracy                           0.30        90
+   macro avg       0.29      0.30      0.29        90
+weighted avg       0.29      0.30      0.29        90
+
+
+================================================================================
+
+Classification Report for category_epi_11 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.60      0.60      0.60       120
+           1       0.67      0.62      0.64       119
+           2       0.68      0.72      0.70       120
+
+    accuracy                           0.65       359
+   macro avg       0.65      0.65      0.65       359
+weighted avg       0.65      0.65      0.65       359
+
+Classification Report for category_epi_11 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.37      0.33      0.35        30
+           1       0.50      0.40      0.44        30
+           2       0.26      0.33      0.29        30
+
+    accuracy                           0.36        90
+   macro avg       0.38      0.36      0.36        90
+weighted avg       0.38      0.36      0.36        90
+
+
+================================================================================
+
+Classification Report for category_epi_12 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.72      0.55      0.62       120
+           1       0.51      0.45      0.48       119
+           2       0.57      0.78      0.65       120
+
+    accuracy                           0.59       359
+   macro avg       0.60      0.59      0.59       359
+weighted avg       0.60      0.59      0.59       359
+
+Classification Report for category_epi_12 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.40      0.33      0.36        30
+           1       0.52      0.53      0.52        30
+           2       0.56      0.63      0.59        30
+
+    accuracy                           0.50        90
+   macro avg       0.49      0.50      0.49        90
+weighted avg       0.49      0.50      0.49        90
+
+
+================================================================================
+
+Classification Report for category_epi_13 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.81      0.79      0.80       120
+           1       0.75      0.82      0.79       119
+           2       0.84      0.78      0.81       120
+
+    accuracy                           0.80       359
+   macro avg       0.80      0.80      0.80       359
+weighted avg       0.80      0.80      0.80       359
+
+Classification Report for category_epi_13 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.43      0.50      0.46        30
+           1       0.50      0.43      0.46        30
+           2       0.48      0.47      0.47        30
+
+    accuracy                           0.47        90
+   macro avg       0.47      0.47      0.47        90
+weighted avg       0.47      0.47      0.47        90
+
+
+================================================================================
+
+Classification Report for category_epi_14 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.85      0.80      0.82       120
+           1       0.83      0.87      0.85       119
+           2       0.85      0.85      0.85       120
+
+    accuracy                           0.84       359
+   macro avg       0.84      0.84      0.84       359
+weighted avg       0.84      0.84      0.84       359
+
+Classification Report for category_epi_14 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.42      0.47      0.44        30
+           1       0.37      0.37      0.37        30
+           2       0.30      0.27      0.28        30
+
+    accuracy                           0.37        90
+   macro avg       0.36      0.37      0.36        90
+weighted avg       0.36      0.37      0.36        90
+
+
+================================================================================
+
+Classification Report for category_epi_15 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.62      0.67      0.65       120
+           1       0.56      0.58      0.57       119
+           2       0.64      0.57      0.61       120
+
+    accuracy                           0.61       359
+   macro avg       0.61      0.61      0.61       359
+weighted avg       0.61      0.61      0.61       359
+
+Classification Report for category_epi_15 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.34      0.37      0.35        30
+           1       0.47      0.53      0.50        30
+           2       0.54      0.43      0.48        30
+
+    accuracy                           0.44        90
+   macro avg       0.45      0.44      0.45        90
+weighted avg       0.45      0.44      0.45        90
+
+
+================================================================================
+
+Classification Report for category_epi_16 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.78      0.79      0.79       120
+           1       0.79      0.77      0.78       119
+           2       0.83      0.84      0.84       120
+
+    accuracy                           0.80       359
+   macro avg       0.80      0.80      0.80       359
+weighted avg       0.80      0.80      0.80       359
+
+Classification Report for category_epi_16 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.41      0.50      0.45        30
+           1       0.33      0.30      0.32        30
+           2       0.46      0.40      0.43        30
+
+    accuracy                           0.40        90
+   macro avg       0.40      0.40      0.40        90
+weighted avg       0.40      0.40      0.40        90
+
+
+================================================================================
+
+Classification Report for category_epi_17 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.63      0.76      0.69       120
+           1       0.73      0.66      0.70       119
+           2       0.78      0.69      0.73       120
+
+    accuracy                           0.70       359
+   macro avg       0.71      0.70      0.71       359
+weighted avg       0.71      0.70      0.71       359
+
+Classification Report for category_epi_17 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.28      0.43      0.34        30
+           1       0.47      0.27      0.34        30
+           2       0.41      0.37      0.39        30
+
+    accuracy                           0.36        90
+   macro avg       0.39      0.36      0.36        90
+weighted avg       0.39      0.36      0.36        90
+
+
+================================================================================
+
+Classification Report for category_epi_18 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.69      0.62      0.65       120
+           1       0.62      0.54      0.58       119
+           2       0.63      0.78      0.70       120
+
+    accuracy                           0.65       359
+   macro avg       0.65      0.65      0.64       359
+weighted avg       0.65      0.65      0.64       359
+
+Classification Report for category_epi_18 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.60      0.60      0.60        30
+           1       0.33      0.27      0.30        30
+           2       0.44      0.53      0.48        30
+
+    accuracy                           0.47        90
+   macro avg       0.46      0.47      0.46        90
+weighted avg       0.46      0.47      0.46        90
+
+
+================================================================================
+
+Classification Report for category_epi_19 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.74      0.82      0.78       120
+           1       0.81      0.73      0.77       119
+           2       0.79      0.79      0.79       120
+
+    accuracy                           0.78       359
+   macro avg       0.78      0.78      0.78       359
+weighted avg       0.78      0.78      0.78       359
+
+Classification Report for category_epi_19 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.42      0.53      0.47        30
+           1       0.50      0.37      0.42        30
+           2       0.50      0.50      0.50        30
+
+    accuracy                           0.47        90
+   macro avg       0.47      0.47      0.46        90
+weighted avg       0.47      0.47      0.46        90
+
+
+================================================================================
+
+Classification Report for category_epi_20 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.85      0.78      0.81       120
+           1       0.83      0.80      0.81       119
+           2       0.80      0.89      0.85       120
+
+    accuracy                           0.82       359
+   macro avg       0.83      0.82      0.82       359
+weighted avg       0.83      0.82      0.82       359
+
+Classification Report for category_epi_20 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.45      0.50      0.48        30
+           1       0.50      0.40      0.44        30
+           2       0.52      0.57      0.54        30
+
+    accuracy                           0.49        90
+   macro avg       0.49      0.49      0.49        90
+weighted avg       0.49      0.49      0.49        90
+
+
+================================================================================
+
+Classification Report for category_epi_21 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.91      0.97      0.94       120
+           1       0.96      0.85      0.90       119
+           2       0.91      0.96      0.93       120
+
+    accuracy                           0.92       359
+   macro avg       0.93      0.92      0.92       359
+weighted avg       0.93      0.92      0.92       359
+
+Classification Report for category_epi_21 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.31      0.37      0.34        30
+           1       0.58      0.50      0.54        30
+           2       0.28      0.27      0.27        30
+
+    accuracy                           0.38        90
+   macro avg       0.39      0.38      0.38        90
+weighted avg       0.39      0.38      0.38        90
+
+
+================================================================================
+
+Classification Report for category_epi_22 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.64      0.73      0.68       120
+           1       0.60      0.56      0.58       119
+           2       0.75      0.69      0.72       120
+
+    accuracy                           0.66       359
+   macro avg       0.67      0.66      0.66       359
+weighted avg       0.67      0.66      0.66       359
+
+Classification Report for category_epi_22 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.49      0.73      0.59        30
+           1       0.50      0.43      0.46        30
+           2       0.42      0.27      0.33        30
+
+    accuracy                           0.48        90
+   macro avg       0.47      0.48      0.46        90
+weighted avg       0.47      0.48      0.46        90
+
+
+================================================================================
+
+Classification Report for category_epi_23 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.88      0.88      0.88       120
+           1       0.91      0.82      0.86       119
+           2       0.87      0.95      0.91       120
+
+    accuracy                           0.88       359
+   macro avg       0.88      0.88      0.88       359
+weighted avg       0.88      0.88      0.88       359
+
+Classification Report for category_epi_23 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.50      0.67      0.57        30
+           1       0.57      0.40      0.47        30
+           2       0.41      0.40      0.41        30
+
+    accuracy                           0.49        90
+   macro avg       0.50      0.49      0.48        90
+weighted avg       0.50      0.49      0.48        90
+
+
+================================================================================
+
+Classification Report for category_epi_24 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.90      0.91      0.90       120
+           1       0.91      0.89      0.90       119
+           2       0.93      0.93      0.93       120
+
+    accuracy                           0.91       359
+   macro avg       0.91      0.91      0.91       359
+weighted avg       0.91      0.91      0.91       359
+
+Classification Report for category_epi_24 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.44      0.50      0.47        30
+           1       0.54      0.43      0.48        30
+           2       0.38      0.40      0.39        30
+
+    accuracy                           0.44        90
+   macro avg       0.45      0.44      0.45        90
+weighted avg       0.45      0.44      0.45        90
+
+
+================================================================================
+
+Classification Report for category_epi_25 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.66      0.80      0.72       120
+           1       0.70      0.57      0.63       119
+           2       0.65      0.62      0.64       120
+
+    accuracy                           0.67       359
+   macro avg       0.67      0.67      0.66       359
+weighted avg       0.67      0.67      0.66       359
+
+Classification Report for category_epi_25 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.48      0.77      0.59        30
+           1       0.53      0.27      0.36        30
+           2       0.48      0.43      0.46        30
+
+    accuracy                           0.49        90
+   macro avg       0.50      0.49      0.47        90
+weighted avg       0.50      0.49      0.47        90
+
+
+================================================================================
+
+Classification Report for category_epi_26 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.82      0.85      0.84       121
+           1       0.83      0.81      0.82       118
+           2       0.83      0.82      0.83       120
+
+    accuracy                           0.83       359
+   macro avg       0.83      0.83      0.83       359
+weighted avg       0.83      0.83      0.83       359
+
+Classification Report for category_epi_26 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.62      0.50      0.56        30
+           1       0.36      0.40      0.38        30
+           2       0.30      0.33      0.32        30
+
+    accuracy                           0.41        90
+   macro avg       0.43      0.41      0.42        90
+weighted avg       0.43      0.41      0.42        90
+
+
+================================================================================
+
+Classification Report for category_epi_32 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.90      0.91      0.90       120
+           1       0.92      0.80      0.86       119
+           2       0.82      0.93      0.87       120
+
+    accuracy                           0.88       359
+   macro avg       0.88      0.88      0.88       359
+weighted avg       0.88      0.88      0.88       359
+
+Classification Report for category_epi_32 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.40      0.53      0.46        30
+           1       0.48      0.37      0.42        30
+           2       0.33      0.30      0.32        30
+
+    accuracy                           0.40        90
+   macro avg       0.40      0.40      0.40        90
+weighted avg       0.40      0.40      0.40        90
+
+
+================================================================================
+
+Classification Report for category_epi_34 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.95      0.90      0.92       120
+           1       0.93      0.94      0.94       119
+           2       0.91      0.95      0.93       120
+
+    accuracy                           0.93       359
+   macro avg       0.93      0.93      0.93       359
+weighted avg       0.93      0.93      0.93       359
+
+Classification Report for category_epi_34 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.48      0.37      0.42        30
+           1       0.44      0.50      0.47        30
+           2       0.39      0.43      0.41        30
+
+    accuracy                           0.43        90
+   macro avg       0.44      0.43      0.43        90
+weighted avg       0.44      0.43      0.43        90
+
+
+================================================================================
+
+Classification Report for category_epi_35 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.96      0.93      0.95       120
+           1       0.96      0.91      0.93       119
+           2       0.89      0.96      0.92       120
+
+    accuracy                           0.93       359
+   macro avg       0.93      0.93      0.93       359
+weighted avg       0.93      0.93      0.93       359
+
+Classification Report for category_epi_35 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.33      0.33      0.33        30
+           1       0.44      0.47      0.45        30
+           2       0.50      0.47      0.48        30
+
+    accuracy                           0.42        90
+   macro avg       0.42      0.42      0.42        90
+weighted avg       0.42      0.42      0.42        90
+
+
+================================================================================
+
+Classification Report for category_epi_36 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97       120
+           1       0.96      0.96      0.96       119
+           2       0.97      0.96      0.96       120
+
+    accuracy                           0.96       359
+   macro avg       0.96      0.96      0.96       359
+weighted avg       0.96      0.96      0.96       359
+
+Classification Report for category_epi_36 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.45      0.57      0.50        30
+           1       0.28      0.23      0.25        30
+           2       0.44      0.40      0.42        30
+
+    accuracy                           0.40        90
+   macro avg       0.39      0.40      0.39        90
+weighted avg       0.39      0.40      0.39        90
+
+
+================================================================================
+
+Classification Report for category_epi_40 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.93      0.88      0.91       121
+           1       0.92      0.92      0.92       118
+           2       0.86      0.90      0.88       120
+
+    accuracy                           0.90       359
+   macro avg       0.90      0.90      0.90       359
+weighted avg       0.90      0.90      0.90       359
+
+Classification Report for category_epi_40 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.43      0.43      0.43        30
+           1       0.39      0.50      0.44        30
+           2       0.55      0.40      0.46        30
+
+    accuracy                           0.44        90
+   macro avg       0.46      0.44      0.45        90
+weighted avg       0.46      0.44      0.45        90
+
+
+================================================================================
+
+Classification Report for category_epi_41 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.69      0.63      0.66       120
+           1       0.80      0.66      0.72       119
+           2       0.57      0.72      0.64       120
+
+    accuracy                           0.67       359
+   macro avg       0.69      0.67      0.67       359
+weighted avg       0.69      0.67      0.67       359
+
+Classification Report for category_epi_41 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.41      0.47      0.44        30
+           1       0.53      0.27      0.36        30
+           2       0.39      0.53      0.45        30
+
+    accuracy                           0.42        90
+   macro avg       0.45      0.42      0.41        90
+weighted avg       0.45      0.42      0.41        90
+
+
+================================================================================
+
+Classification Report for category_epi_42 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.98      0.98      0.98       120
+           1       0.99      0.97      0.98       119
+           2       0.97      0.98      0.98       120
+
+    accuracy                           0.98       359
+   macro avg       0.98      0.98      0.98       359
+weighted avg       0.98      0.98      0.98       359
+
+Classification Report for category_epi_42 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.45      0.33      0.38        30
+           1       0.44      0.50      0.47        30
+           2       0.47      0.53      0.50        30
+
+    accuracy                           0.46        90
+   macro avg       0.46      0.46      0.45        90
+weighted avg       0.46      0.46      0.45        90
+
+
+================================================================================
+
+Classification Report for category_epi_43 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.92      0.90      0.91       120
+           1       0.86      0.90      0.88       119
+           2       0.93      0.92      0.92       120
+
+    accuracy                           0.91       359
+   macro avg       0.91      0.91      0.91       359
+weighted avg       0.91      0.91      0.91       359
+
+Classification Report for category_epi_43 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.44      0.37      0.40        30
+           1       0.33      0.33      0.33        30
+           2       0.46      0.53      0.49        30
+
+    accuracy                           0.41        90
+   macro avg       0.41      0.41      0.41        90
+weighted avg       0.41      0.41      0.41        90
+
+
+================================================================================
+
+Classification Report for category_epi_44 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.76      0.75      0.75       120
+           1       0.66      0.58      0.62       119
+           2       0.67      0.75      0.71       120
+
+    accuracy                           0.69       359
+   macro avg       0.69      0.69      0.69       359
+weighted avg       0.69      0.69      0.69       359
+
+Classification Report for category_epi_44 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.36      0.33      0.34        30
+           1       0.40      0.47      0.43        30
+           2       0.41      0.37      0.39        30
+
+    accuracy                           0.39        90
+   macro avg       0.39      0.39      0.39        90
+weighted avg       0.39      0.39      0.39        90
+
+
+================================================================================
+
+Classification Report for category_epi_45 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.76      0.81      0.79       120
+           1       0.75      0.66      0.71       119
+           2       0.76      0.81      0.79       120
+
+    accuracy                           0.76       359
+   macro avg       0.76      0.76      0.76       359
+weighted avg       0.76      0.76      0.76       359
+
+Classification Report for category_epi_45 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.42      0.50      0.45        30
+           1       0.41      0.30      0.35        30
+           2       0.44      0.47      0.45        30
+
+    accuracy                           0.42        90
+   macro avg       0.42      0.42      0.42        90
+weighted avg       0.42      0.42      0.42        90
+
+
+================================================================================
+
+Classification Report for category_epi_46 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       120
+           1       0.99      0.98      0.99       119
+           2       0.98      0.99      0.98       120
+
+    accuracy                           0.99       359
+   macro avg       0.99      0.99      0.99       359
+weighted avg       0.99      0.99      0.99       359
+
+Classification Report for category_epi_46 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.39      0.43      0.41        30
+           1       0.35      0.27      0.30        30
+           2       0.41      0.47      0.44        30
+
+    accuracy                           0.39        90
+   macro avg       0.38      0.39      0.38        90
+weighted avg       0.38      0.39      0.38        90
+
+
+================================================================================
+
+Classification Report for category_epi_49 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.62      0.73      0.67       120
+           1       0.49      0.49      0.49       119
+           2       0.65      0.53      0.59       120
+
+    accuracy                           0.58       359
+   macro avg       0.59      0.58      0.58       359
+weighted avg       0.59      0.58      0.58       359
+
+Classification Report for category_epi_49 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.44      0.60      0.51        30
+           1       0.33      0.27      0.30        30
+           2       0.44      0.37      0.40        30
+
+    accuracy                           0.41        90
+   macro avg       0.40      0.41      0.40        90
+weighted avg       0.40      0.41      0.40        90
+
+
+================================================================================
+
+Classification Report for category_epi_50 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.94      0.93      0.93       120
+           1       0.93      0.93      0.93       119
+           2       0.95      0.97      0.96       120
+
+    accuracy                           0.94       359
+   macro avg       0.94      0.94      0.94       359
+weighted avg       0.94      0.94      0.94       359
+
+Classification Report for category_epi_50 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.44      0.60      0.51        30
+           1       0.42      0.33      0.37        30
+           2       0.48      0.40      0.44        30
+
+    accuracy                           0.44        90
+   macro avg       0.45      0.44      0.44        90
+weighted avg       0.45      0.44      0.44        90
+
+
+================================================================================
+
+Classification Report for category_epi_53 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.86      0.94      0.90       120
+           1       0.91      0.80      0.85       119
+           2       0.85      0.88      0.86       120
+
+    accuracy                           0.87       359
+   macro avg       0.87      0.87      0.87       359
+weighted avg       0.87      0.87      0.87       359
+
+Classification Report for category_epi_53 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.42      0.37      0.39        30
+           1       0.37      0.37      0.37        30
+           2       0.41      0.47      0.44        30
+
+    accuracy                           0.40        90
+   macro avg       0.40      0.40      0.40        90
+weighted avg       0.40      0.40      0.40        90
+
+
+================================================================================
+
+Classification Report for category_epi_55 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.85      0.87      0.86       120
+           1       0.82      0.83      0.82       119
+           2       0.89      0.85      0.87       120
+
+    accuracy                           0.85       359
+   macro avg       0.85      0.85      0.85       359
+weighted avg       0.85      0.85      0.85       359
+
+Classification Report for category_epi_55 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.42      0.53      0.47        30
+           1       0.41      0.23      0.30        30
+           2       0.49      0.57      0.52        30
+
+    accuracy                           0.44        90
+   macro avg       0.44      0.44      0.43        90
+weighted avg       0.44      0.44      0.43        90
+
+
+================================================================================
+
+Classification Report for category_epi_56 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.62      0.74      0.67       120
+           1       0.72      0.50      0.59       119
+           2       0.58      0.64      0.61       120
+
+    accuracy                           0.63       359
+   macro avg       0.64      0.63      0.63       359
+weighted avg       0.64      0.63      0.63       359
+
+Classification Report for category_epi_56 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.36      0.47      0.41        30
+           1       0.29      0.27      0.28        30
+           2       0.35      0.27      0.30        30
+
+    accuracy                           0.33        90
+   macro avg       0.33      0.33      0.33        90
+weighted avg       0.33      0.33      0.33        90
+
+
+================================================================================
+
+Classification Report for category_epi_57 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.97      0.93      0.94       120
+           1       0.97      0.92      0.95       119
+           2       0.89      0.97      0.92       120
+
+    accuracy                           0.94       359
+   macro avg       0.94      0.94      0.94       359
+weighted avg       0.94      0.94      0.94       359
+
+Classification Report for category_epi_57 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.38      0.43      0.41        30
+           1       0.32      0.30      0.31        30
+           2       0.39      0.37      0.38        30
+
+    accuracy                           0.37        90
+   macro avg       0.37      0.37      0.37        90
+weighted avg       0.37      0.37      0.37        90
+
+
+================================================================================
+
+Classification Report for category_epi_58 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.86      0.89      0.87       120
+           1       0.85      0.92      0.88       119
+           2       0.96      0.85      0.90       120
+
+    accuracy                           0.89       359
+   macro avg       0.89      0.89      0.89       359
+weighted avg       0.89      0.89      0.89       359
+
+Classification Report for category_epi_58 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.44      0.47      0.45        30
+           1       0.48      0.53      0.51        30
+           2       0.44      0.37      0.40        30
+
+    accuracy                           0.46        90
+   macro avg       0.45      0.46      0.45        90
+weighted avg       0.45      0.46      0.45        90
+
+
+================================================================================
+

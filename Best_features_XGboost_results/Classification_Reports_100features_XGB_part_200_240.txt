@@ -1,0 +1,1000 @@
+Classification Report for category_stromal_15 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.80      0.62      0.69       120
+           1       0.70      0.83      0.76       119
+           2       0.76      0.79      0.78       120
+
+    accuracy                           0.75       359
+   macro avg       0.75      0.75      0.74       359
+weighted avg       0.75      0.75      0.74       359
+
+Classification Report for category_stromal_15 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.38      0.30      0.33        30
+           1       0.41      0.40      0.41        30
+           2       0.35      0.43      0.39        30
+
+    accuracy                           0.38        90
+   macro avg       0.38      0.38      0.38        90
+weighted avg       0.38      0.38      0.38        90
+
+
+================================================================================
+
+Classification Report for category_stromal_16 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.78      0.65      0.71       120
+           1       0.63      0.70      0.66       119
+           2       0.67      0.71      0.69       120
+
+    accuracy                           0.69       359
+   macro avg       0.69      0.69      0.69       359
+weighted avg       0.69      0.69      0.69       359
+
+Classification Report for category_stromal_16 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.50      0.40      0.44        30
+           1       0.44      0.47      0.45        30
+           2       0.38      0.43      0.41        30
+
+    accuracy                           0.43        90
+   macro avg       0.44      0.43      0.43        90
+weighted avg       0.44      0.43      0.43        90
+
+
+================================================================================
+
+Classification Report for category_stromal_17 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.82      0.81      0.81       120
+           1       0.76      0.78      0.77       120
+           2       0.79      0.78      0.78       119
+
+    accuracy                           0.79       359
+   macro avg       0.79      0.79      0.79       359
+weighted avg       0.79      0.79      0.79       359
+
+Classification Report for category_stromal_17 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.40      0.53      0.46        30
+           1       0.30      0.27      0.28        30
+           2       0.35      0.27      0.30        30
+
+    accuracy                           0.36        90
+   macro avg       0.35      0.36      0.35        90
+weighted avg       0.35      0.36      0.35        90
+
+
+================================================================================
+
+Classification Report for category_stromal_18 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.79      0.74      0.77       120
+           1       0.75      0.73      0.74       119
+           2       0.76      0.83      0.80       120
+
+    accuracy                           0.77       359
+   macro avg       0.77      0.77      0.77       359
+weighted avg       0.77      0.77      0.77       359
+
+Classification Report for category_stromal_18 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.48      0.50      0.49        30
+           1       0.42      0.37      0.39        30
+           2       0.45      0.50      0.48        30
+
+    accuracy                           0.46        90
+   macro avg       0.45      0.46      0.45        90
+weighted avg       0.45      0.46      0.45        90
+
+
+================================================================================
+
+Classification Report for category_stromal_19 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.95      0.89      0.92       120
+           1       0.96      0.91      0.94       119
+           2       0.87      0.97      0.91       120
+
+    accuracy                           0.92       359
+   macro avg       0.93      0.92      0.92       359
+weighted avg       0.93      0.92      0.92       359
+
+Classification Report for category_stromal_19 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.40      0.33      0.36        30
+           1       0.41      0.57      0.48        30
+           2       0.42      0.33      0.37        30
+
+    accuracy                           0.41        90
+   macro avg       0.41      0.41      0.40        90
+weighted avg       0.41      0.41      0.40        90
+
+
+================================================================================
+
+Classification Report for category_stromal_20 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.69      0.56      0.62       120
+           1       0.66      0.74      0.70       119
+           2       0.63      0.68      0.65       120
+
+    accuracy                           0.66       359
+   macro avg       0.66      0.66      0.66       359
+weighted avg       0.66      0.66      0.66       359
+
+Classification Report for category_stromal_20 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.54      0.50      0.52        30
+           1       0.45      0.47      0.46        30
+           2       0.48      0.50      0.49        30
+
+    accuracy                           0.49        90
+   macro avg       0.49      0.49      0.49        90
+weighted avg       0.49      0.49      0.49        90
+
+
+================================================================================
+
+Classification Report for category_stromal_21 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.80      0.72      0.76       120
+           1       0.74      0.71      0.72       119
+           2       0.70      0.79      0.74       120
+
+    accuracy                           0.74       359
+   macro avg       0.74      0.74      0.74       359
+weighted avg       0.74      0.74      0.74       359
+
+Classification Report for category_stromal_21 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.42      0.33      0.37        30
+           1       0.31      0.30      0.31        30
+           2       0.35      0.43      0.39        30
+
+    accuracy                           0.36        90
+   macro avg       0.36      0.36      0.35        90
+weighted avg       0.36      0.36      0.35        90
+
+
+================================================================================
+
+Classification Report for category_stromal_22 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97       120
+           1       0.98      0.97      0.98       119
+           2       0.97      0.97      0.97       120
+
+    accuracy                           0.97       359
+   macro avg       0.97      0.97      0.97       359
+weighted avg       0.97      0.97      0.97       359
+
+Classification Report for category_stromal_22 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.43      0.53      0.48        30
+           1       0.35      0.30      0.32        30
+           2       0.48      0.43      0.46        30
+
+    accuracy                           0.42        90
+   macro avg       0.42      0.42      0.42        90
+weighted avg       0.42      0.42      0.42        90
+
+
+================================================================================
+
+Classification Report for category_stromal_23 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.90      0.82      0.86       120
+           1       0.79      0.87      0.83       119
+           2       0.88      0.88      0.88       120
+
+    accuracy                           0.85       359
+   macro avg       0.86      0.85      0.85       359
+weighted avg       0.86      0.85      0.85       359
+
+Classification Report for category_stromal_23 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.63      0.57      0.60        30
+           1       0.37      0.33      0.35        30
+           2       0.44      0.53      0.48        30
+
+    accuracy                           0.48        90
+   macro avg       0.48      0.48      0.48        90
+weighted avg       0.48      0.48      0.48        90
+
+
+================================================================================
+
+Classification Report for category_stromal_24 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.93      0.92      0.92       120
+           1       0.86      0.85      0.85       119
+           2       0.89      0.91      0.90       120
+
+    accuracy                           0.89       359
+   macro avg       0.89      0.89      0.89       359
+weighted avg       0.89      0.89      0.89       359
+
+Classification Report for category_stromal_24 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.47      0.53      0.50        30
+           1       0.57      0.57      0.57        30
+           2       0.54      0.47      0.50        30
+
+    accuracy                           0.52        90
+   macro avg       0.53      0.52      0.52        90
+weighted avg       0.53      0.52      0.52        90
+
+
+================================================================================
+
+Classification Report for category_stromal_26 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.82      0.68      0.75       120
+           1       0.66      0.76      0.70       119
+           2       0.77      0.78      0.78       120
+
+    accuracy                           0.74       359
+   macro avg       0.75      0.74      0.74       359
+weighted avg       0.75      0.74      0.74       359
+
+Classification Report for category_stromal_26 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.52      0.53      0.52        30
+           1       0.48      0.50      0.49        30
+           2       0.54      0.50      0.52        30
+
+    accuracy                           0.51        90
+   macro avg       0.51      0.51      0.51        90
+weighted avg       0.51      0.51      0.51        90
+
+
+================================================================================
+
+Classification Report for category_stromal_27 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.85      0.69      0.76       120
+           1       0.67      0.74      0.70       119
+           2       0.73      0.79      0.76       120
+
+    accuracy                           0.74       359
+   macro avg       0.75      0.74      0.74       359
+weighted avg       0.75      0.74      0.74       359
+
+Classification Report for category_stromal_27 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.40      0.40      0.40        30
+           1       0.44      0.40      0.42        30
+           2       0.55      0.60      0.57        30
+
+    accuracy                           0.47        90
+   macro avg       0.46      0.47      0.46        90
+weighted avg       0.46      0.47      0.46        90
+
+
+================================================================================
+
+Classification Report for category_stromal_28 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.97      0.93      0.95       120
+           1       0.91      0.94      0.93       119
+           2       0.95      0.97      0.96       120
+
+    accuracy                           0.94       359
+   macro avg       0.95      0.94      0.94       359
+weighted avg       0.95      0.94      0.94       359
+
+Classification Report for category_stromal_28 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.47      0.50      0.48        30
+           1       0.47      0.57      0.52        30
+           2       0.45      0.33      0.38        30
+
+    accuracy                           0.47        90
+   macro avg       0.47      0.47      0.46        90
+weighted avg       0.47      0.47      0.46        90
+
+
+================================================================================
+
+Classification Report for category_stromal_32 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.98      0.98      0.98       120
+           1       0.97      0.94      0.96       119
+           2       0.95      0.98      0.97       120
+
+    accuracy                           0.97       359
+   macro avg       0.97      0.97      0.97       359
+weighted avg       0.97      0.97      0.97       359
+
+Classification Report for category_stromal_32 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.55      0.53      0.54        30
+           1       0.48      0.43      0.46        30
+           2       0.62      0.70      0.66        30
+
+    accuracy                           0.56        90
+   macro avg       0.55      0.56      0.55        90
+weighted avg       0.55      0.56      0.55        90
+
+
+================================================================================
+
+Classification Report for category_stromal_34 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.81      0.72      0.76       120
+           1       0.70      0.73      0.72       119
+           2       0.78      0.82      0.80       120
+
+    accuracy                           0.76       359
+   macro avg       0.76      0.76      0.76       359
+weighted avg       0.76      0.76      0.76       359
+
+Classification Report for category_stromal_34 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.50      0.43      0.46        30
+           1       0.42      0.47      0.44        30
+           2       0.58      0.60      0.59        30
+
+    accuracy                           0.50        90
+   macro avg       0.50      0.50      0.50        90
+weighted avg       0.50      0.50      0.50        90
+
+
+================================================================================
+
+Classification Report for category_stromal_35 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.92      0.91      0.91       120
+           1       0.89      0.87      0.88       119
+           2       0.89      0.92      0.90       120
+
+    accuracy                           0.90       359
+   macro avg       0.90      0.90      0.90       359
+weighted avg       0.90      0.90      0.90       359
+
+Classification Report for category_stromal_35 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.54      0.50      0.52        30
+           1       0.43      0.43      0.43        30
+           2       0.56      0.60      0.58        30
+
+    accuracy                           0.51        90
+   macro avg       0.51      0.51      0.51        90
+weighted avg       0.51      0.51      0.51        90
+
+
+================================================================================
+
+Classification Report for category_stromal_37 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.94      0.92      0.93       120
+           1       0.91      0.97      0.94       119
+           2       0.98      0.95      0.97       120
+
+    accuracy                           0.94       359
+   macro avg       0.95      0.94      0.94       359
+weighted avg       0.95      0.94      0.94       359
+
+Classification Report for category_stromal_37 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.50      0.53      0.52        30
+           1       0.48      0.47      0.47        30
+           2       0.38      0.37      0.37        30
+
+    accuracy                           0.46        90
+   macro avg       0.45      0.46      0.45        90
+weighted avg       0.45      0.46      0.45        90
+
+
+================================================================================
+
+Classification Report for category_stromal_40 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.88      0.89      0.89       120
+           1       0.88      0.87      0.87       119
+           2       0.90      0.91      0.90       120
+
+    accuracy                           0.89       359
+   macro avg       0.89      0.89      0.89       359
+weighted avg       0.89      0.89      0.89       359
+
+Classification Report for category_stromal_40 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.50      0.53      0.52        30
+           1       0.42      0.47      0.44        30
+           2       0.44      0.37      0.40        30
+
+    accuracy                           0.46        90
+   macro avg       0.45      0.46      0.45        90
+weighted avg       0.45      0.46      0.45        90
+
+
+================================================================================
+
+Classification Report for category_stromal_41 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.93      0.96      0.95       120
+           1       0.91      0.95      0.93       119
+           2       0.99      0.93      0.96       120
+
+    accuracy                           0.94       359
+   macro avg       0.95      0.94      0.94       359
+weighted avg       0.95      0.94      0.94       359
+
+Classification Report for category_stromal_41 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.45      0.63      0.53        30
+           1       0.34      0.33      0.34        30
+           2       0.26      0.17      0.20        30
+
+    accuracy                           0.38        90
+   macro avg       0.35      0.38      0.36        90
+weighted avg       0.35      0.38      0.36        90
+
+
+================================================================================
+
+Classification Report for category_stromal_42 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.95      0.94      0.95       120
+           1       0.93      0.94      0.93       119
+           2       0.95      0.94      0.95       120
+
+    accuracy                           0.94       359
+   macro avg       0.94      0.94      0.94       359
+weighted avg       0.94      0.94      0.94       359
+
+Classification Report for category_stromal_42 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.55      0.57      0.56        30
+           1       0.41      0.47      0.44        30
+           2       0.36      0.30      0.33        30
+
+    accuracy                           0.44        90
+   macro avg       0.44      0.44      0.44        90
+weighted avg       0.44      0.44      0.44        90
+
+
+================================================================================
+
+Classification Report for category_stromal_43 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.92      0.95      0.93       120
+           1       0.99      0.90      0.94       119
+           2       0.91      0.97      0.94       120
+
+    accuracy                           0.94       359
+   macro avg       0.94      0.94      0.94       359
+weighted avg       0.94      0.94      0.94       359
+
+Classification Report for category_stromal_43 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.50      0.47      0.48        30
+           1       0.51      0.60      0.55        30
+           2       0.52      0.47      0.49        30
+
+    accuracy                           0.51        90
+   macro avg       0.51      0.51      0.51        90
+weighted avg       0.51      0.51      0.51        90
+
+
+================================================================================
+
+Classification Report for category_stromal_44 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.92      0.93      0.93       120
+           1       0.94      0.94      0.94       120
+           2       0.95      0.93      0.94       119
+
+    accuracy                           0.94       359
+   macro avg       0.94      0.94      0.94       359
+weighted avg       0.94      0.94      0.94       359
+
+Classification Report for category_stromal_44 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.47      0.53      0.50        30
+           1       0.52      0.40      0.45        30
+           2       0.48      0.53      0.51        30
+
+    accuracy                           0.49        90
+   macro avg       0.49      0.49      0.49        90
+weighted avg       0.49      0.49      0.49        90
+
+
+================================================================================
+
+Classification Report for category_stromal_45 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.98      0.88      0.93       120
+           1       0.85      0.88      0.86       119
+           2       0.87      0.93      0.90       120
+
+    accuracy                           0.90       359
+   macro avg       0.90      0.90      0.90       359
+weighted avg       0.90      0.90      0.90       359
+
+Classification Report for category_stromal_45 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.55      0.60      0.57        30
+           1       0.48      0.47      0.47        30
+           2       0.57      0.53      0.55        30
+
+    accuracy                           0.53        90
+   macro avg       0.53      0.53      0.53        90
+weighted avg       0.53      0.53      0.53        90
+
+
+================================================================================
+
+Classification Report for category_stromal_48 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.91      0.89      0.90       120
+           1       0.92      0.91      0.92       119
+           2       0.87      0.90      0.89       120
+
+    accuracy                           0.90       359
+   macro avg       0.90      0.90      0.90       359
+weighted avg       0.90      0.90      0.90       359
+
+Classification Report for category_stromal_48 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.46      0.40      0.43        30
+           1       0.55      0.53      0.54        30
+           2       0.46      0.53      0.49        30
+
+    accuracy                           0.49        90
+   macro avg       0.49      0.49      0.49        90
+weighted avg       0.49      0.49      0.49        90
+
+
+================================================================================
+
+Classification Report for category_stromal_49 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.75      0.64      0.69       120
+           1       0.60      0.63      0.61       119
+           2       0.62      0.68      0.65       120
+
+    accuracy                           0.65       359
+   macro avg       0.66      0.65      0.65       359
+weighted avg       0.66      0.65      0.65       359
+
+Classification Report for category_stromal_49 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.46      0.37      0.41        30
+           1       0.50      0.53      0.52        30
+           2       0.50      0.57      0.53        30
+
+    accuracy                           0.49        90
+   macro avg       0.49      0.49      0.48        90
+weighted avg       0.49      0.49      0.48        90
+
+
+================================================================================
+
+Classification Report for category_stromal_54 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.98      0.93      0.96       120
+           1       0.94      0.97      0.95       119
+           2       0.97      0.99      0.98       120
+
+    accuracy                           0.96       359
+   macro avg       0.96      0.96      0.96       359
+weighted avg       0.96      0.96      0.96       359
+
+Classification Report for category_stromal_54 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.52      0.43      0.47        30
+           1       0.35      0.37      0.36        30
+           2       0.41      0.47      0.44        30
+
+    accuracy                           0.42        90
+   macro avg       0.43      0.42      0.42        90
+weighted avg       0.43      0.42      0.42        90
+
+
+================================================================================
+
+Classification Report for category_stromal_55 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.88      0.90      0.89       120
+           1       0.89      0.88      0.89       119
+           2       0.91      0.89      0.90       120
+
+    accuracy                           0.89       359
+   macro avg       0.89      0.89      0.89       359
+weighted avg       0.89      0.89      0.89       359
+
+Classification Report for category_stromal_55 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.55      0.57      0.56        30
+           1       0.44      0.37      0.40        30
+           2       0.38      0.43      0.41        30
+
+    accuracy                           0.46        90
+   macro avg       0.46      0.46      0.45        90
+weighted avg       0.46      0.46      0.45        90
+
+
+================================================================================
+
+Classification Report for category_stromal_56 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.94      0.91      0.92       120
+           1       0.96      0.90      0.93       119
+           2       0.89      0.97      0.93       120
+
+    accuracy                           0.93       359
+   macro avg       0.93      0.93      0.93       359
+weighted avg       0.93      0.93      0.93       359
+
+Classification Report for category_stromal_56 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.52      0.40      0.45        30
+           1       0.43      0.53      0.48        30
+           2       0.40      0.40      0.40        30
+
+    accuracy                           0.44        90
+   macro avg       0.45      0.44      0.44        90
+weighted avg       0.45      0.44      0.44        90
+
+
+================================================================================
+
+Classification Report for category_stromal_58 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.97      0.95      0.96       121
+           1       0.94      0.94      0.94       118
+           2       0.94      0.97      0.95       120
+
+    accuracy                           0.95       359
+   macro avg       0.95      0.95      0.95       359
+weighted avg       0.95      0.95      0.95       359
+
+Classification Report for category_stromal_58 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.41      0.47      0.44        30
+           1       0.48      0.47      0.47        30
+           2       0.41      0.37      0.39        30
+
+    accuracy                           0.43        90
+   macro avg       0.43      0.43      0.43        90
+weighted avg       0.43      0.43      0.43        90
+
+
+================================================================================
+
+Classification Report for category_stromal_59 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.76      0.74      0.75       120
+           1       0.59      0.61      0.60       119
+           2       0.72      0.71      0.71       120
+
+    accuracy                           0.69       359
+   macro avg       0.69      0.69      0.69       359
+weighted avg       0.69      0.69      0.69       359
+
+Classification Report for category_stromal_59 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.41      0.47      0.44        30
+           1       0.47      0.57      0.52        30
+           2       0.30      0.20      0.24        30
+
+    accuracy                           0.41        90
+   macro avg       0.39      0.41      0.40        90
+weighted avg       0.39      0.41      0.40        90
+
+
+================================================================================
+
+Classification Report for category_stromal_61 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.98      0.94      0.96       120
+           1       0.95      0.98      0.97       119
+           2       0.98      0.99      0.99       120
+
+    accuracy                           0.97       359
+   macro avg       0.97      0.97      0.97       359
+weighted avg       0.97      0.97      0.97       359
+
+Classification Report for category_stromal_61 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.34      0.33      0.34        30
+           1       0.34      0.37      0.35        30
+           2       0.28      0.27      0.27        30
+
+    accuracy                           0.32        90
+   macro avg       0.32      0.32      0.32        90
+weighted avg       0.32      0.32      0.32        90
+
+
+================================================================================
+
+Classification Report for category_stromal_62 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.95      0.93      0.94       120
+           1       0.89      0.91      0.90       119
+           2       0.92      0.91      0.91       120
+
+    accuracy                           0.92       359
+   macro avg       0.92      0.92      0.92       359
+weighted avg       0.92      0.92      0.92       359
+
+Classification Report for category_stromal_62 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.57      0.57      0.57        30
+           1       0.46      0.40      0.43        30
+           2       0.50      0.57      0.53        30
+
+    accuracy                           0.51        90
+   macro avg       0.51      0.51      0.51        90
+weighted avg       0.51      0.51      0.51        90
+
+
+================================================================================
+
+Classification Report for category_stromal_63 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.97      0.92      0.94       120
+           1       0.94      0.96      0.95       119
+           2       0.94      0.97      0.96       120
+
+    accuracy                           0.95       359
+   macro avg       0.95      0.95      0.95       359
+weighted avg       0.95      0.95      0.95       359
+
+Classification Report for category_stromal_63 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.54      0.63      0.58        30
+           1       0.50      0.43      0.46        30
+           2       0.52      0.50      0.51        30
+
+    accuracy                           0.52        90
+   macro avg       0.52      0.52      0.52        90
+weighted avg       0.52      0.52      0.52        90
+
+
+================================================================================
+
+Classification Report for category_stromal_64 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.90      0.85      0.88       120
+           1       0.84      0.82      0.83       119
+           2       0.82      0.89      0.86       120
+
+    accuracy                           0.85       359
+   macro avg       0.85      0.85      0.85       359
+weighted avg       0.85      0.85      0.85       359
+
+Classification Report for category_stromal_64 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.37      0.23      0.29        30
+           1       0.46      0.57      0.51        30
+           2       0.53      0.60      0.56        30
+
+    accuracy                           0.47        90
+   macro avg       0.45      0.47      0.45        90
+weighted avg       0.45      0.47      0.45        90
+
+
+================================================================================
+
+Classification Report for category_stromal_65 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.68      0.76      0.72       120
+           1       0.62      0.62      0.62       119
+           2       0.67      0.59      0.63       120
+
+    accuracy                           0.66       359
+   macro avg       0.66      0.66      0.66       359
+weighted avg       0.66      0.66      0.66       359
+
+Classification Report for category_stromal_65 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.50      0.50      0.50        30
+           1       0.53      0.60      0.56        30
+           2       0.46      0.40      0.43        30
+
+    accuracy                           0.50        90
+   macro avg       0.50      0.50      0.50        90
+weighted avg       0.50      0.50      0.50        90
+
+
+================================================================================
+
+Classification Report for category_stromal_66 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.88      0.85      0.86       120
+           1       0.79      0.81      0.80       119
+           2       0.86      0.87      0.86       120
+
+    accuracy                           0.84       359
+   macro avg       0.84      0.84      0.84       359
+weighted avg       0.84      0.84      0.84       359
+
+Classification Report for category_stromal_66 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.56      0.60      0.58        30
+           1       0.48      0.53      0.51        30
+           2       0.56      0.47      0.51        30
+
+    accuracy                           0.53        90
+   macro avg       0.54      0.53      0.53        90
+weighted avg       0.54      0.53      0.53        90
+
+
+================================================================================
+
+Classification Report for category_stromal_68 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.58      0.78      0.67       120
+           1       0.76      0.44      0.56       119
+           2       0.64      0.68      0.66       120
+
+    accuracy                           0.64       359
+   macro avg       0.66      0.63      0.63       359
+weighted avg       0.66      0.64      0.63       359
+
+Classification Report for category_stromal_68 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.42      0.53      0.47        30
+           1       0.36      0.17      0.23        30
+           2       0.45      0.57      0.50        30
+
+    accuracy                           0.42        90
+   macro avg       0.41      0.42      0.40        90
+weighted avg       0.41      0.42      0.40        90
+
+
+================================================================================
+
+Classification Report for category_stromal_73 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.88      0.84      0.86       120
+           1       0.78      0.83      0.80       119
+           2       0.84      0.82      0.83       120
+
+    accuracy                           0.83       359
+   macro avg       0.83      0.83      0.83       359
+weighted avg       0.83      0.83      0.83       359
+
+Classification Report for category_stromal_73 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.53      0.53      0.53        30
+           1       0.38      0.40      0.39        30
+           2       0.54      0.50      0.52        30
+
+    accuracy                           0.48        90
+   macro avg       0.48      0.48      0.48        90
+weighted avg       0.48      0.48      0.48        90
+
+
+================================================================================
+
+Classification Report for category_stromal_78 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.97      0.94      0.95       120
+           1       0.95      0.95      0.95       119
+           2       0.94      0.97      0.95       120
+
+    accuracy                           0.95       359
+   macro avg       0.95      0.95      0.95       359
+weighted avg       0.95      0.95      0.95       359
+
+Classification Report for category_stromal_78 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.47      0.60      0.53        30
+           1       0.43      0.30      0.35        30
+           2       0.45      0.47      0.46        30
+
+    accuracy                           0.46        90
+   macro avg       0.45      0.46      0.45        90
+weighted avg       0.45      0.46      0.45        90
+
+
+================================================================================
+
+Classification Report for category_stromal_80 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.63      0.68      0.65       120
+           1       0.78      0.58      0.66       119
+           2       0.60      0.71      0.65       120
+
+    accuracy                           0.65       359
+   macro avg       0.67      0.65      0.66       359
+weighted avg       0.67      0.65      0.66       359
+
+Classification Report for category_stromal_80 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.36      0.30      0.33        30
+           1       0.48      0.47      0.47        30
+           2       0.42      0.50      0.45        30
+
+    accuracy                           0.42        90
+   macro avg       0.42      0.42      0.42        90
+weighted avg       0.42      0.42      0.42        90
+
+
+================================================================================
+

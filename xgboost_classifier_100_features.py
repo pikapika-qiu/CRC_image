@@ -36,7 +36,7 @@ X = data.values
 chunk_size = 40
 
 # Loop through target columns in chunks
-for chunk_start in range(0, 241, chunk_size):
+for chunk_start in range(200, 241, chunk_size):
     # Get the current chunk of target columns
     chunk_end = min(chunk_start + chunk_size, 241)
     target_chunk = data_target.columns[chunk_start:chunk_end]
@@ -132,7 +132,7 @@ for chunk_start in range(0, 241, chunk_size):
             test_accuracy = accuracy_score(Y_test, Y_test_pred)
             
             # Extract test set class-specific metrics for class '1'
-            test_class_1_metrics = test_report_dict.get('1', {"precision": None, "recall": None, "f1-score": None})
+            test_class_1_metrics = test_report_dict.get('2', {"precision": None, "recall": None, "f1-score": None})
             
             # Calculate and store training set metrics
             train_precision = precision_score(Y_train, Y_train_pred, average='weighted')
@@ -140,7 +140,7 @@ for chunk_start in range(0, 241, chunk_size):
             train_accuracy = accuracy_score(Y_train, Y_train_pred)
             
             # Extract training set class-specific metrics for class '1'
-            train_class_1_metrics = train_report_dict.get('1', {"precision": None, "recall": None, "f1-score": None})
+            train_class_1_metrics = train_report_dict.get('2', {"precision": None, "recall": None, "f1-score": None})
             
             # Append results to chunk_results
             chunk_results.append({
