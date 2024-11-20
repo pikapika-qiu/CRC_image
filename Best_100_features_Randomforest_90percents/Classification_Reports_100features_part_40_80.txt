@@ -1,0 +1,1440 @@
+Classification Report for category_b_3 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       0.99      0.99      0.99       105
+           0       0.98      0.99      0.99       112
+           1       1.00      0.99      1.00       108
+
+    accuracy                           0.99       325
+   macro avg       0.99      0.99      0.99       325
+weighted avg       0.99      0.99      0.99       325
+
+Classification Report for category_b_3 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.57      0.62      0.59        26
+           0       0.46      0.43      0.44        28
+           1       0.64      0.64      0.64        28
+
+    accuracy                           0.56        82
+   macro avg       0.56      0.56      0.56        82
+weighted avg       0.56      0.56      0.56        82
+
+Classification Report for category_b_3 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.55      0.32      0.40        19
+           0       0.29      0.56      0.38         9
+           1       0.21      0.21      0.21        14
+
+    accuracy                           0.33        42
+   macro avg       0.35      0.36      0.33        42
+weighted avg       0.38      0.33      0.33        42
+
+
+================================================================================
+
+Classification Report for category_b_4 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      0.99      1.00       108
+           0       0.99      1.00      1.00       108
+           1       1.00      1.00      1.00       109
+
+    accuracy                           1.00       325
+   macro avg       1.00      1.00      1.00       325
+weighted avg       1.00      1.00      1.00       325
+
+Classification Report for category_b_4 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.44      0.50      0.47        28
+           0       0.36      0.33      0.35        27
+           1       0.28      0.26      0.27        27
+
+    accuracy                           0.37        82
+   macro avg       0.36      0.36      0.36        82
+weighted avg       0.36      0.37      0.36        82
+
+Classification Report for category_b_4 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.38      0.43      0.40        14
+           0       0.14      0.07      0.10        14
+           1       0.37      0.50      0.42        14
+
+    accuracy                           0.33        42
+   macro avg       0.30      0.33      0.31        42
+weighted avg       0.30      0.33      0.31        42
+
+
+================================================================================
+
+Classification Report for category_b_5 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       0.99      0.99      0.99       105
+           0       0.97      0.98      0.98       111
+           1       0.99      0.98      0.99       109
+
+    accuracy                           0.98       325
+   macro avg       0.98      0.98      0.98       325
+weighted avg       0.98      0.98      0.98       325
+
+Classification Report for category_b_5 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.48      0.50      0.49        26
+           0       0.42      0.39      0.41        28
+           1       0.38      0.39      0.39        28
+
+    accuracy                           0.43        82
+   macro avg       0.43      0.43      0.43        82
+weighted avg       0.43      0.43      0.43        82
+
+Classification Report for category_b_5 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.55      0.32      0.40        19
+           0       0.25      0.30      0.27        10
+           1       0.37      0.54      0.44        13
+
+    accuracy                           0.38        42
+   macro avg       0.39      0.38      0.37        42
+weighted avg       0.42      0.38      0.38        42
+
+
+================================================================================
+
+Classification Report for category_b_6 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      0.96      0.98       105
+           0       0.97      1.00      0.98       111
+           1       0.99      0.99      0.99       109
+
+    accuracy                           0.98       325
+   macro avg       0.99      0.98      0.98       325
+weighted avg       0.99      0.98      0.98       325
+
+Classification Report for category_b_6 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.52      0.62      0.56        26
+           0       0.59      0.36      0.44        28
+           1       0.50      0.61      0.55        28
+
+    accuracy                           0.52        82
+   macro avg       0.53      0.53      0.52        82
+weighted avg       0.54      0.52      0.52        82
+
+Classification Report for category_b_6 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.50      0.32      0.39        19
+           0       0.07      0.10      0.08        10
+           1       0.13      0.15      0.14        13
+
+    accuracy                           0.21        42
+   macro avg       0.23      0.19      0.20        42
+weighted avg       0.28      0.21      0.24        42
+
+
+================================================================================
+
+Classification Report for category_b_7 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      0.95      0.98       106
+           0       0.96      1.00      0.98       110
+           1       0.99      0.99      0.99       109
+
+    accuracy                           0.98       325
+   macro avg       0.98      0.98      0.98       325
+weighted avg       0.98      0.98      0.98       325
+
+Classification Report for category_b_7 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.58      0.58      0.58        26
+           0       0.41      0.43      0.42        28
+           1       0.52      0.50      0.51        28
+
+    accuracy                           0.50        82
+   macro avg       0.50      0.50      0.50        82
+weighted avg       0.50      0.50      0.50        82
+
+Classification Report for category_b_7 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.50      0.39      0.44        18
+           0       0.30      0.27      0.29        11
+           1       0.28      0.38      0.32        13
+
+    accuracy                           0.36        42
+   macro avg       0.36      0.35      0.35        42
+weighted avg       0.38      0.36      0.36        42
+
+
+================================================================================
+
+Classification Report for category_b_8 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      0.99      1.00       105
+           0       0.99      1.00      1.00       111
+           1       1.00      1.00      1.00       109
+
+    accuracy                           1.00       325
+   macro avg       1.00      1.00      1.00       325
+weighted avg       1.00      1.00      1.00       325
+
+Classification Report for category_b_8 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.68      0.58      0.62        26
+           0       0.43      0.46      0.45        28
+           1       0.53      0.57      0.55        28
+
+    accuracy                           0.54        82
+   macro avg       0.55      0.54      0.54        82
+weighted avg       0.55      0.54      0.54        82
+
+Classification Report for category_b_8 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.71      0.25      0.37        20
+           0       0.27      0.44      0.33         9
+           1       0.35      0.54      0.42        13
+
+    accuracy                           0.38        42
+   macro avg       0.44      0.41      0.38        42
+weighted avg       0.51      0.38      0.38        42
+
+
+================================================================================
+
+Classification Report for category_b_9 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       0.97      0.98      0.98       107
+           0       0.97      0.95      0.96       109
+           1       0.98      0.99      0.99       109
+
+    accuracy                           0.98       325
+   macro avg       0.98      0.98      0.98       325
+weighted avg       0.98      0.98      0.98       325
+
+Classification Report for category_b_9 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.54      0.52      0.53        27
+           0       0.45      0.37      0.41        27
+           1       0.44      0.54      0.48        28
+
+    accuracy                           0.48        82
+   macro avg       0.48      0.47      0.47        82
+weighted avg       0.48      0.48      0.47        82
+
+Classification Report for category_b_9 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.29      0.25      0.27        16
+           0       0.18      0.15      0.17        13
+           1       0.12      0.15      0.13        13
+
+    accuracy                           0.19        42
+   macro avg       0.20      0.19      0.19        42
+weighted avg       0.20      0.19      0.19        42
+
+
+================================================================================
+
+Classification Report for category_b_10 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      0.99      1.00       112
+           0       0.99      0.98      0.99       108
+           1       0.97      0.99      0.98       105
+
+    accuracy                           0.99       325
+   macro avg       0.99      0.99      0.99       325
+weighted avg       0.99      0.99      0.99       325
+
+Classification Report for category_b_10 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.59      0.68      0.63        28
+           0       0.38      0.37      0.38        27
+           1       0.54      0.48      0.51        27
+
+    accuracy                           0.51        82
+   macro avg       0.51      0.51      0.51        82
+weighted avg       0.51      0.51      0.51        82
+
+Classification Report for category_b_10 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.29      0.40      0.33        10
+           0       0.44      0.29      0.35        14
+           1       0.47      0.50      0.49        18
+
+    accuracy                           0.40        42
+   macro avg       0.40      0.40      0.39        42
+weighted avg       0.42      0.40      0.40        42
+
+
+================================================================================
+
+Classification Report for category_b_11 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       0.99      0.95      0.97       106
+           0       0.94      1.00      0.97       111
+           1       1.00      0.97      0.99       108
+
+    accuracy                           0.98       325
+   macro avg       0.98      0.98      0.98       325
+weighted avg       0.98      0.98      0.98       325
+
+Classification Report for category_b_11 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.48      0.44      0.46        27
+           0       0.48      0.54      0.51        28
+           1       0.42      0.41      0.42        27
+
+    accuracy                           0.46        82
+   macro avg       0.46      0.46      0.46        82
+weighted avg       0.46      0.46      0.46        82
+
+Classification Report for category_b_11 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.44      0.24      0.31        17
+           0       0.13      0.20      0.16        10
+           1       0.28      0.33      0.30        15
+
+    accuracy                           0.26        42
+   macro avg       0.29      0.26      0.26        42
+weighted avg       0.31      0.26      0.27        42
+
+
+================================================================================
+
+Classification Report for category_b_12 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       0.98      0.97      0.98       106
+           0       0.96      0.97      0.97       109
+           1       0.98      0.98      0.98       110
+
+    accuracy                           0.98       325
+   macro avg       0.98      0.98      0.98       325
+weighted avg       0.98      0.98      0.98       325
+
+Classification Report for category_b_12 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.54      0.74      0.62        27
+           0       0.55      0.43      0.48        28
+           1       0.65      0.56      0.60        27
+
+    accuracy                           0.57        82
+   macro avg       0.58      0.57      0.57        82
+weighted avg       0.58      0.57      0.57        82
+
+Classification Report for category_b_12 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.33      0.24      0.28        17
+           0       0.15      0.17      0.16        12
+           1       0.24      0.31      0.27        13
+
+    accuracy                           0.24        42
+   macro avg       0.24      0.24      0.23        42
+weighted avg       0.25      0.24      0.24        42
+
+
+================================================================================
+
+Classification Report for category_b_14 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      0.98      0.99       104
+           0       0.95      1.00      0.97       112
+           1       1.00      0.96      0.98       109
+
+    accuracy                           0.98       325
+   macro avg       0.98      0.98      0.98       325
+weighted avg       0.98      0.98      0.98       325
+
+Classification Report for category_b_14 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.52      0.58      0.55        26
+           0       0.43      0.34      0.38        29
+           1       0.50      0.56      0.53        27
+
+    accuracy                           0.49        82
+   macro avg       0.48      0.49      0.49        82
+weighted avg       0.48      0.49      0.48        82
+
+Classification Report for category_b_14 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.38      0.25      0.30        20
+           0       0.13      0.25      0.17         8
+           1       0.29      0.29      0.29        14
+
+    accuracy                           0.26        42
+   macro avg       0.27      0.26      0.25        42
+weighted avg       0.30      0.26      0.27        42
+
+
+================================================================================
+
+Classification Report for category_b_15 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      1.00      1.00       106
+           0       1.00      1.00      1.00       110
+           1       1.00      1.00      1.00       109
+
+    accuracy                           1.00       325
+   macro avg       1.00      1.00      1.00       325
+weighted avg       1.00      1.00      1.00       325
+
+Classification Report for category_b_15 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.50      0.63      0.56        27
+           0       0.43      0.32      0.37        28
+           1       0.52      0.52      0.52        27
+
+    accuracy                           0.49        82
+   macro avg       0.48      0.49      0.48        82
+weighted avg       0.48      0.49      0.48        82
+
+Classification Report for category_b_15 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.50      0.41      0.45        17
+           0       0.31      0.36      0.33        11
+           1       0.27      0.29      0.28        14
+
+    accuracy                           0.36        42
+   macro avg       0.36      0.35      0.35        42
+weighted avg       0.37      0.36      0.36        42
+
+
+================================================================================
+
+Classification Report for category_b_16 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       0.99      0.95      0.97       108
+           0       0.97      1.00      0.99       108
+           1       0.98      0.99      0.99       109
+
+    accuracy                           0.98       325
+   macro avg       0.98      0.98      0.98       325
+weighted avg       0.98      0.98      0.98       325
+
+Classification Report for category_b_16 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.47      0.59      0.52        27
+           0       0.46      0.41      0.43        27
+           1       0.62      0.54      0.58        28
+
+    accuracy                           0.51        82
+   macro avg       0.52      0.51      0.51        82
+weighted avg       0.52      0.51      0.51        82
+
+Classification Report for category_b_16 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.50      0.53      0.52        15
+           0       0.36      0.36      0.36        14
+           1       0.33      0.31      0.32        13
+
+    accuracy                           0.40        42
+   macro avg       0.40      0.40      0.40        42
+weighted avg       0.40      0.40      0.40        42
+
+
+================================================================================
+
+Classification Report for category_b_17 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      1.00      1.00       106
+           0       1.00      1.00      1.00       109
+           1       1.00      1.00      1.00       110
+
+    accuracy                           1.00       325
+   macro avg       1.00      1.00      1.00       325
+weighted avg       1.00      1.00      1.00       325
+
+Classification Report for category_b_17 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.52      0.62      0.56        26
+           0       0.38      0.29      0.33        28
+           1       0.47      0.50      0.48        28
+
+    accuracy                           0.46        82
+   macro avg       0.45      0.47      0.46        82
+weighted avg       0.45      0.46      0.45        82
+
+Classification Report for category_b_17 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.43      0.33      0.38        18
+           0       0.09      0.08      0.09        12
+           1       0.35      0.50      0.41        12
+
+    accuracy                           0.31        42
+   macro avg       0.29      0.31      0.29        42
+weighted avg       0.31      0.31      0.30        42
+
+
+================================================================================
+
+Classification Report for category_b_18 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      0.98      0.99       109
+           0       1.00      1.00      1.00       110
+           1       0.98      1.00      0.99       106
+
+    accuracy                           0.99       325
+   macro avg       0.99      0.99      0.99       325
+weighted avg       0.99      0.99      0.99       325
+
+Classification Report for category_b_18 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.39      0.41      0.40        27
+           0       0.40      0.43      0.41        28
+           1       0.46      0.41      0.43        27
+
+    accuracy                           0.41        82
+   macro avg       0.42      0.41      0.42        82
+weighted avg       0.42      0.41      0.42        82
+
+Classification Report for category_b_18 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.25      0.14      0.18        14
+           0       0.19      0.36      0.25        11
+           1       0.38      0.29      0.33        17
+
+    accuracy                           0.26        42
+   macro avg       0.28      0.27      0.26        42
+weighted avg       0.29      0.26      0.26        42
+
+
+================================================================================
+
+Classification Report for category_b_19 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       0.98      0.94      0.96       105
+           0       0.96      0.98      0.97       111
+           1       0.98      0.99      0.99       109
+
+    accuracy                           0.97       325
+   macro avg       0.97      0.97      0.97       325
+weighted avg       0.97      0.97      0.97       325
+
+Classification Report for category_b_19 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.46      0.50      0.48        26
+           0       0.44      0.39      0.42        28
+           1       0.38      0.39      0.39        28
+
+    accuracy                           0.43        82
+   macro avg       0.43      0.43      0.43        82
+weighted avg       0.43      0.43      0.43        82
+
+Classification Report for category_b_19 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.50      0.37      0.42        19
+           0       0.36      0.40      0.38        10
+           1       0.29      0.38      0.33        13
+
+    accuracy                           0.38        42
+   macro avg       0.39      0.38      0.38        42
+weighted avg       0.40      0.38      0.39        42
+
+
+================================================================================
+
+Classification Report for category_b_20 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      1.00      1.00       112
+           0       1.00      1.00      1.00       105
+           1       1.00      1.00      1.00       108
+
+    accuracy                           1.00       325
+   macro avg       1.00      1.00      1.00       325
+weighted avg       1.00      1.00      1.00       325
+
+Classification Report for category_b_20 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.38      0.36      0.37        28
+           0       0.46      0.48      0.47        27
+           1       0.36      0.37      0.36        27
+
+    accuracy                           0.40        82
+   macro avg       0.40      0.40      0.40        82
+weighted avg       0.40      0.40      0.40        82
+
+Classification Report for category_b_20 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.50      0.40      0.44        10
+           0       0.47      0.41      0.44        17
+           1       0.42      0.53      0.47        15
+
+    accuracy                           0.45        42
+   macro avg       0.46      0.45      0.45        42
+weighted avg       0.46      0.45      0.45        42
+
+
+================================================================================
+
+Classification Report for category_b_21 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      1.00      1.00       114
+           0       1.00      1.00      1.00       107
+           1       1.00      1.00      1.00       104
+
+    accuracy                           1.00       325
+   macro avg       1.00      1.00      1.00       325
+weighted avg       1.00      1.00      1.00       325
+
+Classification Report for category_b_21 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.43      0.66      0.52        29
+           0       0.43      0.33      0.38        27
+           1       0.35      0.23      0.28        26
+
+    accuracy                           0.41        82
+   macro avg       0.40      0.41      0.39        82
+weighted avg       0.41      0.41      0.40        82
+
+Classification Report for category_b_21 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.15      0.43      0.22         7
+           0       0.30      0.20      0.24        15
+           1       0.33      0.20      0.25        20
+
+    accuracy                           0.24        42
+   macro avg       0.26      0.28      0.24        42
+weighted avg       0.29      0.24      0.24        42
+
+
+================================================================================
+
+Classification Report for category_b_22 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      1.00      1.00       110
+           0       1.00      1.00      1.00       104
+           1       1.00      1.00      1.00       111
+
+    accuracy                           1.00       325
+   macro avg       1.00      1.00      1.00       325
+weighted avg       1.00      1.00      1.00       325
+
+Classification Report for category_b_22 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.60      0.64      0.62        28
+           0       0.36      0.15      0.22        26
+           1       0.39      0.57      0.46        28
+
+    accuracy                           0.46        82
+   macro avg       0.45      0.46      0.43        82
+weighted avg       0.45      0.46      0.44        82
+
+Classification Report for category_b_22 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.36      0.33      0.35        12
+           0       0.33      0.16      0.21        19
+           1       0.27      0.55      0.36        11
+
+    accuracy                           0.31        42
+   macro avg       0.32      0.35      0.31        42
+weighted avg       0.33      0.31      0.29        42
+
+
+================================================================================
+
+Classification Report for category_b_23 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      0.99      1.00       105
+           0       0.99      1.00      1.00       112
+           1       1.00      1.00      1.00       108
+
+    accuracy                           1.00       325
+   macro avg       1.00      1.00      1.00       325
+weighted avg       1.00      1.00      1.00       325
+
+Classification Report for category_b_23 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.61      0.85      0.71        26
+           0       0.62      0.54      0.58        28
+           1       0.64      0.50      0.56        28
+
+    accuracy                           0.62        82
+   macro avg       0.62      0.63      0.62        82
+weighted avg       0.62      0.62      0.61        82
+
+Classification Report for category_b_23 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.38      0.26      0.31        19
+           0       0.07      0.11      0.09         9
+           1       0.20      0.21      0.21        14
+
+    accuracy                           0.21        42
+   macro avg       0.22      0.20      0.20        42
+weighted avg       0.26      0.21      0.23        42
+
+
+================================================================================
+
+Classification Report for category_b_26 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       0.99      0.99      0.99       105
+           0       0.98      1.00      0.99       111
+           1       1.00      0.98      0.99       109
+
+    accuracy                           0.99       325
+   macro avg       0.99      0.99      0.99       325
+weighted avg       0.99      0.99      0.99       325
+
+Classification Report for category_b_26 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.59      0.59      0.59        27
+           0       0.50      0.46      0.48        28
+           1       0.45      0.48      0.46        27
+
+    accuracy                           0.51        82
+   macro avg       0.51      0.51      0.51        82
+weighted avg       0.51      0.51      0.51        82
+
+Classification Report for category_b_26 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.47      0.39      0.42        18
+           0       0.00      0.00      0.00        10
+           1       0.13      0.14      0.14        14
+
+    accuracy                           0.21        42
+   macro avg       0.20      0.18      0.19        42
+weighted avg       0.24      0.21      0.23        42
+
+
+================================================================================
+
+Classification Report for category_b_29 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      0.99      1.00       108
+           0       0.99      0.98      0.99       108
+           1       0.98      1.00      0.99       109
+
+    accuracy                           0.99       325
+   macro avg       0.99      0.99      0.99       325
+weighted avg       0.99      0.99      0.99       325
+
+Classification Report for category_b_29 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.48      0.44      0.46        27
+           0       0.48      0.57      0.52        28
+           1       0.62      0.56      0.59        27
+
+    accuracy                           0.52        82
+   macro avg       0.53      0.52      0.52        82
+weighted avg       0.53      0.52      0.52        82
+
+Classification Report for category_b_29 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.54      0.44      0.48        16
+           0       0.40      0.46      0.43        13
+           1       0.29      0.31      0.30        13
+
+    accuracy                           0.40        42
+   macro avg       0.41      0.40      0.40        42
+weighted avg       0.42      0.40      0.41        42
+
+
+================================================================================
+
+Classification Report for category_b_30 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      1.00      1.00       106
+           0       1.00      1.00      1.00       109
+           1       1.00      1.00      1.00       110
+
+    accuracy                           1.00       325
+   macro avg       1.00      1.00      1.00       325
+weighted avg       1.00      1.00      1.00       325
+
+Classification Report for category_b_30 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.56      0.54      0.55        26
+           0       0.41      0.39      0.40        28
+           1       0.43      0.46      0.45        28
+
+    accuracy                           0.46        82
+   macro avg       0.47      0.47      0.47        82
+weighted avg       0.46      0.46      0.46        82
+
+Classification Report for category_b_30 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.33      0.17      0.22        18
+           0       0.20      0.25      0.22        12
+           1       0.22      0.33      0.27        12
+
+    accuracy                           0.24        42
+   macro avg       0.25      0.25      0.24        42
+weighted avg       0.26      0.24      0.23        42
+
+
+================================================================================
+
+Classification Report for category_b_32 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       0.98      0.98      0.98       114
+           0       0.98      0.98      0.98       104
+           1       0.97      0.97      0.97       107
+
+    accuracy                           0.98       325
+   macro avg       0.98      0.98      0.98       325
+weighted avg       0.98      0.98      0.98       325
+
+Classification Report for category_b_32 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.34      0.41      0.38        29
+           0       0.42      0.38      0.40        26
+           1       0.39      0.33      0.36        27
+
+    accuracy                           0.38        82
+   macro avg       0.38      0.38      0.38        82
+weighted avg       0.38      0.38      0.38        82
+
+Classification Report for category_b_32 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.27      0.43      0.33         7
+           0       0.50      0.37      0.42        19
+           1       0.29      0.31      0.30        16
+
+    accuracy                           0.36        42
+   macro avg       0.36      0.37      0.35        42
+weighted avg       0.38      0.36      0.36        42
+
+
+================================================================================
+
+Classification Report for category_b_35 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      1.00      1.00       103
+           0       1.00      1.00      1.00       112
+           1       1.00      1.00      1.00       110
+
+    accuracy                           1.00       325
+   macro avg       1.00      1.00      1.00       325
+weighted avg       1.00      1.00      1.00       325
+
+Classification Report for category_b_35 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.48      0.50      0.49        26
+           0       0.45      0.46      0.46        28
+           1       0.46      0.43      0.44        28
+
+    accuracy                           0.46        82
+   macro avg       0.46      0.46      0.46        82
+weighted avg       0.46      0.46      0.46        82
+
+Classification Report for category_b_35 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.50      0.33      0.40        21
+           0       0.08      0.11      0.10         9
+           1       0.25      0.33      0.29        12
+
+    accuracy                           0.29        42
+   macro avg       0.28      0.26      0.26        42
+weighted avg       0.34      0.29      0.30        42
+
+
+================================================================================
+
+Classification Report for category_b_38 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       0.96      0.96      0.96       104
+           0       0.94      0.96      0.95       111
+           1       0.99      0.96      0.98       110
+
+    accuracy                           0.96       325
+   macro avg       0.96      0.96      0.96       325
+weighted avg       0.96      0.96      0.96       325
+
+Classification Report for category_b_38 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.59      0.62      0.60        26
+           0       0.52      0.50      0.51        28
+           1       0.50      0.50      0.50        28
+
+    accuracy                           0.54        82
+   macro avg       0.54      0.54      0.54        82
+weighted avg       0.54      0.54      0.54        82
+
+Classification Report for category_b_38 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.55      0.30      0.39        20
+           0       0.20      0.40      0.27        10
+           1       0.09      0.08      0.09        12
+
+    accuracy                           0.26        42
+   macro avg       0.28      0.26      0.25        42
+weighted avg       0.33      0.26      0.27        42
+
+
+================================================================================
+
+Classification Report for category_b_39 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      0.99      1.00       105
+           0       0.98      1.00      0.99       110
+           1       1.00      0.99      1.00       110
+
+    accuracy                           0.99       325
+   macro avg       0.99      0.99      0.99       325
+weighted avg       0.99      0.99      0.99       325
+
+Classification Report for category_b_39 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.69      0.69      0.69        26
+           0       0.39      0.32      0.35        28
+           1       0.45      0.54      0.49        28
+
+    accuracy                           0.51        82
+   macro avg       0.51      0.52      0.51        82
+weighted avg       0.51      0.51      0.51        82
+
+Classification Report for category_b_39 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.43      0.16      0.23        19
+           0       0.16      0.27      0.20        11
+           1       0.31      0.42      0.36        12
+
+    accuracy                           0.26        42
+   macro avg       0.30      0.28      0.26        42
+weighted avg       0.32      0.26      0.26        42
+
+
+================================================================================
+
+Classification Report for category_b_41 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       0.95      0.97      0.96       103
+           0       0.96      0.95      0.95       111
+           1       0.97      0.97      0.97       111
+
+    accuracy                           0.96       325
+   macro avg       0.96      0.96      0.96       325
+weighted avg       0.96      0.96      0.96       325
+
+Classification Report for category_b_41 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.55      0.42      0.48        26
+           0       0.46      0.46      0.46        28
+           1       0.53      0.64      0.58        28
+
+    accuracy                           0.51        82
+   macro avg       0.51      0.51      0.51        82
+weighted avg       0.51      0.51      0.51        82
+
+Classification Report for category_b_41 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.50      0.24      0.32        21
+           0       0.23      0.30      0.26        10
+           1       0.26      0.45      0.33        11
+
+    accuracy                           0.31        42
+   macro avg       0.33      0.33      0.31        42
+weighted avg       0.37      0.31      0.31        42
+
+
+================================================================================
+
+Classification Report for category_b_42 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       0.99      0.95      0.97       104
+           0       0.94      0.99      0.97       112
+           1       1.00      0.98      0.99       109
+
+    accuracy                           0.98       325
+   macro avg       0.98      0.97      0.98       325
+weighted avg       0.98      0.98      0.98       325
+
+Classification Report for category_b_42 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.46      0.65      0.54        26
+           0       0.58      0.39      0.47        28
+           1       0.69      0.64      0.67        28
+
+    accuracy                           0.56        82
+   macro avg       0.58      0.56      0.56        82
+weighted avg       0.58      0.56      0.56        82
+
+Classification Report for category_b_42 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.53      0.38      0.44        21
+           0       0.09      0.12      0.11         8
+           1       0.19      0.23      0.21        13
+
+    accuracy                           0.29        42
+   macro avg       0.27      0.25      0.25        42
+weighted avg       0.34      0.29      0.31        42
+
+
+================================================================================
+
+Classification Report for category_b_44 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       0.99      1.00      1.00       107
+           0       1.00      0.97      0.99       108
+           1       0.98      1.00      0.99       110
+
+    accuracy                           0.99       325
+   macro avg       0.99      0.99      0.99       325
+weighted avg       0.99      0.99      0.99       325
+
+Classification Report for category_b_44 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.59      0.59      0.59        27
+           0       0.43      0.33      0.38        27
+           1       0.47      0.57      0.52        28
+
+    accuracy                           0.50        82
+   macro avg       0.50      0.50      0.49        82
+weighted avg       0.50      0.50      0.49        82
+
+Classification Report for category_b_44 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.25      0.06      0.10        16
+           0       0.25      0.29      0.27        14
+           1       0.32      0.58      0.41        12
+
+    accuracy                           0.29        42
+   macro avg       0.27      0.31      0.26        42
+weighted avg       0.27      0.29      0.24        42
+
+
+================================================================================
+
+Classification Report for category_b_51 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      1.00      1.00       109
+           0       0.98      0.99      0.99       108
+           1       0.99      0.98      0.99       108
+
+    accuracy                           0.99       325
+   macro avg       0.99      0.99      0.99       325
+weighted avg       0.99      0.99      0.99       325
+
+Classification Report for category_b_51 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.40      0.50      0.44        28
+           0       0.39      0.33      0.36        27
+           1       0.62      0.56      0.59        27
+
+    accuracy                           0.46        82
+   macro avg       0.47      0.46      0.46        82
+weighted avg       0.47      0.46      0.46        82
+
+Classification Report for category_b_51 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.33      0.23      0.27        13
+           0       0.24      0.29      0.26        14
+           1       0.25      0.27      0.26        15
+
+    accuracy                           0.26        42
+   macro avg       0.27      0.26      0.26        42
+weighted avg       0.27      0.26      0.26        42
+
+
+================================================================================
+
+Classification Report for category_b_56 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       0.99      0.98      0.99       107
+           0       0.98      1.00      0.99       110
+           1       0.99      0.98      0.99       108
+
+    accuracy                           0.99       325
+   macro avg       0.99      0.99      0.99       325
+weighted avg       0.99      0.99      0.99       325
+
+Classification Report for category_b_56 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.46      0.70      0.56        27
+           0       0.42      0.29      0.34        28
+           1       0.50      0.41      0.45        27
+
+    accuracy                           0.46        82
+   macro avg       0.46      0.47      0.45        82
+weighted avg       0.46      0.46      0.45        82
+
+Classification Report for category_b_56 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.53      0.50      0.52        16
+           0       0.23      0.27      0.25        11
+           1       0.36      0.33      0.34        15
+
+    accuracy                           0.38        42
+   macro avg       0.37      0.37      0.37        42
+weighted avg       0.39      0.38      0.39        42
+
+
+================================================================================
+
+Classification Report for category_b_57 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       0.96      0.94      0.95       102
+           0       0.93      0.97      0.95       113
+           1       0.99      0.96      0.98       110
+
+    accuracy                           0.96       325
+   macro avg       0.96      0.96      0.96       325
+weighted avg       0.96      0.96      0.96       325
+
+Classification Report for category_b_57 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.65      0.58      0.61        26
+           0       0.43      0.52      0.47        29
+           1       0.54      0.48      0.51        27
+
+    accuracy                           0.52        82
+   macro avg       0.54      0.53      0.53        82
+weighted avg       0.54      0.52      0.53        82
+
+Classification Report for category_b_57 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.36      0.18      0.24        22
+           0       0.09      0.14      0.11         7
+           1       0.40      0.62      0.48        13
+
+    accuracy                           0.31        42
+   macro avg       0.28      0.31      0.28        42
+weighted avg       0.33      0.31      0.30        42
+
+
+================================================================================
+
+Classification Report for category_b_63 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      0.96      0.98       104
+           0       0.99      0.99      0.99       111
+           1       0.96      1.00      0.98       110
+
+    accuracy                           0.98       325
+   macro avg       0.99      0.98      0.98       325
+weighted avg       0.99      0.98      0.98       325
+
+Classification Report for category_b_63 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.56      0.58      0.57        26
+           0       0.54      0.50      0.52        28
+           1       0.59      0.61      0.60        28
+
+    accuracy                           0.56        82
+   macro avg       0.56      0.56      0.56        82
+weighted avg       0.56      0.56      0.56        82
+
+Classification Report for category_b_63 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.55      0.30      0.39        20
+           0       0.24      0.40      0.30        10
+           1       0.29      0.33      0.31        12
+
+    accuracy                           0.33        42
+   macro avg       0.36      0.34      0.33        42
+weighted avg       0.40      0.33      0.34        42
+
+
+================================================================================
+
+Classification Report for category_b_81 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      0.98      0.99       110
+           0       0.99      1.00      1.00       107
+           1       0.99      1.00      1.00       108
+
+    accuracy                           0.99       325
+   macro avg       0.99      0.99      0.99       325
+weighted avg       0.99      0.99      0.99       325
+
+Classification Report for category_b_81 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.42      0.61      0.50        28
+           0       0.42      0.30      0.35        27
+           1       0.48      0.41      0.44        27
+
+    accuracy                           0.44        82
+   macro avg       0.44      0.44      0.43        82
+weighted avg       0.44      0.44      0.43        82
+
+Classification Report for category_b_81 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.40      0.67      0.50        12
+           0       0.17      0.07      0.10        15
+           1       0.56      0.60      0.58        15
+
+    accuracy                           0.43        42
+   macro avg       0.38      0.44      0.39        42
+weighted avg       0.37      0.43      0.38        42
+
+
+================================================================================
+
+Classification Report for category_b_84 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       0.98      0.95      0.97       108
+           0       0.95      0.98      0.96       108
+           1       0.97      0.96      0.97       109
+
+    accuracy                           0.97       325
+   macro avg       0.97      0.97      0.97       325
+weighted avg       0.97      0.97      0.97       325
+
+Classification Report for category_b_84 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.50      0.70      0.58        27
+           0       0.35      0.32      0.33        28
+           1       0.33      0.22      0.27        27
+
+    accuracy                           0.41        82
+   macro avg       0.39      0.42      0.39        82
+weighted avg       0.39      0.41      0.39        82
+
+Classification Report for category_b_84 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.29      0.27      0.28        15
+           0       0.29      0.31      0.30        13
+           1       0.14      0.14      0.14        14
+
+    accuracy                           0.24        42
+   macro avg       0.24      0.24      0.24        42
+weighted avg       0.24      0.24      0.24        42
+
+
+================================================================================
+
+Classification Report for category_epi_1 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       0.98      1.00      0.99       111
+           0       1.00      1.00      1.00       104
+           1       1.00      0.98      0.99       110
+
+    accuracy                           0.99       325
+   macro avg       0.99      0.99      0.99       325
+weighted avg       0.99      0.99      0.99       325
+
+Classification Report for category_epi_1 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.46      0.64      0.54        28
+           0       0.57      0.31      0.40        26
+           1       0.45      0.46      0.46        28
+
+    accuracy                           0.48        82
+   macro avg       0.49      0.47      0.46        82
+weighted avg       0.49      0.48      0.47        82
+
+Classification Report for category_epi_1 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.29      0.55      0.38        11
+           0       0.50      0.32      0.39        19
+           1       0.11      0.08      0.10        12
+
+    accuracy                           0.31        42
+   macro avg       0.30      0.31      0.29        42
+weighted avg       0.33      0.31      0.30        42
+
+
+================================================================================
+
+Classification Report for category_epi_2 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      0.99      1.00       113
+           0       0.99      1.00      1.00       110
+           1       1.00      1.00      1.00       102
+
+    accuracy                           1.00       325
+   macro avg       1.00      1.00      1.00       325
+weighted avg       1.00      1.00      1.00       325
+
+Classification Report for category_epi_2 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.46      0.66      0.54        29
+           0       0.54      0.46      0.50        28
+           1       0.47      0.32      0.38        25
+
+    accuracy                           0.49        82
+   macro avg       0.49      0.48      0.47        82
+weighted avg       0.49      0.49      0.48        82
+
+Classification Report for category_epi_2 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.21      0.38      0.27         8
+           0       0.24      0.36      0.29        11
+           1       0.36      0.17      0.24        23
+
+    accuracy                           0.26        42
+   macro avg       0.27      0.30      0.26        42
+weighted avg       0.30      0.26      0.26        42
+
+
+================================================================================
+
+Classification Report for category_epi_3 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      1.00      1.00       106
+           0       1.00      1.00      1.00       106
+           1       1.00      1.00      1.00       113
+
+    accuracy                           1.00       325
+   macro avg       1.00      1.00      1.00       325
+weighted avg       1.00      1.00      1.00       325
+
+Classification Report for category_epi_3 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.55      0.67      0.60        27
+           0       0.44      0.30      0.36        27
+           1       0.52      0.57      0.54        28
+
+    accuracy                           0.51        82
+   macro avg       0.50      0.51      0.50        82
+weighted avg       0.50      0.51      0.50        82
+
+Classification Report for category_epi_3 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.47      0.47      0.47        17
+           0       0.30      0.19      0.23        16
+           1       0.20      0.33      0.25         9
+
+    accuracy                           0.33        42
+   macro avg       0.32      0.33      0.32        42
+weighted avg       0.35      0.33      0.33        42
+
+
+================================================================================
+
+Classification Report for category_epi_4 (Train Set):
+              precision    recall  f1-score   support
+
+          -1       1.00      1.00      1.00       111
+           0       1.00      1.00      1.00       105
+           1       1.00      1.00      1.00       109
+
+    accuracy                           1.00       325
+   macro avg       1.00      1.00      1.00       325
+weighted avg       1.00      1.00      1.00       325
+
+Classification Report for category_epi_4 (Validation Set):
+              precision    recall  f1-score   support
+
+          -1       0.59      0.61      0.60        28
+           0       0.59      0.37      0.45        27
+           1       0.50      0.67      0.57        27
+
+    accuracy                           0.55        82
+   macro avg       0.56      0.55      0.54        82
+weighted avg       0.56      0.55      0.54        82
+
+Classification Report for category_epi_4 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+          -1       0.33      0.36      0.35        11
+           0       0.23      0.18      0.20        17
+           1       0.35      0.43      0.39        14
+
+    accuracy                           0.31        42
+   macro avg       0.31      0.32      0.31        42
+weighted avg       0.30      0.31      0.30        42
+
+
+================================================================================
+
