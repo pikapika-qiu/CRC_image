@@ -1,0 +1,1440 @@
+Classification Report for category_tnk_1 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.91      0.93      0.92       108
+           1       0.94      0.94      0.94       108
+           2       0.95      0.94      0.94       109
+
+    accuracy                           0.93       325
+   macro avg       0.93      0.93      0.93       325
+weighted avg       0.93      0.93      0.93       325
+
+Classification Report for category_tnk_1 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.40      0.63      0.49        27
+           1       0.44      0.29      0.35        28
+           2       0.41      0.33      0.37        27
+
+    accuracy                           0.41        82
+   macro avg       0.42      0.42      0.40        82
+weighted avg       0.42      0.41      0.40        82
+
+Classification Report for category_tnk_1 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.53      0.60      0.56        15
+           1       0.25      0.23      0.24        13
+           2       0.38      0.36      0.37        14
+
+    accuracy                           0.40        42
+   macro avg       0.39      0.40      0.39        42
+weighted avg       0.39      0.40      0.40        42
+
+
+================================================================================
+
+Classification Report for category_tnk_2 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.94      0.95      0.95       104
+           1       0.96      0.94      0.95       114
+           2       0.98      0.99      0.99       107
+
+    accuracy                           0.96       325
+   macro avg       0.96      0.96      0.96       325
+weighted avg       0.96      0.96      0.96       325
+
+Classification Report for category_tnk_2 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.59      0.50      0.54        26
+           1       0.41      0.45      0.43        29
+           2       0.54      0.56      0.55        27
+
+    accuracy                           0.50        82
+   macro avg       0.51      0.50      0.50        82
+weighted avg       0.51      0.50      0.50        82
+
+Classification Report for category_tnk_2 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.50      0.30      0.38        20
+           1       0.31      0.71      0.43         7
+           2       0.29      0.27      0.28        15
+
+    accuracy                           0.36        42
+   macro avg       0.37      0.43      0.36        42
+weighted avg       0.39      0.36      0.35        42
+
+
+================================================================================
+
+Classification Report for category_tnk_3 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.80      0.92      0.86       108
+           1       0.92      0.73      0.81       106
+           2       0.85      0.90      0.87       111
+
+    accuracy                           0.85       325
+   macro avg       0.86      0.85      0.85       325
+weighted avg       0.86      0.85      0.85       325
+
+Classification Report for category_tnk_3 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.48      0.59      0.53        27
+           1       0.53      0.33      0.41        27
+           2       0.47      0.54      0.50        28
+
+    accuracy                           0.49        82
+   macro avg       0.49      0.49      0.48        82
+weighted avg       0.49      0.49      0.48        82
+
+Classification Report for category_tnk_3 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.33      0.33      0.33        15
+           1       0.17      0.12      0.14        16
+           2       0.20      0.27      0.23        11
+
+    accuracy                           0.24        42
+   macro avg       0.23      0.24      0.24        42
+weighted avg       0.23      0.24      0.23        42
+
+
+================================================================================
+
+Classification Report for category_tnk_4 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.95      0.98      0.96       112
+           1       0.97      0.95      0.96       110
+           2       0.98      0.96      0.97       103
+
+    accuracy                           0.97       325
+   macro avg       0.97      0.97      0.97       325
+weighted avg       0.97      0.97      0.97       325
+
+Classification Report for category_tnk_4 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.48      0.54      0.51        28
+           1       0.46      0.43      0.44        28
+           2       0.52      0.50      0.51        26
+
+    accuracy                           0.49        82
+   macro avg       0.49      0.49      0.49        82
+weighted avg       0.49      0.49      0.49        82
+
+Classification Report for category_tnk_4 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.27      0.30      0.29        10
+           1       0.28      0.45      0.34        11
+           2       0.38      0.24      0.29        21
+
+    accuracy                           0.31        42
+   macro avg       0.31      0.33      0.31        42
+weighted avg       0.33      0.31      0.31        42
+
+
+================================================================================
+
+Classification Report for category_tnk_5 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.89      0.87      0.88       105
+           1       0.84      0.89      0.86       111
+           2       0.90      0.86      0.88       109
+
+    accuracy                           0.87       325
+   macro avg       0.88      0.87      0.87       325
+weighted avg       0.88      0.87      0.87       325
+
+Classification Report for category_tnk_5 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.55      0.63      0.59        27
+           1       0.46      0.46      0.46        28
+           2       0.43      0.37      0.40        27
+
+    accuracy                           0.49        82
+   macro avg       0.48      0.49      0.48        82
+weighted avg       0.48      0.49      0.48        82
+
+Classification Report for category_tnk_5 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.50      0.11      0.18        18
+           1       0.16      0.30      0.21        10
+           2       0.16      0.21      0.18        14
+
+    accuracy                           0.19        42
+   macro avg       0.27      0.21      0.19        42
+weighted avg       0.30      0.19      0.19        42
+
+
+================================================================================
+
+Classification Report for category_tnk_6 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.69      0.75      0.72       107
+           1       0.64      0.67      0.65       109
+           2       0.76      0.66      0.71       109
+
+    accuracy                           0.69       325
+   macro avg       0.70      0.69      0.69       325
+weighted avg       0.70      0.69      0.69       325
+
+Classification Report for category_tnk_6 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.41      0.44      0.43        27
+           1       0.35      0.26      0.30        27
+           2       0.33      0.39      0.36        28
+
+    accuracy                           0.37        82
+   macro avg       0.37      0.37      0.36        82
+weighted avg       0.37      0.37      0.36        82
+
+Classification Report for category_tnk_6 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.27      0.19      0.22        16
+           1       0.18      0.23      0.20        13
+           2       0.14      0.15      0.15        13
+
+    accuracy                           0.19        42
+   macro avg       0.20      0.19      0.19        42
+weighted avg       0.20      0.19      0.19        42
+
+
+================================================================================
+
+Classification Report for category_tnk_7 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.94      0.97      0.96       104
+           1       0.95      0.95      0.95       112
+           2       0.97      0.94      0.96       109
+
+    accuracy                           0.95       325
+   macro avg       0.95      0.95      0.95       325
+weighted avg       0.95      0.95      0.95       325
+
+Classification Report for category_tnk_7 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.45      0.58      0.51        26
+           1       0.42      0.36      0.38        28
+           2       0.44      0.39      0.42        28
+
+    accuracy                           0.44        82
+   macro avg       0.44      0.44      0.44        82
+weighted avg       0.44      0.44      0.43        82
+
+Classification Report for category_tnk_7 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.42      0.25      0.31        20
+           1       0.08      0.11      0.10         9
+           2       0.17      0.23      0.19        13
+
+    accuracy                           0.21        42
+   macro avg       0.22      0.20      0.20        42
+weighted avg       0.27      0.21      0.23        42
+
+
+================================================================================
+
+Classification Report for category_tnk_8 (Train Set):
+              precision    recall  f1-score   support
+
+           0       1.00      0.97      0.99       107
+           1       0.98      1.00      0.99       109
+           2       0.99      1.00      1.00       109
+
+    accuracy                           0.99       325
+   macro avg       0.99      0.99      0.99       325
+weighted avg       0.99      0.99      0.99       325
+
+Classification Report for category_tnk_8 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.68      0.63      0.65        27
+           1       0.48      0.50      0.49        28
+           2       0.39      0.41      0.40        27
+
+    accuracy                           0.51        82
+   macro avg       0.52      0.51      0.52        82
+weighted avg       0.52      0.51      0.51        82
+
+Classification Report for category_tnk_8 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.31      0.25      0.28        16
+           1       0.19      0.23      0.21        13
+           2       0.31      0.31      0.31        13
+
+    accuracy                           0.26        42
+   macro avg       0.27      0.26      0.26        42
+weighted avg       0.27      0.26      0.26        42
+
+
+================================================================================
+
+Classification Report for category_tnk_9 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.74      0.68      0.71       110
+           1       0.75      0.78      0.76       108
+           2       0.75      0.79      0.77       107
+
+    accuracy                           0.75       325
+   macro avg       0.75      0.75      0.75       325
+weighted avg       0.75      0.75      0.75       325
+
+Classification Report for category_tnk_9 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.38      0.29      0.33        28
+           1       0.39      0.33      0.36        27
+           2       0.34      0.48      0.40        27
+
+    accuracy                           0.37        82
+   macro avg       0.37      0.37      0.36        82
+weighted avg       0.37      0.37      0.36        82
+
+Classification Report for category_tnk_9 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.20      0.25      0.22        12
+           1       0.33      0.29      0.31        14
+           2       0.20      0.19      0.19        16
+
+    accuracy                           0.24        42
+   macro avg       0.24      0.24      0.24        42
+weighted avg       0.24      0.24      0.24        42
+
+
+================================================================================
+
+Classification Report for category_tnk_10 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.85      0.74      0.79       105
+           1       0.68      0.74      0.71       111
+           2       0.73      0.75      0.74       109
+
+    accuracy                           0.74       325
+   macro avg       0.75      0.74      0.75       325
+weighted avg       0.75      0.74      0.75       325
+
+Classification Report for category_tnk_10 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.52      0.50      0.51        26
+           1       0.41      0.43      0.42        28
+           2       0.43      0.43      0.43        28
+
+    accuracy                           0.45        82
+   macro avg       0.45      0.45      0.45        82
+weighted avg       0.45      0.45      0.45        82
+
+Classification Report for category_tnk_10 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.38      0.26      0.31        19
+           1       0.14      0.20      0.17        10
+           2       0.13      0.15      0.14        13
+
+    accuracy                           0.21        42
+   macro avg       0.22      0.21      0.21        42
+weighted avg       0.25      0.21      0.23        42
+
+
+================================================================================
+
+Classification Report for category_tnk_11 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.77      0.71      0.74       105
+           1       0.65      0.79      0.71       112
+           2       0.83      0.70      0.76       108
+
+    accuracy                           0.74       325
+   macro avg       0.75      0.73      0.74       325
+weighted avg       0.75      0.74      0.74       325
+
+Classification Report for category_tnk_11 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.35      0.33      0.34        27
+           1       0.39      0.46      0.43        28
+           2       0.39      0.33      0.36        27
+
+    accuracy                           0.38        82
+   macro avg       0.38      0.38      0.38        82
+weighted avg       0.38      0.38      0.38        82
+
+Classification Report for category_tnk_11 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.57      0.22      0.32        18
+           1       0.18      0.33      0.23         9
+           2       0.28      0.33      0.30        15
+
+    accuracy                           0.29        42
+   macro avg       0.34      0.30      0.28        42
+weighted avg       0.38      0.29      0.29        42
+
+
+================================================================================
+
+Classification Report for category_tnk_12 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.81      0.83      0.82       106
+           1       0.81      0.78      0.80       110
+           2       0.80      0.82      0.81       109
+
+    accuracy                           0.81       325
+   macro avg       0.81      0.81      0.81       325
+weighted avg       0.81      0.81      0.81       325
+
+Classification Report for category_tnk_12 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.46      0.42      0.44        26
+           1       0.44      0.43      0.44        28
+           2       0.45      0.50      0.47        28
+
+    accuracy                           0.45        82
+   macro avg       0.45      0.45      0.45        82
+weighted avg       0.45      0.45      0.45        82
+
+Classification Report for category_tnk_12 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.44      0.22      0.30        18
+           1       0.25      0.36      0.30        11
+           2       0.35      0.46      0.40        13
+
+    accuracy                           0.33        42
+   macro avg       0.35      0.35      0.33        42
+weighted avg       0.37      0.33      0.33        42
+
+
+================================================================================
+
+Classification Report for category_tnk_13 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.99      0.92      0.96       106
+           1       0.92      0.95      0.94       109
+           2       0.95      0.97      0.96       110
+
+    accuracy                           0.95       325
+   macro avg       0.95      0.95      0.95       325
+weighted avg       0.95      0.95      0.95       325
+
+Classification Report for category_tnk_13 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.45      0.52      0.48        27
+           1       0.42      0.41      0.42        27
+           2       0.40      0.36      0.38        28
+
+    accuracy                           0.43        82
+   macro avg       0.42      0.43      0.43        82
+weighted avg       0.42      0.43      0.42        82
+
+Classification Report for category_tnk_13 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.56      0.29      0.38        17
+           1       0.18      0.23      0.20        13
+           2       0.31      0.42      0.36        12
+
+    accuracy                           0.31        42
+   macro avg       0.35      0.31      0.31        42
+weighted avg       0.37      0.31      0.32        42
+
+
+================================================================================
+
+Classification Report for category_tnk_14 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.97      0.93      0.95       107
+           1       0.92      0.94      0.93       108
+           2       0.94      0.95      0.95       110
+
+    accuracy                           0.94       325
+   macro avg       0.94      0.94      0.94       325
+weighted avg       0.94      0.94      0.94       325
+
+Classification Report for category_tnk_14 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.52      0.59      0.55        27
+           1       0.45      0.37      0.41        27
+           2       0.45      0.46      0.46        28
+
+    accuracy                           0.48        82
+   macro avg       0.47      0.48      0.47        82
+weighted avg       0.47      0.48      0.47        82
+
+Classification Report for category_tnk_14 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.17      0.06      0.09        16
+           1       0.29      0.29      0.29        14
+           2       0.36      0.67      0.47        12
+
+    accuracy                           0.31        42
+   macro avg       0.27      0.34      0.28        42
+weighted avg       0.26      0.31      0.26        42
+
+
+================================================================================
+
+Classification Report for category_tnk_15 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.99      0.95      0.97       105
+           1       0.97      1.00      0.99       111
+           2       0.97      0.98      0.98       109
+
+    accuracy                           0.98       325
+   macro avg       0.98      0.98      0.98       325
+weighted avg       0.98      0.98      0.98       325
+
+Classification Report for category_tnk_15 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.59      0.59      0.59        27
+           1       0.38      0.46      0.42        28
+           2       0.52      0.41      0.46        27
+
+    accuracy                           0.49        82
+   macro avg       0.50      0.49      0.49        82
+weighted avg       0.50      0.49      0.49        82
+
+Classification Report for category_tnk_15 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.40      0.33      0.36        18
+           1       0.29      0.40      0.33        10
+           2       0.38      0.36      0.37        14
+
+    accuracy                           0.36        42
+   macro avg       0.36      0.36      0.36        42
+weighted avg       0.37      0.36      0.36        42
+
+
+================================================================================
+
+Classification Report for category_tnk_16 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.89      0.88      0.88       109
+           1       0.85      0.90      0.87       112
+           2       0.89      0.84      0.86       104
+
+    accuracy                           0.87       325
+   macro avg       0.88      0.87      0.87       325
+weighted avg       0.87      0.87      0.87       325
+
+Classification Report for category_tnk_16 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.67      0.64      0.65        28
+           1       0.38      0.36      0.37        28
+           2       0.52      0.58      0.55        26
+
+    accuracy                           0.52        82
+   macro avg       0.52      0.53      0.52        82
+weighted avg       0.52      0.52      0.52        82
+
+Classification Report for category_tnk_16 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.20      0.23      0.21        13
+           1       0.20      0.33      0.25         9
+           2       0.58      0.35      0.44        20
+
+    accuracy                           0.31        42
+   macro avg       0.33      0.30      0.30        42
+weighted avg       0.38      0.31      0.33        42
+
+
+================================================================================
+
+Classification Report for category_tnk_17 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.83      0.71      0.77       105
+           1       0.70      0.84      0.77       111
+           2       0.78      0.73      0.75       109
+
+    accuracy                           0.76       325
+   macro avg       0.77      0.76      0.76       325
+weighted avg       0.77      0.76      0.76       325
+
+Classification Report for category_tnk_17 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.56      0.37      0.44        27
+           1       0.40      0.50      0.44        28
+           2       0.41      0.44      0.43        27
+
+    accuracy                           0.44        82
+   macro avg       0.46      0.44      0.44        82
+weighted avg       0.46      0.44      0.44        82
+
+Classification Report for category_tnk_17 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.55      0.33      0.41        18
+           1       0.19      0.30      0.23        10
+           2       0.47      0.50      0.48        14
+
+    accuracy                           0.38        42
+   macro avg       0.40      0.38      0.38        42
+weighted avg       0.43      0.38      0.39        42
+
+
+================================================================================
+
+Classification Report for category_tnk_18 (Train Set):
+              precision    recall  f1-score   support
+
+           0       1.00      0.98      0.99       110
+           1       0.97      0.96      0.97       108
+           2       0.96      0.99      0.98       107
+
+    accuracy                           0.98       325
+   macro avg       0.98      0.98      0.98       325
+weighted avg       0.98      0.98      0.98       325
+
+Classification Report for category_tnk_18 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.48      0.46      0.47        28
+           1       0.50      0.41      0.45        27
+           2       0.55      0.67      0.60        27
+
+    accuracy                           0.51        82
+   macro avg       0.51      0.51      0.51        82
+weighted avg       0.51      0.51      0.51        82
+
+Classification Report for category_tnk_18 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.33      0.33      0.33        12
+           1       0.27      0.27      0.27        15
+           2       0.27      0.27      0.27        15
+
+    accuracy                           0.29        42
+   macro avg       0.29      0.29      0.29        42
+weighted avg       0.29      0.29      0.29        42
+
+
+================================================================================
+
+Classification Report for category_tnk_19 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.72      0.78      0.75       112
+           1       0.74      0.70      0.72       108
+           2       0.75      0.72      0.73       105
+
+    accuracy                           0.74       325
+   macro avg       0.74      0.73      0.73       325
+weighted avg       0.74      0.74      0.74       325
+
+Classification Report for category_tnk_19 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.34      0.39      0.37        28
+           1       0.32      0.22      0.26        27
+           2       0.35      0.41      0.38        27
+
+    accuracy                           0.34        82
+   macro avg       0.34      0.34      0.34        82
+weighted avg       0.34      0.34      0.34        82
+
+Classification Report for category_tnk_19 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.15      0.30      0.20        10
+           1       0.33      0.14      0.20        14
+           2       0.44      0.39      0.41        18
+
+    accuracy                           0.29        42
+   macro avg       0.31      0.28      0.27        42
+weighted avg       0.33      0.29      0.29        42
+
+
+================================================================================
+
+Classification Report for category_tnk_20 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.84      0.84      0.84       105
+           1       0.79      0.83      0.81       112
+           2       0.81      0.77      0.79       108
+
+    accuracy                           0.81       325
+   macro avg       0.81      0.81      0.81       325
+weighted avg       0.81      0.81      0.81       325
+
+Classification Report for category_tnk_20 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.50      0.54      0.52        26
+           1       0.35      0.39      0.37        28
+           2       0.48      0.39      0.43        28
+
+    accuracy                           0.44        82
+   macro avg       0.44      0.44      0.44        82
+weighted avg       0.44      0.44      0.44        82
+
+Classification Report for category_tnk_20 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.36      0.26      0.30        19
+           1       0.14      0.22      0.17         9
+           2       0.36      0.36      0.36        14
+
+    accuracy                           0.29        42
+   macro avg       0.29      0.28      0.28        42
+weighted avg       0.31      0.29      0.29        42
+
+
+================================================================================
+
+Classification Report for category_tnk_22 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.81      0.77      0.79       103
+           1       0.77      0.75      0.76       110
+           2       0.79      0.84      0.81       112
+
+    accuracy                           0.79       325
+   macro avg       0.79      0.79      0.79       325
+weighted avg       0.79      0.79      0.79       325
+
+Classification Report for category_tnk_22 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.48      0.50      0.49        26
+           1       0.38      0.36      0.37        28
+           2       0.34      0.36      0.35        28
+
+    accuracy                           0.40        82
+   macro avg       0.40      0.40      0.40        82
+weighted avg       0.40      0.40      0.40        82
+
+Classification Report for category_tnk_22 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.45      0.24      0.31        21
+           1       0.20      0.27      0.23        11
+           2       0.31      0.50      0.38        10
+
+    accuracy                           0.31        42
+   macro avg       0.32      0.34      0.31        42
+weighted avg       0.35      0.31      0.31        42
+
+
+================================================================================
+
+Classification Report for category_tnk_23 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97       109
+           1       0.96      0.97      0.97       109
+           2       0.99      0.98      0.99       107
+
+    accuracy                           0.98       325
+   macro avg       0.98      0.98      0.98       325
+weighted avg       0.98      0.98      0.98       325
+
+Classification Report for category_tnk_23 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.48      0.43      0.45        28
+           1       0.29      0.33      0.31        27
+           2       0.35      0.33      0.34        27
+
+    accuracy                           0.37        82
+   macro avg       0.37      0.37      0.37        82
+weighted avg       0.37      0.37      0.37        82
+
+Classification Report for category_tnk_23 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.29      0.31      0.30        13
+           1       0.17      0.15      0.16        13
+           2       0.12      0.12      0.12        16
+
+    accuracy                           0.19        42
+   macro avg       0.19      0.20      0.19        42
+weighted avg       0.19      0.19      0.19        42
+
+
+================================================================================
+
+Classification Report for category_tnk_26 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.93      0.93      0.93       108
+           1       0.92      0.92      0.92       108
+           2       0.93      0.93      0.93       109
+
+    accuracy                           0.92       325
+   macro avg       0.92      0.92      0.92       325
+weighted avg       0.92      0.92      0.92       325
+
+Classification Report for category_tnk_26 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.43      0.56      0.48        27
+           1       0.43      0.33      0.38        27
+           2       0.50      0.46      0.48        28
+
+    accuracy                           0.45        82
+   macro avg       0.45      0.45      0.45        82
+weighted avg       0.45      0.45      0.45        82
+
+Classification Report for category_tnk_26 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.27      0.20      0.23        15
+           1       0.22      0.14      0.17        14
+           2       0.23      0.38      0.29        13
+
+    accuracy                           0.24        42
+   macro avg       0.24      0.24      0.23        42
+weighted avg       0.24      0.24      0.23        42
+
+
+================================================================================
+
+Classification Report for category_tnk_29 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.93      0.91      0.92       104
+           1       0.92      0.96      0.94       112
+           2       0.96      0.94      0.95       109
+
+    accuracy                           0.94       325
+   macro avg       0.94      0.94      0.94       325
+weighted avg       0.94      0.94      0.94       325
+
+Classification Report for category_tnk_29 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.58      0.54      0.56        26
+           1       0.41      0.41      0.41        29
+           2       0.52      0.56      0.54        27
+
+    accuracy                           0.50        82
+   macro avg       0.50      0.50      0.50        82
+weighted avg       0.50      0.50      0.50        82
+
+Classification Report for category_tnk_29 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.30      0.15      0.20        20
+           1       0.20      0.38      0.26         8
+           2       0.35      0.43      0.39        14
+
+    accuracy                           0.29        42
+   macro avg       0.28      0.32      0.28        42
+weighted avg       0.30      0.29      0.27        42
+
+
+================================================================================
+
+Classification Report for category_tnk_32 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.80      0.81      0.81       108
+           1       0.73      0.64      0.68       107
+           2       0.71      0.79      0.75       110
+
+    accuracy                           0.75       325
+   macro avg       0.75      0.75      0.75       325
+weighted avg       0.75      0.75      0.75       325
+
+Classification Report for category_tnk_32 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.45      0.56      0.50        27
+           1       0.37      0.26      0.30        27
+           2       0.40      0.43      0.41        28
+
+    accuracy                           0.41        82
+   macro avg       0.41      0.41      0.41        82
+weighted avg       0.41      0.41      0.41        82
+
+Classification Report for category_tnk_32 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.43      0.40      0.41        15
+           1       0.25      0.20      0.22        15
+           2       0.12      0.17      0.14        12
+
+    accuracy                           0.26        42
+   macro avg       0.27      0.26      0.26        42
+weighted avg       0.28      0.26      0.27        42
+
+
+================================================================================
+
+Classification Report for category_tnk_33 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.94      0.93      0.94       105
+           1       0.93      0.96      0.94       112
+           2       0.95      0.94      0.94       108
+
+    accuracy                           0.94       325
+   macro avg       0.94      0.94      0.94       325
+weighted avg       0.94      0.94      0.94       325
+
+Classification Report for category_tnk_33 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.48      0.48      0.48        27
+           1       0.33      0.43      0.38        28
+           2       0.42      0.30      0.35        27
+
+    accuracy                           0.40        82
+   macro avg       0.41      0.40      0.40        82
+weighted avg       0.41      0.40      0.40        82
+
+Classification Report for category_tnk_33 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.56      0.28      0.37        18
+           1       0.21      0.33      0.26         9
+           2       0.32      0.40      0.35        15
+
+    accuracy                           0.33        42
+   macro avg       0.36      0.34      0.33        42
+weighted avg       0.40      0.33      0.34        42
+
+
+================================================================================
+
+Classification Report for category_tnk_35 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.95      0.94      0.94       108
+           1       0.94      0.97      0.95       108
+           2       0.96      0.94      0.95       109
+
+    accuracy                           0.95       325
+   macro avg       0.95      0.95      0.95       325
+weighted avg       0.95      0.95      0.95       325
+
+Classification Report for category_tnk_35 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.59      0.74      0.66        27
+           1       0.44      0.41      0.42        27
+           2       0.52      0.43      0.47        28
+
+    accuracy                           0.52        82
+   macro avg       0.52      0.53      0.52        82
+weighted avg       0.52      0.52      0.52        82
+
+Classification Report for category_tnk_35 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.36      0.33      0.34        15
+           1       0.40      0.43      0.41        14
+           2       0.23      0.23      0.23        13
+
+    accuracy                           0.33        42
+   macro avg       0.33      0.33      0.33        42
+weighted avg       0.33      0.33      0.33        42
+
+
+================================================================================
+
+Classification Report for category_tnk_38 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.94      0.92      0.93       107
+           1       0.91      0.87      0.89       109
+           2       0.89      0.95      0.92       109
+
+    accuracy                           0.91       325
+   macro avg       0.91      0.91      0.91       325
+weighted avg       0.91      0.91      0.91       325
+
+Classification Report for category_tnk_38 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.50      0.52      0.51        27
+           1       0.46      0.48      0.47        27
+           2       0.42      0.39      0.41        28
+
+    accuracy                           0.46        82
+   macro avg       0.46      0.46      0.46        82
+weighted avg       0.46      0.46      0.46        82
+
+Classification Report for category_tnk_38 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.33      0.25      0.29        16
+           1       0.09      0.08      0.08        13
+           2       0.21      0.31      0.25        13
+
+    accuracy                           0.21        42
+   macro avg       0.21      0.21      0.21        42
+weighted avg       0.22      0.21      0.21        42
+
+
+================================================================================
+
+Classification Report for category_tnk_41 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.95      0.93      0.94       106
+           1       0.94      0.98      0.96       109
+           2       0.98      0.95      0.97       110
+
+    accuracy                           0.96       325
+   macro avg       0.96      0.96      0.96       325
+weighted avg       0.96      0.96      0.96       325
+
+Classification Report for category_tnk_41 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.45      0.65      0.53        26
+           1       0.39      0.25      0.30        28
+           2       0.42      0.39      0.41        28
+
+    accuracy                           0.43        82
+   macro avg       0.42      0.43      0.41        82
+weighted avg       0.42      0.43      0.41        82
+
+Classification Report for category_tnk_41 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.50      0.44      0.47        18
+           1       0.00      0.00      0.00        12
+           2       0.23      0.25      0.24        12
+
+    accuracy                           0.26        42
+   macro avg       0.24      0.23      0.24        42
+weighted avg       0.28      0.26      0.27        42
+
+
+================================================================================
+
+Classification Report for category_tnk_42 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.79      0.79      0.79       106
+           1       0.76      0.67      0.71       109
+           2       0.75      0.84      0.79       110
+
+    accuracy                           0.77       325
+   macro avg       0.77      0.77      0.76       325
+weighted avg       0.77      0.77      0.76       325
+
+Classification Report for category_tnk_42 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.53      0.74      0.62        27
+           1       0.42      0.30      0.35        27
+           2       0.48      0.43      0.45        28
+
+    accuracy                           0.49        82
+   macro avg       0.48      0.49      0.47        82
+weighted avg       0.48      0.49      0.47        82
+
+Classification Report for category_tnk_42 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.79      0.65      0.71        17
+           1       0.42      0.38      0.40        13
+           2       0.38      0.50      0.43        12
+
+    accuracy                           0.52        42
+   macro avg       0.53      0.51      0.51        42
+weighted avg       0.55      0.52      0.53        42
+
+
+================================================================================
+
+Classification Report for category_tnk_44 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.79      0.70      0.74       109
+           1       0.64      0.75      0.69       110
+           2       0.70      0.67      0.69       106
+
+    accuracy                           0.70       325
+   macro avg       0.71      0.70      0.71       325
+weighted avg       0.71      0.70      0.71       325
+
+Classification Report for category_tnk_44 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.39      0.43      0.41        28
+           1       0.38      0.41      0.39        27
+           2       0.45      0.37      0.41        27
+
+    accuracy                           0.40        82
+   macro avg       0.41      0.40      0.40        82
+weighted avg       0.41      0.40      0.40        82
+
+Classification Report for category_tnk_44 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.15      0.23      0.18        13
+           1       0.18      0.17      0.17        12
+           2       0.64      0.41      0.50        17
+
+    accuracy                           0.29        42
+   macro avg       0.32      0.27      0.29        42
+weighted avg       0.36      0.29      0.31        42
+
+
+================================================================================
+
+Classification Report for category_tnk_50 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.95      0.95      0.95       106
+           1       0.93      0.94      0.93       109
+           2       0.96      0.95      0.96       110
+
+    accuracy                           0.95       325
+   macro avg       0.95      0.95      0.95       325
+weighted avg       0.95      0.95      0.95       325
+
+Classification Report for category_tnk_50 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.47      0.56      0.51        27
+           1       0.40      0.43      0.41        28
+           2       0.35      0.26      0.30        27
+
+    accuracy                           0.41        82
+   macro avg       0.41      0.41      0.41        82
+weighted avg       0.41      0.41      0.41        82
+
+Classification Report for category_tnk_50 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.41      0.41      0.41        17
+           1       0.15      0.15      0.15        13
+           2       0.25      0.25      0.25        12
+
+    accuracy                           0.29        42
+   macro avg       0.27      0.27      0.27        42
+weighted avg       0.29      0.29      0.29        42
+
+
+================================================================================
+
+Classification Report for category_tnk_51 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.84      0.83      0.84       105
+           1       0.76      0.83      0.80       109
+           2       0.88      0.82      0.85       111
+
+    accuracy                           0.83       325
+   macro avg       0.83      0.83      0.83       325
+weighted avg       0.83      0.83      0.83       325
+
+Classification Report for category_tnk_51 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.59      0.63      0.61        27
+           1       0.48      0.59      0.53        27
+           2       0.80      0.57      0.67        28
+
+    accuracy                           0.60        82
+   macro avg       0.62      0.60      0.60        82
+weighted avg       0.63      0.60      0.60        82
+
+Classification Report for category_tnk_51 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.50      0.44      0.47        18
+           1       0.23      0.23      0.23        13
+           2       0.15      0.18      0.17        11
+
+    accuracy                           0.31        42
+   macro avg       0.29      0.29      0.29        42
+weighted avg       0.33      0.31      0.32        42
+
+
+================================================================================
+
+Classification Report for category_tnk_52 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.98      0.95      0.97       105
+           1       0.96      0.96      0.96       112
+           2       0.94      0.96      0.95       108
+
+    accuracy                           0.96       325
+   macro avg       0.96      0.96      0.96       325
+weighted avg       0.96      0.96      0.96       325
+
+Classification Report for category_tnk_52 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.46      0.50      0.48        26
+           1       0.37      0.36      0.36        28
+           2       0.37      0.36      0.36        28
+
+    accuracy                           0.40        82
+   macro avg       0.40      0.40      0.40        82
+weighted avg       0.40      0.40      0.40        82
+
+Classification Report for category_tnk_52 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.50      0.30      0.38        20
+           1       0.22      0.50      0.31         8
+           2       0.33      0.29      0.31        14
+
+    accuracy                           0.33        42
+   macro avg       0.35      0.36      0.33        42
+weighted avg       0.39      0.33      0.34        42
+
+
+================================================================================
+
+Classification Report for category_tnk_56 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.69      0.76      0.72       105
+           1       0.72      0.67      0.70       109
+           2       0.72      0.70      0.71       111
+
+    accuracy                           0.71       325
+   macro avg       0.71      0.71      0.71       325
+weighted avg       0.71      0.71      0.71       325
+
+Classification Report for category_tnk_56 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.43      0.56      0.48        27
+           1       0.27      0.22      0.24        27
+           2       0.56      0.50      0.53        28
+
+    accuracy                           0.43        82
+   macro avg       0.42      0.43      0.42        82
+weighted avg       0.42      0.43      0.42        82
+
+Classification Report for category_tnk_56 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.50      0.39      0.44        18
+           1       0.50      0.46      0.48        13
+           2       0.38      0.55      0.44        11
+
+    accuracy                           0.45        42
+   macro avg       0.46      0.47      0.45        42
+weighted avg       0.47      0.45      0.45        42
+
+
+================================================================================
+
+Classification Report for category_tnk_57 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.66      0.80      0.72       110
+           1       0.65      0.62      0.64       109
+           2       0.75      0.61      0.67       106
+
+    accuracy                           0.68       325
+   macro avg       0.69      0.68      0.68       325
+weighted avg       0.68      0.68      0.68       325
+
+Classification Report for category_tnk_57 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.38      0.36      0.37        28
+           1       0.34      0.41      0.37        27
+           2       0.33      0.30      0.31        27
+
+    accuracy                           0.35        82
+   macro avg       0.35      0.35      0.35        82
+weighted avg       0.35      0.35      0.35        82
+
+Classification Report for category_tnk_57 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.27      0.33      0.30        12
+           1       0.46      0.46      0.46        13
+           2       0.64      0.53      0.58        17
+
+    accuracy                           0.45        42
+   macro avg       0.46      0.44      0.45        42
+weighted avg       0.48      0.45      0.46        42
+
+
+================================================================================
+
+Classification Report for category_tnk_66 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.98       102
+           1       0.97      0.97      0.97       113
+           2       0.99      0.98      0.99       110
+
+    accuracy                           0.98       325
+   macro avg       0.98      0.98      0.98       325
+weighted avg       0.98      0.98      0.98       325
+
+Classification Report for category_tnk_66 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.54      0.54      0.54        26
+           1       0.50      0.50      0.50        28
+           2       0.54      0.54      0.54        28
+
+    accuracy                           0.52        82
+   macro avg       0.52      0.52      0.52        82
+weighted avg       0.52      0.52      0.52        82
+
+Classification Report for category_tnk_66 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.75      0.41      0.53        22
+           1       0.22      0.50      0.31         8
+           2       0.33      0.33      0.33        12
+
+    accuracy                           0.40        42
+   macro avg       0.44      0.41      0.39        42
+weighted avg       0.53      0.40      0.43        42
+
+
+================================================================================
+
+Classification Report for category_tnk_67 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.85      0.83      0.84       106
+           1       0.86      0.82      0.84       109
+           2       0.82      0.88      0.85       110
+
+    accuracy                           0.84       325
+   macro avg       0.84      0.84      0.84       325
+weighted avg       0.84      0.84      0.84       325
+
+Classification Report for category_tnk_67 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.54      0.58      0.56        26
+           1       0.32      0.32      0.32        28
+           2       0.42      0.39      0.41        28
+
+    accuracy                           0.43        82
+   macro avg       0.43      0.43      0.43        82
+weighted avg       0.42      0.43      0.43        82
+
+Classification Report for category_tnk_67 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.36      0.28      0.31        18
+           1       0.00      0.00      0.00        12
+           2       0.28      0.42      0.33        12
+
+    accuracy                           0.24        42
+   macro avg       0.21      0.23      0.22        42
+weighted avg       0.23      0.24      0.23        42
+
+
+================================================================================
+
+Classification Report for category_b_1 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.94      0.90      0.92       105
+           1       0.87      0.94      0.90       112
+           2       0.92      0.89      0.91       108
+
+    accuracy                           0.91       325
+   macro avg       0.91      0.91      0.91       325
+weighted avg       0.91      0.91      0.91       325
+
+Classification Report for category_b_1 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.52      0.62      0.56        26
+           1       0.35      0.28      0.31        29
+           2       0.50      0.52      0.51        27
+
+    accuracy                           0.46        82
+   macro avg       0.45      0.47      0.46        82
+weighted avg       0.45      0.46      0.45        82
+
+Classification Report for category_b_1 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.57      0.42      0.48        19
+           1       0.07      0.12      0.09         8
+           2       0.23      0.20      0.21        15
+
+    accuracy                           0.29        42
+   macro avg       0.29      0.25      0.26        42
+weighted avg       0.35      0.29      0.31        42
+
+
+================================================================================
+
+Classification Report for category_b_2 (Train Set):
+              precision    recall  f1-score   support
+
+           0       0.80      0.72      0.76       108
+           1       0.71      0.83      0.77       112
+           2       0.82      0.76      0.79       105
+
+    accuracy                           0.77       325
+   macro avg       0.78      0.77      0.77       325
+weighted avg       0.78      0.77      0.77       325
+
+Classification Report for category_b_2 (Test Set):
+              precision    recall  f1-score   support
+
+           0       0.46      0.44      0.45        27
+           1       0.49      0.64      0.55        28
+           2       0.47      0.33      0.39        27
+
+    accuracy                           0.48        82
+   macro avg       0.47      0.47      0.47        82
+weighted avg       0.47      0.48      0.47        82
+
+Classification Report for category_b_2 (Unseen Test Set):
+              precision    recall  f1-score   support
+
+           0       0.54      0.47      0.50        15
+           1       0.08      0.11      0.09         9
+           2       0.38      0.33      0.35        18
+
+    accuracy                           0.33        42
+   macro avg       0.33      0.30      0.31        42
+weighted avg       0.37      0.33      0.35        42
+
+
+================================================================================
+
